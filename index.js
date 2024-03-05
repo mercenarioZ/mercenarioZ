@@ -11,7 +11,7 @@ const run = async () => {
 
   fs.writeFileSync(
     "README.md",
-    `## Random Anime\n\n**Title:** ${title}\n**English Title:** ${englishTitle}\n**Score:** ${score}\n**Episodes:** ${episodeCount}\n**Rating:** ${rating}\n**URL:** [${title}](${url})`
+    `## Random Anime\n\n**Title:** ${title}\n\n**English Title:** ${englishTitle}\n\n**Score:** ${score}\n\n**Episodes:** ${episodeCount}\n\n**Rating:** ${rating}\n\n**URL:** [${title}](${url})`
   );
 };
 
