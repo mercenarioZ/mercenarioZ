@@ -1,13 +1,13 @@
 ## Random Anime
 
-**Title:** Aoki Densetsu Shoot!
+**Title:** Meitantei Conan Movie 11: Konpeki no Jolly Roger
 
-**English Title:** Blue Legend Shoot!
+**English Title:** Detective Conan Movie 11: Jolly Roger in the Deep Azure
 
-**Score:** 7.42/10
+**Score:** 7.43/10
 
-**Episodes:** 58
+**Episodes:** 1
 
 **Rating:** PG-13 - Teens 13 or older
 
-**URL:** [Aoki Densetsu Shoot!](https://myanimelist.net/anime/1327/Aoki_Densetsu_Shoot)
+**URL:** [Meitantei Conan Movie 11: Konpeki no Jolly Roger](https://myanimelist.net/anime/2171/Meitantei_Conan_Movie_11__Konpeki_no_Jolly_Roger)
