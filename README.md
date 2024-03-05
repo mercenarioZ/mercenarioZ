@@ -1,5 +1,5 @@
 # Quote of the day
 
-_**“**_
+_**“...I will not allow books to prove any thing."**_
 
-Terri Windling
+Jane Austen
