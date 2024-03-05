@@ -1,13 +1,13 @@
 ## Random Anime
 
-**Title:** Aoki Densetsu Shoot!
+**Title:** Xing Yu Siwan Nian
 
-**English Title:** Blue Legend Shoot!
+**English Title:** Forty Millenniums of Cultivation
 
-**Score:** 7.42/10
+**Score:** 7.41/10
 
-**Episodes:** 58
+**Episodes:** 16
 
 **Rating:** PG-13 - Teens 13 or older
 
-**URL:** [Aoki Densetsu Shoot!](https://myanimelist.net/anime/1327/Aoki_Densetsu_Shoot)
+**URL:** [Xing Yu Siwan Nian](https://myanimelist.net/anime/51390/Xing_Yu_Siwan_Nian)
