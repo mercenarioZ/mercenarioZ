@@ -1,13 +1,13 @@
 ## Random Anime
 
-**Title:** Planetarian: Chiisana Hoshi no Yume
+**Title:** I'm Your Treasure Box: Anata wa Marine Senchou wo Takarabako kara Mitsuketa.
 
-**English Title:** Planetarian: The Reverie of a Little Planet
+**English Title:** null
 
-**Score:** 7.56/10
+**Score:** 7.76/10
 
-**Episodes:** 5
+**Episodes:** 1
 
 **Rating:** PG-13 - Teens 13 or older
 
-**URL:** [Planetarian: Chiisana Hoshi no Yume](https://myanimelist.net/anime/33091/Planetarian__Chiisana_Hoshi_no_Yume)
+**URL:** [I'm Your Treasure Box: Anata wa Marine Senchou wo Takarabako kara Mitsuketa.](https://myanimelist.net/anime/52575/Im_Your_Treasure_Box__Anata_wa_Marine_Senchou_wo_Takarabako_kara_Mitsuketa)
