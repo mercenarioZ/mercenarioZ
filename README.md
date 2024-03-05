@@ -1,5 +1,5 @@
 # Quote of the day
 
-_**“I love to lose myself in other men's minds.... Books think for me.”**_
+_**“When a goat likes a book, the whole book is gone,**_
 
-Charles Lamb
+William Stafford
