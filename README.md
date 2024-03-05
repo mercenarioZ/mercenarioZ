@@ -1,13 +1,13 @@
 ## Random Anime
 
-**Title:** Mayo Chiki!
+**Title:** Aoki Densetsu Shoot!
 
-**English Title:** Mayo Chiki!
+**English Title:** Blue Legend Shoot!
 
-**Score:** 7.22
+**Score:** 7.42/10
 
-**Episodes:** 13
+**Episodes:** 58
 
-**Rating:** R+ - Mild Nudity
+**Rating:** PG-13 - Teens 13 or older
 
-**URL:** [Mayo Chiki!](https://myanimelist.net/anime/10110/Mayo_Chiki)
+**URL:** [Aoki Densetsu Shoot!](https://myanimelist.net/anime/1327/Aoki_Densetsu_Shoot)
