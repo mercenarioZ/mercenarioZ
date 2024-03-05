@@ -1,5 +1,5 @@
-import fs from "fs";
 import { getHighRateAnime } from "./actions/getHighRateAnime.js";
+import { writeFileForAnime } from "./actions/writeFileForAnime.js";
 
 const run = async () => {
   const { title, englishTitle, score, episodeCount, rating, url } =
@@ -11,10 +11,7 @@ const run = async () => {
 
   const formattedScore = `${score}/10`
 
-  fs.writeFileSync(
-    "README.md",
-    `## Random Anime\n\n**Title:** ${title}\n\n**English Title:** ${englishTitle}\n\n**Score:** ${formattedScore}\n\n**Episodes:** ${episodeCount}\n\n**Rating:** ${rating}\n\n**URL:** [${title}](${url})`
-  );
+  writeFileForAnime({ title, englishTitle, score: formattedScore, episodeCount, rating, url })
 };
 
 run();
