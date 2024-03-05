@@ -1,5 +1,5 @@
 # Quote of the day
 
-_**“Experience is the best teacher.”**_
+_**“Sometimes I think books are the only friends worth having.”**_
 
-Penelope Douglas
+Susie Derkins
