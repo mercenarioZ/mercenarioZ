@@ -1,13 +1,13 @@
 ## Random Anime
 
-**Title:** Meitantei Conan Movie 11: Konpeki no Jolly Roger
+**Title:** Planetarian: Chiisana Hoshi no Yume
 
-**English Title:** Detective Conan Movie 11: Jolly Roger in the Deep Azure
+**English Title:** Planetarian: The Reverie of a Little Planet
 
-**Score:** 7.43/10
+**Score:** 7.56/10
 
-**Episodes:** 1
+**Episodes:** 5
 
 **Rating:** PG-13 - Teens 13 or older
 
-**URL:** [Meitantei Conan Movie 11: Konpeki no Jolly Roger](https://myanimelist.net/anime/2171/Meitantei_Conan_Movie_11__Konpeki_no_Jolly_Roger)
+**URL:** [Planetarian: Chiisana Hoshi no Yume](https://myanimelist.net/anime/33091/Planetarian__Chiisana_Hoshi_no_Yume)
