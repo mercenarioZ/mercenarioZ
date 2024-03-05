@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "gen": "node index.js"
+    "fetch": "node index.js"
   },
   "keywords": [],
   "author": "",

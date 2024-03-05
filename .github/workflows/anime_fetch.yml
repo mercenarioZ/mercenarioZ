@@ -1,9 +1,9 @@
-name: quote_gen_profile
+name: anime_fetch
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "*/20 * * * *"
 
 jobs:
   build:
@@ -15,8 +15,8 @@ jobs:
         with:
           node-version: 18
       - run: npm i
-      - name: Generate quote
-        run: npm run gen
+      - name: Fetch random high rated anime
+        run: npm run fetch
       - name: Update README.md
         run: |
           git config --global user.email "funnystar320@gmail.com"

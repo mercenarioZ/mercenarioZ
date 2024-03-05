@@ -1,29 +1,17 @@
-import axios from "axios";
 import fs from "fs";
-
-const getQuote = async () => {
-  try {
-    const { data } = await axios.get("https://api.hamatim.com/quote");
-
-    const { text, author } = data;
-
-    return { text, author };
-  } catch (error) {
-    console.log(error);
-    return {};
-  }
-};
+import { getHighRateAnime } from "./actions/getHighRateAnime.js";
 
 const run = async () => {
-  const { text, author } = await getQuote();
+  const { title, englishTitle, score, episodeCount, rating, url } =
+    await getHighRateAnime();
 
-  if (!text || !author) return;
+  if (!title || !score) return;
 
-  console.log({ text, author });
+  console.log({ title, englishTitle, score, episodeCount, rating, url });
 
   fs.writeFileSync(
     "README.md",
-    `# Quote of the day\n\n_**${text}**_\n\n${author}`
+    `## Random Anime\n\n**Title:** ${title}\n**English Title:** ${englishTitle}\n**Score:** ${score}\n**Episodes:** ${episodeCount}\n**Rating:** ${rating}\n**URL:** [${title}](${url})`
   );
 };
 
