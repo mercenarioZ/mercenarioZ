@@ -1,13 +1,13 @@
 ## Random Anime
 
-**Title:** Yowamushi Pedal: Re:Road
+**Title:** Mayo Chiki!
 
-**English Title:** null
+**English Title:** Mayo Chiki!
 
-**Score:** 7.43
+**Score:** 7.22
 
-**Episodes:** 1
+**Episodes:** 13
 
-**Rating:** PG-13 - Teens 13 or older
+**Rating:** R+ - Mild Nudity
 
-**URL:** [Yowamushi Pedal: Re:Road](https://myanimelist.net/anime/30790/Yowamushi_Pedal__Re_Road)
+**URL:** [Mayo Chiki!](https://myanimelist.net/anime/10110/Mayo_Chiki)
