@@ -1,0 +1,24 @@
+name: quote
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 16.15.1
+      - run: npm i
+      - name: Generate quote
+        run: npm run gen
+      - name: Update README.md
+        run: |
+          git add .
+          git commit -m "Updated README.md" || echo "No changes"
+          git push
