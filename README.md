@@ -1,15 +1,13 @@
 # Random Anime
 
-## This README is automatically updated every 8 hours using GitHub CI
+**Title:** Quanzhi Gaoshou 2
 
-**Title:** Meitantei Conan Movie 02: 14-banme no Target
-
-**English Title:** Case Closed Movie 02: The Fourteenth Target
+**English Title:** The King's Avatar 2
 
 **Score:** 7.88/10
 
-**Episodes:** 1
+**Episodes:** 12
 
 **Rating:** PG-13 - Teens 13 or older
 
-**URL:** [Meitantei Conan Movie 02: 14-banme no Target](https://myanimelist.net/anime/780/Meitantei_Conan_Movie_02__14-banme_no_Target)
+**URL:** [Quanzhi Gaoshou 2](https://myanimelist.net/anime/37932/Quanzhi_Gaoshou_2)
