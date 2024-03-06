@@ -1,13 +1,13 @@
 ## Random Anime
 
-**Title:** Shirobako
+**Title:** Motto To LOVE-Ru
 
-**English Title:** Shirobako
+**English Title:** Motto To LOVE Ru
 
-**Score:** 8.28/10
+**Score:** 7.27/10
 
-**Episodes:** 24
+**Episodes:** 12
 
-**Rating:** PG-13 - Teens 13 or older
+**Rating:** R+ - Mild Nudity
 
-**URL:** [Shirobako](https://myanimelist.net/anime/25835/Shirobako)
+**URL:** [Motto To LOVE-Ru](https://myanimelist.net/anime/9181/Motto_To_LOVE-Ru)
