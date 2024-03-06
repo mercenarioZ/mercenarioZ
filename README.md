@@ -1,13 +1,13 @@
 ## Random Anime
 
-**Title:** Konjiki no Gash Bell!!
+**Title:** Shirobako
 
-**English Title:** Zatch Bell!
+**English Title:** Shirobako
 
-**Score:** 7.54/10
+**Score:** 8.28/10
 
-**Episodes:** More than 100
+**Episodes:** 24
 
 **Rating:** PG-13 - Teens 13 or older
 
-**URL:** [Konjiki no Gash Bell!!](https://myanimelist.net/anime/250/Konjiki_no_Gash_Bell)
+**URL:** [Shirobako](https://myanimelist.net/anime/25835/Shirobako)
