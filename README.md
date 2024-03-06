@@ -1,13 +1,15 @@
-## Random Anime
+# Random Anime
 
-**Title:** Motto To LOVE-Ru
+## This README is automatically updated every 8 hours using GitHub CI
 
-**English Title:** Motto To LOVE Ru
+**Title:** Meitantei Conan Movie 02: 14-banme no Target
 
-**Score:** 7.27/10
+**English Title:** Case Closed Movie 02: The Fourteenth Target
 
-**Episodes:** 12
+**Score:** 7.88/10
 
-**Rating:** R+ - Mild Nudity
+**Episodes:** 1
 
-**URL:** [Motto To LOVE-Ru](https://myanimelist.net/anime/9181/Motto_To_LOVE-Ru)
+**Rating:** PG-13 - Teens 13 or older
+
+**URL:** [Meitantei Conan Movie 02: 14-banme no Target](https://myanimelist.net/anime/780/Meitantei_Conan_Movie_02__14-banme_no_Target)
