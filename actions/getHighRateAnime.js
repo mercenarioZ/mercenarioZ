@@ -20,11 +20,11 @@ export const getHighRateAnime = async () => {
       rating = data.data.rating;
       url = data.data.url;
     } catch (error) {
-      console.log("Something went wrong with the request");
+      // console.log("Something went wrong with the request");
       return {};
     }
-  } while (score <= 7.18);
-  console.log("High rated anime found!");
+  } while (score <= 7.48);
+  // console.log("High rated anime found!");
 
   return { title, englishTitle, score, episodeCount, rating, url };
 };
