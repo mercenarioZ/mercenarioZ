@@ -1,13 +1,13 @@
 ## Random Anime
 
-**Title:** Aoyama Goushou Tanpenshuu
+**Title:** Konjiki no Gash Bell!!
 
-**English Title:** Gosho Aoyama's Collection of Short Stories
+**English Title:** Zatch Bell!
 
-**Score:** 7.28/10
+**Score:** 7.54/10
 
-**Episodes:** 7
+**Episodes:** More than 100
 
 **Rating:** PG-13 - Teens 13 or older
 
-**URL:** [Aoyama Goushou Tanpenshuu](https://myanimelist.net/anime/5578/Aoyama_Goushou_Tanpenshuu)
+**URL:** [Konjiki no Gash Bell!!](https://myanimelist.net/anime/250/Konjiki_no_Gash_Bell)
