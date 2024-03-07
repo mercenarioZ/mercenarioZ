@@ -1,19 +1,19 @@
 # Random anime every 8 hours
 
-_**Title:**_ Shingeki no Kyojin: The Final Season
+_**Title:**_ Tengoku Daimakyou
 
-**English Title:** Attack on Titan: Final Season
+**English Title:** Heavenly Delusion
 
-_**Score:**_ 8.79/10
+_**Score:**_ 8.22/10
 
 **Type:** TV
 
-**Aired:** 2020
+**Aired:** 2023
 
-**Genres:** Action, Drama, Suspense
+**Genres:** Adventure, Mystery, Sci-Fi
 
-**Episodes:** 16
+**Episodes:** 13
 
 **Rating:** R - 17+ (violence & profanity)
 
-**More information:** [Shingeki no Kyojin: The Final Season](https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season)
+**More information:** [Tengoku Daimakyou](https://myanimelist.net/anime/53393/Tengoku_Daimakyou)
