@@ -59,7 +59,7 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Nguyen Vu <div class="hi">👋</div></h1>
+        <h1>Hi there, my name is Nguyen Vu <span class="hi">👋</span></h1>
       </div>
     </div>
   </foreignObject>
