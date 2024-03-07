@@ -12,7 +12,7 @@
 
 **Genres: Drama
 
-**Episodes:** 12
+**Episodes:** 1
 
 **Rating:** R - 17+ (violence & profanity)
 
