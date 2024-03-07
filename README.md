@@ -28,26 +28,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bungou Stray Dogs 4th Season
+  <strong>🥭 <u>Title:</u></strong> Nobunaga Concerto
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bungo Stray Dogs 4</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1263/132759.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/64519.jpg />
 
-<h4>🌱 Score: 8.45/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 10</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bungou Stray Dogs 4th Season](https://myanimelist.net/anime/50330/Bungou_Stray_Dogs_4th_Season)*
+🍂 *More information: [Nobunaga Concerto](https://myanimelist.net/anime/24135/Nobunaga_Concerto)*
     
