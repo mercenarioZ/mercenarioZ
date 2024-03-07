@@ -10,6 +10,7 @@ export const getHighRateAnime = async () => {
   let type = "";
   let startDate;
   let genres;
+  let imageSrc;
 
   do {
     try {
@@ -25,6 +26,7 @@ export const getHighRateAnime = async () => {
       type = data.data.type;
       startDate = data.data.aired.prop.from.year;
       genres = data.data.genres.map((genre) => genre.name).join(", ");
+      imageSrc = data.data.images.jpg.image_url;
     } catch (error) {
       // console.log("Something went wrong with the request");
       return {};
