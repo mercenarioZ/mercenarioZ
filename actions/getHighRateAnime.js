@@ -44,5 +44,6 @@ export const getHighRateAnime = async () => {
     type,
     startDate,
     genres,
+    imageSrc
   };
 };
