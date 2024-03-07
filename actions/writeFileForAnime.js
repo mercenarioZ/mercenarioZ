@@ -53,7 +53,9 @@ export const writeFileForAnime = (data) => {
 
 <h4>🍏 Rating: ${data.rating}</h4>
 
-<h4>🍂 More information: [${data.title}](${data.url})</h4>
+<br />
+
+🍂 *More information: [${data.title}](${data.url})*
     `
   );
 };

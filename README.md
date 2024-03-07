@@ -28,24 +28,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Natsu e no Tunnel, Sayonara no Deguchi
+  <strong>🥭 <u>Title:</u></strong> Steins;Gate: Oukoubakko no Poriomania
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Tunnel to Summer, the Exit of Goodbyes</h4>
+<h4>🌿 <u>English Title:</u> Steins;Gate: Egoistic Poriomania</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1462/125397.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1805/123188.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 8.29/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Drama, Mystery, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
-<h4>🍂 More information: [Natsu e no Tunnel, Sayonara no Deguchi](https://myanimelist.net/anime/50593/Natsu_e_no_Tunnel_Sayonara_no_Deguchi)</h4>
+<br />
+
+🍂 *More information: [Steins;Gate: Oukoubakko no Poriomania](https://myanimelist.net/anime/10863/Steins_Gate__Oukoubakko_no_Poriomania)*
     
