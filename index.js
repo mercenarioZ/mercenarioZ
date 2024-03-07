@@ -12,6 +12,7 @@ const run = async () => {
     type,
     startDate,
     genres,
+    imageSrc
   } = await getHighRateAnime();
 
   if (!title || !score) return;
@@ -26,6 +27,7 @@ const run = async () => {
     type,
     startDate,
     genres,
+    imageSrc
   });
 
   const formattedScore = `${score}/10`;
@@ -40,6 +42,7 @@ const run = async () => {
     type,
     startDate,
     genres,
+    imageSrc
   });
 };
 
