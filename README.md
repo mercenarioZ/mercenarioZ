@@ -50,4 +50,4 @@
 <br />
 
 🍂 *More information: [Steins;Gate: Oukoubakko no Poriomania](https://myanimelist.net/anime/10863/Steins_Gate__Oukoubakko_no_Poriomania)*
-    
+
