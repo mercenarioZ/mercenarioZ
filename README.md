@@ -1,19 +1,11 @@
-# Random anime every 8 hours
+<div class="container">
+  <h1>Hi there, my name is Nai <span class="hi">👋</span></h1>
+</div>
 
-_**Title:**_ Mob Psycho 100
-
-**English Title:** Mob Psycho 100
-
-_**Score:**_ 8.49/10
-
-**Type:** TV
-
-**Aired:** 2016
-
-**Genres:** Action, Comedy, Supernatural
-
-**Episodes:** 12
-
-**Rating:** PG-13 - Teens 13 or older
-
-**More information:** [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
+<style>
+  .hi {
+    animation: wave 2s infinite;
+    display: inline-block;
+    transform-origin: 70% 70%;
+  }
+</style>
