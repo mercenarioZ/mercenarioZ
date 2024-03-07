@@ -1,19 +1,19 @@
 # Random anime every 8 hours
 
-_**Title:**_ Mob Psycho 100
+_**Title:**_ Shingeki no Kyojin: The Final Season
 
-**English Title:** Mob Psycho 100
+**English Title:** Attack on Titan: Final Season
 
-_**Score:**_ 8.49/10
+_**Score:**_ 8.79/10
 
 **Type:** TV
 
-**Aired:** 2016
+**Aired:** 2020
 
-**Genres:** Action, Comedy, Supernatural
+**Genres:** Action, Drama, Suspense
 
-**Episodes:** 12
+**Episodes:** 16
 
-**Rating:** PG-13 - Teens 13 or older
+**Rating:** R - 17+ (violence & profanity)
 
-**More information:** [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
+**More information:** [Shingeki no Kyojin: The Final Season](https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season)
