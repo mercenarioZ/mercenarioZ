@@ -1,16 +1,16 @@
 # Random anime every 8 hours
 
-**Title:** Mob Psycho 100
+_**Title:**_ Mob Psycho 100
 
 **English Title:** Mob Psycho 100
 
-**Score:** 8.49/10
+_**Score:**_ 8.49/10
 
 **Type:** TV
 
-**Aired: 2016
+**Aired:** 2016
 
-**Genres: Action, Comedy, Supernatural
+**Genres:** Action, Comedy, Supernatural
 
 **Episodes:** 12
 
