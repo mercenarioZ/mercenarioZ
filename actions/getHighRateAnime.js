@@ -7,6 +7,9 @@ export const getHighRateAnime = async () => {
   let episodeCount;
   let rating = "";
   let url = "";
+  let type = "";
+  let startDate;
+  let genres;
 
   do {
     try {
@@ -19,6 +22,9 @@ export const getHighRateAnime = async () => {
         data.data.episodes > 100 ? "More than 100" : data.data.episodes;
       rating = data.data.rating;
       url = data.data.url;
+      type = data.data.type;
+      startDate = data.data.aired.prop.from.year;
+      genres = data.data.genres.map((genre) => genre.name).join(", ");
     } catch (error) {
       // console.log("Something went wrong with the request");
       return {};
@@ -26,5 +32,15 @@ export const getHighRateAnime = async () => {
   } while (score <= 7.48);
   // console.log("High rated anime found!");
 
-  return { title, englishTitle, score, episodeCount, rating, url };
+  return {
+    title,
+    englishTitle,
+    score,
+    episodeCount,
+    rating,
+    url,
+    type,
+    startDate,
+    genres,
+  };
 };

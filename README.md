@@ -1,13 +1,19 @@
-## Random Anime
+# Random anime every 8 hours
 
-**Title:** Motto To LOVE-Ru
+**Title:** Beastars 2nd Season
 
-**English Title:** Motto To LOVE Ru
+**English Title:** null
 
-**Score:** 7.27/10
+**Score:** 7.78/10
+
+**Type:** TV
+
+**Aired: 2021
+
+**Genres: Drama
 
 **Episodes:** 12
 
-**Rating:** R+ - Mild Nudity
+**Rating:** R - 17+ (violence & profanity)
 
-**URL:** [Motto To LOVE-Ru](https://myanimelist.net/anime/9181/Motto_To_LOVE-Ru)
+**More information:** [Beastars 2nd Season](https://myanimelist.net/anime/40935/Beastars_2nd_Season)
