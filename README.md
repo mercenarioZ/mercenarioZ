@@ -28,26 +28,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nobunaga Concerto
+  <strong>🥭 <u>Title:</u></strong> Ao Ashi
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Aoashi</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/6/64519.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1731/120871.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 8.19/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Nobunaga Concerto](https://myanimelist.net/anime/24135/Nobunaga_Concerto)*
+🍂 *More information: [Ao Ashi](https://myanimelist.net/anime/49052/Ao_Ashi)*
     
