@@ -28,26 +28,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ao Ashi
+  <strong>🥭 <u>Title:</u></strong> Little Witch Academia (TV)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Aoashi</h4>
+<h4>🌿 <u>English Title:</u> Little Witch Academia</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1731/120871.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/83934.jpg />
 
-<h4>🌱 Score: 8.19/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Ao Ashi](https://myanimelist.net/anime/49052/Ao_Ashi)*
+🍂 *More information: [Little Witch Academia (TV)](https://myanimelist.net/anime/33489/Little_Witch_Academia_TV)*
     
