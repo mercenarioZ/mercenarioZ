@@ -28,26 +28,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Magic Kaito 1412
+  <strong>🥭 <u>Title:</u></strong> One Punch Man Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> One Punch Man Specials</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/67807.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1452/97840.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 6</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Magic Kaito 1412](https://myanimelist.net/anime/25517/Magic_Kaito_1412)*
+🍂 *More information: [One Punch Man Specials](https://myanimelist.net/anime/31772/One_Punch_Man_Specials)*
     
