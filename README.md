@@ -28,26 +28,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Little Witch Academia (TV)
+  <strong>🥭 <u>Title:</u></strong> Magic Kaito 1412
 </h4>
 
-<h4>🌿 <u>English Title:</u> Little Witch Academia</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/13/83934.jpg />
+<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/3/67807.jpg />
 
-<h4>🌱 Score: 7.81/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Little Witch Academia (TV)](https://myanimelist.net/anime/33489/Little_Witch_Academia_TV)*
+🍂 *More information: [Magic Kaito 1412](https://myanimelist.net/anime/25517/Magic_Kaito_1412)*
     
