@@ -34,8 +34,6 @@
           height: 300px;
 
           display: flex;
-          flex-direction: column;
-          gap: 12px;
           justify-content: center;
           align-items: center;
           color: white;
@@ -61,7 +59,7 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Nguyen Vu <div class="hi">👋</div></h1>
+        <h1>Hi there, my name is Nguyen Vu <div class="obj">👋</div></h1>
       </div>
     </div>
   </foreignObject>
