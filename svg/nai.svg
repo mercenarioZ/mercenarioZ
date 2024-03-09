@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @keyframes hi {
+        @keyframes obj {
             0% { transform: rotate( 0.0deg) }
            10% { transform: rotate(14.0deg) }
            20% { transform: rotate(-8.0deg) }
@@ -40,11 +40,11 @@
           align-items: center;
           color: white;
 
-          font-family: -apple-system, BlinkMacSystemFont, "Hack Nerd Font", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          font-family: -apple-system, BlinkMacSystemFont, "JetBrainsMono Nerd Font", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
-        .hi {
-          animation: hi 1.5s linear -0.5s infinite;
+        .obj {
+          animation: obj 2s ease-in -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
         }
@@ -54,7 +54,7 @@
             animation: none;
           }
 
-          .hi {
+          .obj {
             animation: none;
           }
         }
