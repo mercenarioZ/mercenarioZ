@@ -1,10 +1,22 @@
 
 <img src="svg/nai.svg" />
 
+<br />
+
+<h3>Hello, my name is <strong>Le Ba Nguyen Vu</strong> - a web developer and a college student.</h3>
+
+- 🏫 I'm currently a student at **Ho Chi Minh City University of Technologies**
+- 👀 I'm currently learning **Web Development**
+- 📬 E-mail: `vunainguyen2002@gmail.com` `funnystar320@gmail.com`
+
+
+<h3>Socials</h3>
+<a target="_blank" href="https://instagram.com/vu.le1352"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+
 <p>
   <h2>Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel" />
+    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel&theme=light&perline=3" />
   </a>
 
   <br />
@@ -12,7 +24,7 @@
   <h2>Programming Languages</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php&theme=light&perline=3" />
   </a>
 </p>
 
@@ -28,26 +40,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bungou Stray Dogs 4th Season
+  <strong>🥭 <u>Title:</u></strong> Mitsume ga Tooru
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bungo Stray Dogs 4</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="165" src=https://cdn.myanimelist.net/images/anime/1263/132759.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1247/96686.jpg />
 
-<h4>🌱 Score: 8.45/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 1990</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Adventure</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 48</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Bungou Stray Dogs 4th Season](https://myanimelist.net/anime/50330/Bungou_Stray_Dogs_4th_Season)*
+🍂 *More information: [Mitsume ga Tooru](https://myanimelist.net/anime/5249/Mitsume_ga_Tooru)*
     

@@ -7,10 +7,22 @@ export const writeFileForAnime = (data) => {
     `
 <img src="svg/nai.svg" />
 
+<br />
+
+<h3>Hello, my name is <strong>Le Ba Nguyen Vu</strong> - a web developer and a college student.</h3>
+
+- 🏫 I'm currently a student at **Ho Chi Minh City University of Technologies**
+- 👀 I'm currently learning **Web Development**
+- 📬 E-mail: \`vunainguyen2002@gmail.com\` \`funnystar320@gmail.com\`
+
+
+<h3>Socials</h3>
+<a target="_blank" href="https://instagram.com/vu.le1352"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+
 <p>
   <h2>Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel" />
+    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel&theme=light&perline=3" />
   </a>
 
   <br />
@@ -18,7 +30,7 @@ export const writeFileForAnime = (data) => {
   <h2>Programming Languages</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php&theme=light&perline=3" />
   </a>
 </p>
 
@@ -39,7 +51,7 @@ export const writeFileForAnime = (data) => {
 
 <h4>🌿 <u>English Title:</u> ${data.englishTitle}</h4>
 
-<img align="right" width="165" src=${data.imageSrc} />
+<img align="right" width="170" src=${data.imageSrc} />
 
 <h4>🌱 Score: ${data.score}</h4>
 

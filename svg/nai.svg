@@ -34,11 +34,13 @@
           height: 300px;
 
           display: flex;
+          flex-direction: column;
+          gap: 12px;
           justify-content: center;
           align-items: center;
           color: white;
 
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          font-family: -apple-system, BlinkMacSystemFont, "Hack Nerd Font", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
         .hi {
@@ -59,7 +61,7 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is <span class="name">Nguyen Vu</span> <div class="hi">👋</div></h1>
+        <h1>Hi there, my name is Nguyen Vu <div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
