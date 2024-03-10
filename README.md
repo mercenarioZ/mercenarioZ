@@ -40,26 +40,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mitsume ga Tooru
+  <strong>🥭 <u>Title:</u></strong> Bleach
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Bleach</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1247/96686.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/40451.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.94/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1990</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Adventure</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 48</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mitsume ga Tooru](https://myanimelist.net/anime/5249/Mitsume_ga_Tooru)*
+🍂 *More information: [Bleach](https://myanimelist.net/anime/269/Bleach)*
     
