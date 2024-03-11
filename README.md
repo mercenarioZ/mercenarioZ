@@ -40,26 +40,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Irozuku Sekai no Ashita kara
+  <strong>🥭 <u>Title:</u></strong> R.O.D: Read or Die
 </h4>
 
-<h4>🌿 <u>English Title:</u> Iroduku: The World in Colors</h4>
+<h4>🌿 <u>English Title:</u> R.O.D - Read or Die</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1424/93855.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1824/98849.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Mystery, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 3</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Irozuku Sekai no Ashita kara](https://myanimelist.net/anime/37497/Irozuku_Sekai_no_Ashita_kara)*
+🍂 *More information: [R.O.D: Read or Die](https://myanimelist.net/anime/208/ROD__Read_or_Die)*
     
