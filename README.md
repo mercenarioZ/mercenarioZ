@@ -40,26 +40,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Psycho-Pass 3: First Inspector
+  <strong>🥭 <u>Title:</u></strong> Mairimashita! Iruma-kun
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Welcome to Demon School! Iruma-kun</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1085/110722.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1009/103187.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Mystery, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 23</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Psycho-Pass 3: First Inspector](https://myanimelist.net/anime/40858/Psycho-Pass_3__First_Inspector)*
+🍂 *More information: [Mairimashita! Iruma-kun](https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun)*
     
