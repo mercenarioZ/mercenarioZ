@@ -16,7 +16,7 @@
 <p>
   <h2>Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel&theme=dark&perline=3" />
   </a>
 
   <br />
@@ -24,7 +24,7 @@
   <h2>Programming Languages</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php&theme=dark&perline=3" />
   </a>
 </p>
 
@@ -35,31 +35,31 @@
 
 <blockquote>
 <i>
-<q>These information about a random anime will be automatically updated every 8 hours. Enjoy!</q> - GitHub Actions
+<q>These information about a random anime will be automatically updated every 8 hours. Hope you enjoy!</q> - GitHub Actions
 </i>
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba
+  <strong>🥭 <u>Title:</u></strong> Idol Land PriPara
 </h4>
 
-<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1286/99889.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1790/113555.jpg />
 
-<h4>🌱 Score: 8.47/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Award Winning, Fantasy</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: null</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)*
+🍂 *More information: [Idol Land PriPara](https://myanimelist.net/anime/44376/Idol_Land_PriPara)*
     
