@@ -22,7 +22,7 @@ export const writeFileForAnime = (data) => {
 <p>
   <h2>Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel&theme=dark&perline=3" />
   </a>
 
   <br />
@@ -30,7 +30,7 @@ export const writeFileForAnime = (data) => {
   <h2>Programming Languages</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php&theme=dark&perline=3" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ export const writeFileForAnime = (data) => {
 
 <blockquote>
 <i>
-<q>These information about a random anime will be automatically updated every 8 hours. Enjoy!</q> - GitHub Actions
+<q>These information about a random anime will be automatically updated every 8 hours. Hope you enjoy!</q> - GitHub Actions
 </i>
 </blockquote>
 
