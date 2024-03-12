@@ -40,26 +40,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> R.O.D: Read or Die
+  <strong>🥭 <u>Title:</u></strong> Soukyuu no Fafner: Dead Aggressor - Exodus Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> R.O.D - Read or Die</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1824/98849.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/76538.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Adventure, Mystery, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [R.O.D: Read or Die](https://myanimelist.net/anime/208/ROD__Read_or_Die)*
+🍂 *More information: [Soukyuu no Fafner: Dead Aggressor - Exodus Part 2](https://myanimelist.net/anime/30549/Soukyuu_no_Fafner__Dead_Aggressor_-_Exodus_Part_2)*
     
