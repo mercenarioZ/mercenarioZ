@@ -40,26 +40,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Soukyuu no Fafner: Dead Aggressor - Exodus Part 2
+  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/76538.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1286/99889.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 8.47/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Award Winning, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Soukyuu no Fafner: Dead Aggressor - Exodus Part 2](https://myanimelist.net/anime/30549/Soukyuu_no_Fafner__Dead_Aggressor_-_Exodus_Part_2)*
+🍂 *More information: [Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)*
     
