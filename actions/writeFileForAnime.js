@@ -37,7 +37,6 @@ export const writeFileForAnime = (data) => {
 <br />
 
 <h2 align="center">There's always a good anime to watch every day 😀</h2>
-<h3><i>Good random anime</i></h3>
 
 <blockquote>
 <i>
