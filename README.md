@@ -31,7 +31,6 @@
 <br />
 
 <h2 align="center">There's always a good anime to watch every day 😀</h2>
-<h3><i>Good random anime</i></h3>
 
 <blockquote>
 <i>
@@ -40,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuzuki-san Chi no Yonkyoudai.
+  <strong>🥭 <u>Title:</u></strong> Tensei shitara Slime Datta Ken 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Yuzuki Family's Four Sons</h4>
+<h4>🌿 <u>English Title:</u> That Time I Got Reincarnated as a Slime Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1194/138253.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1271/109841.jpg />
 
-<h4>🌱 Score: 7.9/10</h4>
+<h4>🌱 Score: 8.38/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -61,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Yuzuki-san Chi no Yonkyoudai.](https://myanimelist.net/anime/55153/Yuzuki-san_Chi_no_Yonkyoudai)*
+🍂 *More information: [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season)*
     
