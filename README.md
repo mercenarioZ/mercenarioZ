@@ -40,26 +40,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hoshi wo Ou Kodomo
+  <strong>🥭 <u>Title:</u></strong> Yuzuki-san Chi no Yonkyoudai.
 </h4>
 
-<h4>🌿 <u>English Title:</u> Children Who Chase Lost Voices</h4>
+<h4>🌿 <u>English Title:</u> The Yuzuki Family's Four Sons</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1000/133740.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1194/138253.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hoshi wo Ou Kodomo](https://myanimelist.net/anime/9760/Hoshi_wo_Ou_Kodomo)*
+🍂 *More information: [Yuzuki-san Chi no Yonkyoudai.](https://myanimelist.net/anime/55153/Yuzuki-san_Chi_no_Yonkyoudai)*
     
