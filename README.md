@@ -40,26 +40,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Idol Land PriPara
+  <strong>🥭 <u>Title:</u></strong> Hoshi wo Ou Kodomo
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Children Who Chase Lost Voices</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1790/113555.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1000/133740.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Adventure, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Idol Land PriPara](https://myanimelist.net/anime/44376/Idol_Land_PriPara)*
+🍂 *More information: [Hoshi wo Ou Kodomo](https://myanimelist.net/anime/9760/Hoshi_wo_Ou_Kodomo)*
     
