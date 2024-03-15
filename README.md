@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi
+  <strong>🥭 <u>Title:</u></strong> Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece: Episode of Sabo - Bond of Three Brothers, A Miraculous Reunion and an Inherited Will</h4>
+<h4>🌿 <u>English Title:</u> Mob Psycho 100 II: The Spirits and Such Consultation Office's First Company Outing ~A Healing Trip That Warms the Heart~</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1373/106587.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1605/119301.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi](https://myanimelist.net/anime/31289/One_Piece__Episode_of_Sabo_-_3_Kyoudai_no_Kizuna_Kiseki_no_Saikai_to_Uketsugareru_Ishi)*
+🍂 *More information: [Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi](https://myanimelist.net/anime/39651/Mob_Psycho_100__Dai_Ikkai_Rei_toka_Soudansho_Ian_Ryokou_-_Kokoro_Mitasu_Iyashi_no_Tabi)*
     
