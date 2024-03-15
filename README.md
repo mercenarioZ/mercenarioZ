@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tamayura: Sotsugyou Shashin Part 3 - Akogare
+  <strong>🥭 <u>Title:</u></strong> One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> One Piece: Episode of Sabo - Bond of Three Brothers, A Miraculous Reunion and an Inherited Will</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/76022.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1373/106587.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV Special</h4>
 
 <h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tamayura: Sotsugyou Shashin Part 3 - Akogare](https://myanimelist.net/anime/29830/Tamayura__Sotsugyou_Shashin_Part_3_-_Akogare)*
+🍂 *More information: [One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi](https://myanimelist.net/anime/31289/One_Piece__Episode_of_Sabo_-_3_Kyoudai_no_Kizuna_Kiseki_no_Saikai_to_Uketsugareru_Ishi)*
     
