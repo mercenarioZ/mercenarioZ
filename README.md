@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
+  <strong>🥭 <u>Title:</u></strong> Tamayura: Sotsugyou Shashin Part 3 - Akogare
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kaguya-sama: Love is War</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1295/106551.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/76022.jpg />
 
-<h4>🌱 Score: 8.41/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)*
+🍂 *More information: [Tamayura: Sotsugyou Shashin Part 3 - Akogare](https://myanimelist.net/anime/29830/Tamayura__Sotsugyou_Shashin_Part_3_-_Akogare)*
     
