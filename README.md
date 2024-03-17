@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gintama: Dai Hanseikai
+  <strong>🥭 <u>Title:</u></strong> Kenpuu Denki Berserk
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Berserk</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1725/110927.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1384/119988.jpg />
 
-<h4>🌱 Score: 8.07/10</h4>
+<h4>🌱 Score: 8.58/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 1997</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Horror</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Gintama: Dai Hanseikai](https://myanimelist.net/anime/10643/Gintama__Dai_Hanseikai)*
+🍂 *More information: [Kenpuu Denki Berserk](https://myanimelist.net/anime/33/Kenpuu_Denki_Berserk)*
     
