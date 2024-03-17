@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan
+  <strong>🥭 <u>Title:</u></strong> Gintama: Dai Hanseikai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Shin Chan</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/59897.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1725/110927.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 8.07/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 1992</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Comedy, Ecchi</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Crayon Shin-chan](https://myanimelist.net/anime/966/Crayon_Shin-chan)*
+🍂 *More information: [Gintama: Dai Hanseikai](https://myanimelist.net/anime/10643/Gintama__Dai_Hanseikai)*
     
