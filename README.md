@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ani ni Tsukeru Kusuri wa Nai! 2
+  <strong>🥭 <u>Title:</u></strong> Uchuu Kyoudai
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Space Brothers</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1797/129201.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1290/135694.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 8.49/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2012</h4>
 
 <h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 99</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ani ni Tsukeru Kusuri wa Nai! 2](https://myanimelist.net/anime/37924/Ani_ni_Tsukeru_Kusuri_wa_Nai_2)*
+🍂 *More information: [Uchuu Kyoudai](https://myanimelist.net/anime/12431/Uchuu_Kyoudai)*
     
