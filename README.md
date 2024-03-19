@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Umibe no Étranger
+  <strong>🥭 <u>Title:</u></strong> Ame wo Matsu,
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Stranger by the Shore</h4>
+<h4>🌿 <u>English Title:</u> Waiting for Rain</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1668/108792.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1253/108539.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Music</h4>
 
 <h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Boys Love</h4>
+<h4>🌵 Genres: </h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Umibe no Étranger](https://myanimelist.net/anime/40615/Umibe_no_Étranger)*
+🍂 *More information: [Ame wo Matsu,](https://myanimelist.net/anime/42344/Ame_wo_Matsu)*
     
