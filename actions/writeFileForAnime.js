@@ -22,7 +22,7 @@ export const writeFileForAnime = (data) => {
 <p>
   <h2>Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel&theme=dark" />
   </a>
 
   <br />
@@ -30,7 +30,7 @@ export const writeFileForAnime = (data) => {
   <h2>Programming Languages</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php&theme=dark" />
   </a>
 </p>
 
