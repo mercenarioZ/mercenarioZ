@@ -16,7 +16,7 @@
 <p>
   <h2>Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel&theme=dark" />
   </a>
 
   <br />
@@ -24,7 +24,7 @@
   <h2>Programming Languages</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php&theme=dark" />
   </a>
 </p>
 
@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ame wo Matsu,
+  <strong>🥭 <u>Title:</u></strong> Tensei shitara Ken deshita
 </h4>
 
-<h4>🌿 <u>English Title:</u> Waiting for Rain</h4>
+<h4>🌿 <u>English Title:</u> Reincarnated as a Sword</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1253/108539.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1191/127909.jpg />
 
-<h4>🌱 Score: 7.78/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ame wo Matsu,](https://myanimelist.net/anime/42344/Ame_wo_Matsu)*
+🍂 *More information: [Tensei shitara Ken deshita](https://myanimelist.net/anime/49891/Tensei_shitara_Ken_deshita)*
     
