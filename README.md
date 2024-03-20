@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tensei shitara Ken deshita
+  <strong>🥭 <u>Title:</u></strong> Ijiranaide, Nagatoro-san 2nd Attack
 </h4>
 
-<h4>🌿 <u>English Title:</u> Reincarnated as a Sword</h4>
+<h4>🌿 <u>English Title:</u> Don't Toy with Me, Miss Nagatoro 2nd Attack</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1191/127909.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1902/129579.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Tensei shitara Ken deshita](https://myanimelist.net/anime/49891/Tensei_shitara_Ken_deshita)*
+🍂 *More information: [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime/50197/Ijiranaide_Nagatoro-san_2nd_Attack)*
     
