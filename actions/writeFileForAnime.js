@@ -17,7 +17,7 @@ export const writeFileForAnime = (data) => {
 
 
 <h3>Socials</h3>
-<a target="_blank" href="https://instagram.com/vu.le1352"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a target="_blank" href="https://instagram.com/vu.le1352"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 
 <p>
   <h2>Tools</h2>
