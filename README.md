@@ -39,18 +39,18 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ijiranaide, Nagatoro-san 2nd Attack
+  <strong>🥭 <u>Title:</u></strong> Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Don't Toy with Me, Miss Nagatoro 2nd Attack</h4>
+<h4>🌿 <u>English Title:</u> Kaguya-sama: Love is War Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1902/129579.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1764/106659.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 8.63/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2020</h4>
 
 <h4>🌵 Genres: Comedy</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Ijiranaide, Nagatoro-san 2nd Attack](https://myanimelist.net/anime/50197/Ijiranaide_Nagatoro-san_2nd_Attack)*
+🍂 *More information: [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen)*
     
