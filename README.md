@@ -11,7 +11,7 @@
 
 
 <h3>Socials</h3>
-<a target="_blank" href="https://instagram.com/vu.le1352"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a target="_blank" href="https://instagram.com/vu.le1352"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 
 <p>
   <h2>Tools</h2>
@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
+  <strong>🥭 <u>Title:</u></strong> Kamisama Hajimemashita◎
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kaguya-sama: Love is War Season 2</h4>
+<h4>🌿 <u>English Title:</u> Kamisama Kiss Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1764/106659.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/69187.jpg />
 
-<h4>🌱 Score: 8.63/10</h4>
+<h4>🌱 Score: 8.22/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Comedy, Fantasy, Romance</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen)*
+🍂 *More information: [Kamisama Hajimemashita◎](https://myanimelist.net/anime/25681/Kamisama_Hajimemashita◎)*
     
