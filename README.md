@@ -16,7 +16,7 @@
 <p>
   <h2>Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel,docker&theme=dark" />
   </a>
 
   <br />
@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Boku no Hero Academia 3rd Season
+  <strong>🥭 <u>Title:</u></strong> Tamayura: Sotsugyou Shashin Part 3 - Akogare
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Hero Academia Season 3</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1319/92084.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/76022.jpg />
 
-<h4>🌱 Score: 8.02/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Boku no Hero Academia 3rd Season](https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season)*
+🍂 *More information: [Tamayura: Sotsugyou Shashin Part 3 - Akogare](https://myanimelist.net/anime/29830/Tamayura__Sotsugyou_Shashin_Part_3_-_Akogare)*
     
