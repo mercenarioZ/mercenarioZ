@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Akage no Anne
+  <strong>🥭 <u>Title:</u></strong> Boku no Hero Academia 3rd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Anne of Green Gables</h4>
+<h4>🌿 <u>English Title:</u> My Hero Academia Season 3</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1365/115824.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1319/92084.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 8.02/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1979</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 50</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Akage no Anne](https://myanimelist.net/anime/283/Akage_no_Anne)*
+🍂 *More information: [Boku no Hero Academia 3rd Season](https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season)*
     
