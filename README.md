@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu
+  <strong>🥭 <u>Title:</u></strong> Akage no Anne
 </h4>
 
-<h4>🌿 <u>English Title:</u> Legend of the Galactic Heroes: Die Neue These - Collision</h4>
+<h4>🌿 <u>English Title:</u> Anne of Green Gables</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1859/118711.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1365/115824.jpg />
 
-<h4>🌱 Score: 8.3/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 1979</h4>
 
-<h4>🌵 Genres: Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 50</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu](https://myanimelist.net/anime/42886/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Gekitotsu)*
+🍂 *More information: [Akage no Anne](https://myanimelist.net/anime/283/Akage_no_Anne)*
     
