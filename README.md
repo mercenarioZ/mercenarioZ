@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shounen Onmyouji
+  <strong>🥭 <u>Title:</u></strong> Huangjin Tingyuan: Dongri Li de Xinnian Yuanwang
 </h4>
 
-<h4>🌿 <u>English Title:</u> Shonen Onmyoji</h4>
+<h4>🌿 <u>English Title:</u> Golden Courtyard: New Year Wishes in Winter</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1865/106109.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1830/134820.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shounen Onmyouji](https://myanimelist.net/anime/1557/Shounen_Onmyouji)*
+🍂 *More information: [Huangjin Tingyuan: Dongri Li de Xinnian Yuanwang](https://myanimelist.net/anime/54035/Huangjin_Tingyuan__Dongri_Li_de_Xinnian_Yuanwang)*
     
