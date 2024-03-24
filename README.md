@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Tekketsu no Orphans
+  <strong>🥭 <u>Title:</u></strong> Final Fantasy VII: Advent Children Complete
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: Iron-Blooded Orphans</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/75879.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1065/94641.jpg />
 
-<h4>🌱 Score: 8.05/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam: Tekketsu no Orphans](https://myanimelist.net/anime/31251/Kidou_Senshi_Gundam__Tekketsu_no_Orphans)*
+🍂 *More information: [Final Fantasy VII: Advent Children Complete](https://myanimelist.net/anime/2952/Final_Fantasy_VII__Advent_Children_Complete)*
     
