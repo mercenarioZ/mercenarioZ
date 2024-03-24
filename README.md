@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Final Fantasy VII: Advent Children Complete
+  <strong>🥭 <u>Title:</u></strong> Kami nomi zo Shiru Sekai: Megami-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The World God Only Knows: Goddesses</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1065/94641.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/51949.jpg />
 
-<h4>🌱 Score: 7.9/10</h4>
+<h4>🌱 Score: 7.99/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Final Fantasy VII: Advent Children Complete](https://myanimelist.net/anime/2952/Final_Fantasy_VII__Advent_Children_Complete)*
+🍂 *More information: [Kami nomi zo Shiru Sekai: Megami-hen](https://myanimelist.net/anime/16706/Kami_nomi_zo_Shiru_Sekai__Megami-hen)*
     
