@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kami nomi zo Shiru Sekai: Megami-hen
+  <strong>🥭 <u>Title:</u></strong> Niehime to Kemono no Ou
 </h4>
 
-<h4>🌿 <u>English Title:</u> The World God Only Knows: Goddesses</h4>
+<h4>🌿 <u>English Title:</u> Sacrificial Princess and the King of Beasts</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/51949.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1397/133339.jpg />
 
 <h4>🌱 Score: 7.99/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
+<h4>🌵 Genres: Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kami nomi zo Shiru Sekai: Megami-hen](https://myanimelist.net/anime/16706/Kami_nomi_zo_Shiru_Sekai__Megami-hen)*
+🍂 *More information: [Niehime to Kemono no Ou](https://myanimelist.net/anime/46422/Niehime_to_Kemono_no_Ou)*
     
