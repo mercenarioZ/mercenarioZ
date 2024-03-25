@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Niehime to Kemono no Ou
+  <strong>🥭 <u>Title:</u></strong> Hourou Musuko
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sacrificial Princess and the King of Beasts</h4>
+<h4>🌿 <u>English Title:</u> Wandering Son</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1397/133339.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/53945.jpg />
 
-<h4>🌱 Score: 7.99/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Fantasy, Romance</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Niehime to Kemono no Ou](https://myanimelist.net/anime/46422/Niehime_to_Kemono_no_Ou)*
+🍂 *More information: [Hourou Musuko](https://myanimelist.net/anime/8426/Hourou_Musuko)*
     
