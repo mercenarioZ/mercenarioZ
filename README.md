@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shin Tennis no Oujisama Specials
+  <strong>🥭 <u>Title:</u></strong> Darker than Black: Kuro no Keiyakusha
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Prince of Tennis II Specials</h4>
+<h4>🌿 <u>English Title:</u> Darker than Black</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/39891.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/19570.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 8.05/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Comedy, Sports</h4>
+<h4>🌵 Genres: Action, Mystery, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 7</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Shin Tennis no Oujisama Specials](https://myanimelist.net/anime/13245/Shin_Tennis_no_Oujisama_Specials)*
+🍂 *More information: [Darker than Black: Kuro no Keiyakusha](https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha)*
     
