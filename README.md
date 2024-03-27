@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Towa no Quon 6: Towa no Quon
+  <strong>🥭 <u>Title:</u></strong> Shin Tennis no Oujisama Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Towanoquon: Eternal Quon</h4>
+<h4>🌿 <u>English Title:</u> The Prince of Tennis II Specials</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/35131.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/39891.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 7</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Towa no Quon 6: Towa no Quon](https://myanimelist.net/anime/10717/Towa_no_Quon_6__Towa_no_Quon)*
+🍂 *More information: [Shin Tennis no Oujisama Specials](https://myanimelist.net/anime/13245/Shin_Tennis_no_Oujisama_Specials)*
     
