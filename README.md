@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gyakkyou Burai Kaiji: Ultimate Survivor
+  <strong>🥭 <u>Title:</u></strong> Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kaiji: Ultimate Survivor</h4>
+<h4>🌿 <u>English Title:</u> Ascendance of a Bookworm Season 3</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/80032.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1976/122302.jpg />
 
-<h4>🌱 Score: 8.27/10</h4>
+<h4>🌱 Score: 8.07/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Suspense</h4>
+<h4>🌵 Genres: Fantasy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 10</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gyakkyou Burai Kaiji: Ultimate Survivor](https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor)*
+🍂 *More information: [Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season](https://myanimelist.net/anime/42429/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen_3rd_Season)*
     
