@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong 2nd Season Specials
+  <strong>🥭 <u>Title:</u></strong> Jinrui wa Suitai Shimashita
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fights Break Sphere 2nd Season Specials: Song of Desert</h4>
+<h4>🌿 <u>English Title:</u> Humanity Has Declined</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1504/99979.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/50345.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Doupo Cangqiong 2nd Season Specials](https://myanimelist.net/anime/39178/Doupo_Cangqiong_2nd_Season_Specials)*
+🍂 *More information: [Jinrui wa Suitai Shimashita](https://myanimelist.net/anime/10357/Jinrui_wa_Suitai_Shimashita)*
     
