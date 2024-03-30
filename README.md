@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jinrui wa Suitai Shimashita
+  <strong>🥭 <u>Title:</u></strong> Hana yori Dango
 </h4>
 
-<h4>🌿 <u>English Title:</u> Humanity Has Declined</h4>
+<h4>🌿 <u>English Title:</u> Hana Yori Dango</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/50345.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/42871.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 1996</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 51</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Jinrui wa Suitai Shimashita](https://myanimelist.net/anime/10357/Jinrui_wa_Suitai_Shimashita)*
+🍂 *More information: [Hana yori Dango](https://myanimelist.net/anime/106/Hana_yori_Dango)*
     
