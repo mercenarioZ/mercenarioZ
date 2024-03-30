@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Poputepipikku 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Pop Team Epic Season 2</h4>
+<h4>🌿 <u>English Title:</u> Re:ZERO -Starting Life in Another World- The Frozen Bond: Manner Movie</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1237/128067.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1599/106827.jpg />
 
 <h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Fantasy</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Poputepipikku 2nd Season](https://myanimelist.net/anime/50663/Poputepipikku_2nd_Season)*
+🍂 *More information: [Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://myanimelist.net/anime/41590/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Hyouketsu_no_Kizuna_-_Manner_Movie)*
     
