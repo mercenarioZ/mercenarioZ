@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Magical★Taruruuto-kun
+  <strong>🥭 <u>Title:</u></strong> Serial Experiments Lain
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Serial Experiments Lain</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/17853.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1718/91550.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.09/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1990</h4>
+<h4>🌴 Aired: 1998</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy, Ecchi</h4>
+<h4>🌵 Genres: Avant Garde, Award Winning, Drama, Mystery, Sci-Fi, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 87</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Magical★Taruruuto-kun](https://myanimelist.net/anime/5274/Magical★Taruruuto-kun)*
+🍂 *More information: [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)*
     
