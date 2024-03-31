@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie
+  <strong>🥭 <u>Title:</u></strong> Magical★Taruruuto-kun
 </h4>
 
-<h4>🌿 <u>English Title:</u> Re:ZERO -Starting Life in Another World- The Frozen Bond: Manner Movie</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1599/106827.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/17853.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 1990</h4>
 
-<h4>🌵 Genres: Fantasy</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy, Ecchi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 87</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie](https://myanimelist.net/anime/41590/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Hyouketsu_no_Kizuna_-_Manner_Movie)*
+🍂 *More information: [Magical★Taruruuto-kun](https://myanimelist.net/anime/5274/Magical★Taruruuto-kun)*
     
