@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Serial Experiments Lain
+  <strong>🥭 <u>Title:</u></strong> Shoujo Kakumei Utena: Adolescence Mokushiroku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Serial Experiments Lain</h4>
+<h4>🌿 <u>English Title:</u> Revolutionary Girl Utena: The Adolescence of Utena</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1718/91550.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1268/107516.jpg />
 
-<h4>🌱 Score: 8.09/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1998</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Avant Garde, Award Winning, Drama, Mystery, Sci-Fi, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Avant Garde, Drama, Fantasy, Girls Love</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)*
+🍂 *More information: [Shoujo Kakumei Utena: Adolescence Mokushiroku](https://myanimelist.net/anime/441/Shoujo_Kakumei_Utena__Adolescence_Mokushiroku)*
     
