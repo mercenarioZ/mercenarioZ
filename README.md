@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Stand By Me Doraemon 2
+  <strong>🥭 <u>Title:</u></strong> Douluo Dalu 2nd Season
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1842/109657.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1538/93566.jpg />
 
-<h4>🌱 Score: 8.18/10</h4>
+<h4>🌱 Score: 8.12/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Stand By Me Doraemon 2](https://myanimelist.net/anime/40853/Stand_By_Me_Doraemon_2)*
+🍂 *More information: [Douluo Dalu 2nd Season](https://myanimelist.net/anime/37822/Douluo_Dalu_2nd_Season)*
     
