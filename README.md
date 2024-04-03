@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Urusei Yatsura 2: Beautiful Dreamer
+  <strong>🥭 <u>Title:</u></strong> Dragon Ball
 </h4>
 
-<h4>🌿 <u>English Title:</u> Urusei Yatsura Movie 2: Beautiful Dreamer</h4>
+<h4>🌿 <u>English Title:</u> Dragon Ball</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1999/98665.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1887/92364.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 7.97/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1984</h4>
+<h4>🌴 Aired: 1986</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Drama, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Urusei Yatsura 2: Beautiful Dreamer](https://myanimelist.net/anime/1921/Urusei_Yatsura_2__Beautiful_Dreamer)*
+🍂 *More information: [Dragon Ball](https://myanimelist.net/anime/223/Dragon_Ball)*
     
