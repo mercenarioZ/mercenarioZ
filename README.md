@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wolf's Rain
+  <strong>🥭 <u>Title:</u></strong> Macross
 </h4>
 
-<h4>🌿 <u>English Title:</u> Wolf's Rain</h4>
+<h4>🌿 <u>English Title:</u> Macross</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/59403.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1553/137717.jpg />
 
-<h4>🌱 Score: 7.8/10</h4>
+<h4>🌱 Score: 7.89/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 1982</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Mystery, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 36</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Wolf's Rain](https://myanimelist.net/anime/202/Wolfs_Rain)*
+🍂 *More information: [Macross](https://myanimelist.net/anime/1088/Macross)*
     
