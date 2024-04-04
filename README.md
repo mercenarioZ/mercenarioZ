@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dragon Ball
+  <strong>🥭 <u>Title:</u></strong> Dance Dance Danseur
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dragon Ball</h4>
+<h4>🌿 <u>English Title:</u> Dance Dance Danseur</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1887/92364.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1571/121381.jpg />
 
-<h4>🌱 Score: 7.97/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1986</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Dragon Ball](https://myanimelist.net/anime/223/Dragon_Ball)*
+🍂 *More information: [Dance Dance Danseur](https://myanimelist.net/anime/48702/Dance_Dance_Danseur)*
     
