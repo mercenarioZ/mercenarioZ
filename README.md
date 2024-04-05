@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Macross
+  <strong>🥭 <u>Title:</u></strong> Horimiya
 </h4>
 
-<h4>🌿 <u>English Title:</u> Macross</h4>
+<h4>🌿 <u>English Title:</u> Horimiya</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1553/137717.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1695/111486.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 8.2/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1982</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 36</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Macross](https://myanimelist.net/anime/1088/Macross)*
+🍂 *More information: [Horimiya](https://myanimelist.net/anime/42897/Horimiya)*
     
