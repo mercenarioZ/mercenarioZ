@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimi to Boku. 2
+  <strong>🥭 <u>Title:</u></strong> Shirokuma Cafe
 </h4>
 
-<h4>🌿 <u>English Title:</u> You and Me 2</h4>
+<h4>🌿 <u>English Title:</u> Polar Bear Cafe</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/42107.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/75649.jpg />
 
-<h4>🌱 Score: 7.92/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 50</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Kimi to Boku. 2](https://myanimelist.net/anime/11739/Kimi_to_Boku_2)*
+🍂 *More information: [Shirokuma Cafe](https://myanimelist.net/anime/12815/Shirokuma_Cafe)*
     
