@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Poputepipikku 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Kimi to Boku. 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Pop Team Epic Season 2</h4>
+<h4>🌿 <u>English Title:</u> You and Me 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1237/128067.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/42107.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.92/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Poputepipikku 2nd Season](https://myanimelist.net/anime/50663/Poputepipikku_2nd_Season)*
+🍂 *More information: [Kimi to Boku. 2](https://myanimelist.net/anime/11739/Kimi_to_Boku_2)*
     
