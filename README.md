@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Beastars 2nd Season
+  <strong>🥭 <u>Title:</u></strong> NieR:Automata Ver1.1a
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1097/109646.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1399/128318.jpg />
 
-<h4>🌱 Score: 7.78/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Drama, Suspense</h4>
+<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Beastars 2nd Season](https://myanimelist.net/anime/40935/Beastars_2nd_Season)*
+🍂 *More information: [NieR:Automata Ver1.1a](https://myanimelist.net/anime/51105/NieR_Automata_Ver11a)*
     
