@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> NieR:Automata Ver1.1a
+  <strong>🥭 <u>Title:</u></strong> Dragon Ball Super: Broly
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Dragon Ball Super: Broly</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1399/128318.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1575/93498.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [NieR:Automata Ver1.1a](https://myanimelist.net/anime/51105/NieR_Automata_Ver11a)*
+🍂 *More information: [Dragon Ball Super: Broly](https://myanimelist.net/anime/36946/Dragon_Ball_Super__Broly)*
     
