@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ginga Tetsudou 999
+  <strong>🥭 <u>Title:</u></strong> Sengoku Basara Movie: The Last Party
 </h4>
 
-<h4>🌿 <u>English Title:</u> Galaxy Express 999</h4>
+<h4>🌿 <u>English Title:</u> Sengoku Basara - Samurai Kings: The Movie</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1685/104554.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/50871.jpg />
 
-<h4>🌱 Score: 7.81/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1978</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ginga Tetsudou 999](https://myanimelist.net/anime/1491/Ginga_Tetsudou_999)*
+🍂 *More information: [Sengoku Basara Movie: The Last Party](https://myanimelist.net/anime/9745/Sengoku_Basara_Movie__The_Last_Party)*
     
