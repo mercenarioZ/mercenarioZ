@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoujo Kakumei Utena: Adolescence Mokushiroku
+  <strong>🥭 <u>Title:</u></strong> Shinkiro
 </h4>
 
-<h4>🌿 <u>English Title:</u> Revolutionary Girl Utena: The Adolescence of Utena</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1268/107516.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1225/139618.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Avant Garde, Drama, Fantasy, Girls Love</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shoujo Kakumei Utena: Adolescence Mokushiroku](https://myanimelist.net/anime/441/Shoujo_Kakumei_Utena__Adolescence_Mokushiroku)*
+🍂 *More information: [Shinkiro](https://myanimelist.net/anime/57145/Shinkiro)*
     
