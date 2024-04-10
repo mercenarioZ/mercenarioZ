@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shinkiro
+  <strong>🥭 <u>Title:</u></strong> Seika Jogakuin Kounin Sao Ojisan
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1225/139618.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1386/123114.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Hentai</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: Rx - Hentai</h4>
 
 <br />
 
-🍂 *More information: [Shinkiro](https://myanimelist.net/anime/57145/Shinkiro)*
+🍂 *More information: [Seika Jogakuin Kounin Sao Ojisan](https://myanimelist.net/anime/51662/Seika_Jogakuin_Kounin_Sao_Ojisan)*
     
