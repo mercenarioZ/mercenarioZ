@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sengoku Basara Movie: The Last Party
+  <strong>🥭 <u>Title:</u></strong> Shoujo Kakumei Utena: Adolescence Mokushiroku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sengoku Basara - Samurai Kings: The Movie</h4>
+<h4>🌿 <u>English Title:</u> Revolutionary Girl Utena: The Adolescence of Utena</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/50871.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1268/107516.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Avant Garde, Drama, Fantasy, Girls Love</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Sengoku Basara Movie: The Last Party](https://myanimelist.net/anime/9745/Sengoku_Basara_Movie__The_Last_Party)*
+🍂 *More information: [Shoujo Kakumei Utena: Adolescence Mokushiroku](https://myanimelist.net/anime/441/Shoujo_Kakumei_Utena__Adolescence_Mokushiroku)*
     
