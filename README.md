@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba: Katanakaji no Sato-hen
+  <strong>🥭 <u>Title:</u></strong> JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc</h4>
+<h4>🌿 <u>English Title:</u> JoJo's Bizarre Adventure: Diamond Is Unbreakable</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1765/135099.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/79156.jpg />
 
-<h4>🌱 Score: 8.25/10</h4>
+<h4>🌱 Score: 8.5/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 39</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime/51019/Kimetsu_no_Yaiba__Katanakaji_no_Sato-hen)*
+🍂 *More information: [JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai](https://myanimelist.net/anime/31933/JoJo_no_Kimyou_na_Bouken_Part_4__Diamond_wa_Kudakenai)*
     
