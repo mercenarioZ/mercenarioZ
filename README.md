@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seika Jogakuin Kounin Sao Ojisan
+  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba: Katanakaji no Sato-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1386/123114.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1765/135099.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 8.25/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Hentai</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: Rx - Hentai</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Seika Jogakuin Kounin Sao Ojisan](https://myanimelist.net/anime/51662/Seika_Jogakuin_Kounin_Sao_Ojisan)*
+🍂 *More information: [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime/51019/Kimetsu_no_Yaiba__Katanakaji_no_Sato-hen)*
     
