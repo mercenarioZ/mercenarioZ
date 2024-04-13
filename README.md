@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Magic File 2: Kudou Shinichi Nazo no Kabe to Kuro Lab Jiken
+  <strong>🥭 <u>Title:</u></strong> Kobato.
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab</h4>
+<h4>🌿 <u>English Title:</u> Kobato.</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1509/124723.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/79838.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.95/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Comedy, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Magic File 2: Kudou Shinichi Nazo no Kabe to Kuro Lab Jiken](https://myanimelist.net/anime/5348/Meitantei_Conan_Magic_File_2__Kudou_Shinichi_Nazo_no_Kabe_to_Kuro_Lab_Jiken)*
+🍂 *More information: [Kobato.](https://myanimelist.net/anime/5678/Kobato)*
     
