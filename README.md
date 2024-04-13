@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> 5-toubun no Hanayome Movie
+  <strong>🥭 <u>Title:</u></strong> One Punch Man Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Quintessential Quintuplets Movie</h4>
+<h4>🌿 <u>English Title:</u> One Punch Man Specials</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1037/122516.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1452/97840.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 6</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [5-toubun no Hanayome Movie](https://myanimelist.net/anime/48548/5-toubun_no_Hanayome_Movie)*
+🍂 *More information: [One Punch Man Specials](https://myanimelist.net/anime/31772/One_Punch_Man_Specials)*
     
