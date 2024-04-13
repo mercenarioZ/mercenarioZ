@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Punch Man Specials
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Magic File 2: Kudou Shinichi Nazo no Kabe to Kuro Lab Jiken
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Punch Man Specials</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1452/97840.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1509/124723.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [One Punch Man Specials](https://myanimelist.net/anime/31772/One_Punch_Man_Specials)*
+🍂 *More information: [Meitantei Conan Magic File 2: Kudou Shinichi Nazo no Kabe to Kuro Lab Jiken](https://myanimelist.net/anime/5348/Meitantei_Conan_Magic_File_2__Kudou_Shinichi_Nazo_no_Kabe_to_Kuro_Lab_Jiken)*
     
