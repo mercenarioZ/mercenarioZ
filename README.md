@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Flying Witch
+  <strong>🥭 <u>Title:</u></strong> Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page
 </h4>
 
-<h4>🌿 <u>English Title:</u> Flying Witch</h4>
+<h4>🌿 <u>English Title:</u> Snow White with the Red Hair OVA</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/80039.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/77943.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
 <h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Flying Witch](https://myanimelist.net/anime/31376/Flying_Witch)*
+🍂 *More information: [Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page](https://myanimelist.net/anime/31483/Akagami_no_Shirayuki-hime__Nandemonai_Takaramono_Kono_Page)*
     
