@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page
+  <strong>🥭 <u>Title:</u></strong> Tenchi Muyou! Ryououki
 </h4>
 
-<h4>🌿 <u>English Title:</u> Snow White with the Red Hair OVA</h4>
+<h4>🌿 <u>English Title:</u> Tenchi Muyo! Ryo-Ohki</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/77943.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1224/95301.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
 <h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 1992</h4>
 
-<h4>🌵 Genres: Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 6</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page](https://myanimelist.net/anime/31483/Akagami_no_Shirayuki-hime__Nandemonai_Takaramono_Kono_Page)*
+🍂 *More information: [Tenchi Muyou! Ryououki](https://myanimelist.net/anime/539/Tenchi_Muyou_Ryououki)*
     
