@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Vanitas no Karte Part 2
+  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket: Baka ja Katenai no yo!
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Case Study of Vanitas Part 2</h4>
+<h4>🌿 <u>English Title:</u> Kuroko's Basketball OVA</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1247/120579.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1148/96321.jpg />
 
-<h4>🌱 Score: 8.2/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Vanitas no Karte Part 2](https://myanimelist.net/anime/49114/Vanitas_no_Karte_Part_2)*
+🍂 *More information: [Kuroko no Basket: Baka ja Katenai no yo!](https://myanimelist.net/anime/19669/Kuroko_no_Basket__Baka_ja_Katenai_no_yo)*
     
