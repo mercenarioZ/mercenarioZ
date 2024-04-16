@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket: Baka ja Katenai no yo!
+  <strong>🥭 <u>Title:</u></strong> Senpai ga Uzai Kouhai no Hanashi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kuroko's Basketball OVA</h4>
+<h4>🌿 <u>English Title:</u> My Senpai is Annoying</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1148/96321.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1055/118890.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuroko no Basket: Baka ja Katenai no yo!](https://myanimelist.net/anime/19669/Kuroko_no_Basket__Baka_ja_Katenai_no_yo)*
+🍂 *More information: [Senpai ga Uzai Kouhai no Hanashi](https://myanimelist.net/anime/42351/Senpai_ga_Uzai_Kouhai_no_Hanashi)*
     
