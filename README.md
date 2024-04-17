@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Change!! Getter Robo: Sekai Saigo no Hi
+  <strong>🥭 <u>Title:</u></strong> Wu Liuqi: Xuanwu Guo Pian
 </h4>
 
-<h4>🌿 <u>English Title:</u> Getter Robo: Armageddon</h4>
+<h4>🌿 <u>English Title:</u> Scissor Seven (2021)</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/23767.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1884/111224.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 8.3/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 1998</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Adventure, Horror, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Drama, Mystery</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 10</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Change!! Getter Robo: Sekai Saigo no Hi](https://myanimelist.net/anime/978/Change_Getter_Robo__Sekai_Saigo_no_Hi)*
+🍂 *More information: [Wu Liuqi: Xuanwu Guo Pian](https://myanimelist.net/anime/45556/Wu_Liuqi__Xuanwu_Guo_Pian)*
     
