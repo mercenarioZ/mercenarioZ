@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuri!!! on Ice
+  <strong>🥭 <u>Title:</u></strong> Change!! Getter Robo: Sekai Saigo no Hi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Yuri!!! On ICE</h4>
+<h4>🌿 <u>English Title:</u> Getter Robo: Armageddon</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/81149.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/23767.jpg />
 
-<h4>🌱 Score: 7.9/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 1998</h4>
 
-<h4>🌵 Genres: Award Winning, Sports</h4>
+<h4>🌵 Genres: Action, Adventure, Horror, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Yuri!!! on Ice](https://myanimelist.net/anime/32995/Yuri_on_Ice)*
+🍂 *More information: [Change!! Getter Robo: Sekai Saigo no Hi](https://myanimelist.net/anime/978/Change_Getter_Robo__Sekai_Saigo_no_Hi)*
     
