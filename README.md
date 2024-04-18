@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wu Liuqi: Xuanwu Guo Pian
+  <strong>🥭 <u>Title:</u></strong> Voy@ger
 </h4>
 
-<h4>🌿 <u>English Title:</u> Scissor Seven (2021)</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1884/111224.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1280/142023.jpg />
 
-<h4>🌱 Score: 8.3/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
 <h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Drama, Mystery</h4>
+<h4>🌵 Genres: Sci-Fi</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Wu Liuqi: Xuanwu Guo Pian](https://myanimelist.net/anime/45556/Wu_Liuqi__Xuanwu_Guo_Pian)*
+🍂 *More information: [Voy@ger](https://myanimelist.net/anime/49661/Voyger)*
     
