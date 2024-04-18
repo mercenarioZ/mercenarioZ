@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Voy@ger
+  <strong>🥭 <u>Title:</u></strong> Shigatsu wa Kimi no Uso
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Your Lie in April</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1280/142023.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/67177.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 8.64/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Sci-Fi</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 22</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Voy@ger](https://myanimelist.net/anime/49661/Voyger)*
+🍂 *More information: [Shigatsu wa Kimi no Uso](https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso)*
     
