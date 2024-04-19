@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 12: Senritsu no Full Score
+  <strong>🥭 <u>Title:</u></strong> Shakugan no Shana III (Final)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 12: Full Score of Fear</h4>
+<h4>🌿 <u>English Title:</u> Shakugan no Shana: Season III</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/22766.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/32539.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 12: Senritsu no Full Score](https://myanimelist.net/anime/4447/Meitantei_Conan_Movie_12__Senritsu_no_Full_Score)*
+🍂 *More information: [Shakugan no Shana III (Final)](https://myanimelist.net/anime/6773/Shakugan_no_Shana_III_Final)*
     
