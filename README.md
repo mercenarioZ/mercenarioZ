@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shakugan no Shana III (Final)
+  <strong>🥭 <u>Title:</u></strong> Hyouge Mono
 </h4>
 
-<h4>🌿 <u>English Title:</u> Shakugan no Shana: Season III</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/32539.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/77282.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 8.01/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 39</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Shakugan no Shana III (Final)](https://myanimelist.net/anime/6773/Shakugan_no_Shana_III_Final)*
+🍂 *More information: [Hyouge Mono](https://myanimelist.net/anime/9996/Hyouge_Mono)*
     
