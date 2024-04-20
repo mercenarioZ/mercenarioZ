@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fanren Xiu Xian Chuan 3rd Season
+  <strong>🥭 <u>Title:</u></strong> Beelzebub
 </h4>
 
-<h4>🌿 <u>English Title:</u> A Record of Mortal's Journey to Immortality Season 3</h4>
+<h4>🌿 <u>English Title:</u> Beelzebub</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1119/139470.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/28013.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.85/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 48</h4>
+<h4>🥑 Episodes: 60</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fanren Xiu Xian Chuan 3rd Season](https://myanimelist.net/anime/57067/Fanren_Xiu_Xian_Chuan_3rd_Season)*
+🍂 *More information: [Beelzebub](https://myanimelist.net/anime/9513/Beelzebub)*
     
