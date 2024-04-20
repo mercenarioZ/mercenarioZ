@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Beelzebub
+  <strong>🥭 <u>Title:</u></strong> Gakuen Alice
 </h4>
 
-<h4>🌿 <u>English Title:</u> Beelzebub</h4>
+<h4>🌿 <u>English Title:</u> Gakuen Alice</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/28013.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/18118.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 60</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Beelzebub](https://myanimelist.net/anime/9513/Beelzebub)*
+🍂 *More information: [Gakuen Alice](https://myanimelist.net/anime/74/Gakuen_Alice)*
     
