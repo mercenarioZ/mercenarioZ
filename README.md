@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ninja Kamui
+  <strong>🥭 <u>Title:</u></strong> Cardcaptor Sakura Movie 2: Fuuin Sareta Card
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Cardcaptor Sakura Movie 2: The Sealed Card</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1142/141351.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1652/90326.jpg />
 
-<h4>🌱 Score: 7.87/10</h4>
+<h4>🌱 Score: 8.21/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Award Winning, Comedy, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Ninja Kamui](https://myanimelist.net/anime/56285/Ninja_Kamui)*
+🍂 *More information: [Cardcaptor Sakura Movie 2: Fuuin Sareta Card](https://myanimelist.net/anime/372/Cardcaptor_Sakura_Movie_2__Fuuin_Sareta_Card)*
     
