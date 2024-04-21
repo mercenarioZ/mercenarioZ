@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Maison Ikkoku
+  <strong>🥭 <u>Title:</u></strong> Ninja Kamui
 </h4>
 
-<h4>🌿 <u>English Title:</u> Maison Ikkoku</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/17576.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1142/141351.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 7.87/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1986</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Romance</h4>
+<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 96</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Maison Ikkoku](https://myanimelist.net/anime/1453/Maison_Ikkoku)*
+🍂 *More information: [Ninja Kamui](https://myanimelist.net/anime/56285/Ninja_Kamui)*
     
