@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cardcaptor Sakura Movie 2: Fuuin Sareta Card
+  <strong>🥭 <u>Title:</u></strong> Jujutsu Kaisen 2nd Season Recaps
 </h4>
 
-<h4>🌿 <u>English Title:</u> Cardcaptor Sakura Movie 2: The Sealed Card</h4>
+<h4>🌿 <u>English Title:</u> Jujutsu Kaisen Season 2 Recaps</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1652/90326.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1190/137716.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy, Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Cardcaptor Sakura Movie 2: Fuuin Sareta Card](https://myanimelist.net/anime/372/Cardcaptor_Sakura_Movie_2__Fuuin_Sareta_Card)*
+🍂 *More information: [Jujutsu Kaisen 2nd Season Recaps](https://myanimelist.net/anime/56243/Jujutsu_Kaisen_2nd_Season_Recaps)*
     
