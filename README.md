@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jujutsu Kaisen 2nd Season Recaps
+  <strong>🥭 <u>Title:</u></strong> Shinseiki Evangelion
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jujutsu Kaisen Season 2 Recaps</h4>
+<h4>🌿 <u>English Title:</u> Neon Genesis Evangelion</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1190/137716.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1314/108941.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.35/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 1995</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Action, Avant Garde, Award Winning, Drama, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Jujutsu Kaisen 2nd Season Recaps](https://myanimelist.net/anime/56243/Jujutsu_Kaisen_2nd_Season_Recaps)*
+🍂 *More information: [Shinseiki Evangelion](https://myanimelist.net/anime/30/Shinseiki_Evangelion)*
     
