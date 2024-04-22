@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shinseiki Evangelion
+  <strong>🥭 <u>Title:</u></strong> Yuru Camp△
 </h4>
 
-<h4>🌿 <u>English Title:</u> Neon Genesis Evangelion</h4>
+<h4>🌿 <u>English Title:</u> Laid-Back Camp</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1314/108941.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/89877.jpg />
 
-<h4>🌱 Score: 8.35/10</h4>
+<h4>🌱 Score: 8.27/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1995</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Avant Garde, Award Winning, Drama, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shinseiki Evangelion](https://myanimelist.net/anime/30/Shinseiki_Evangelion)*
+🍂 *More information: [Yuru Camp△](https://myanimelist.net/anime/34798/Yuru_Camp△)*
     
