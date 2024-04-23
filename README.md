@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuru Camp△
+  <strong>🥭 <u>Title:</u></strong> Uchuu Senkan Yamato 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Laid-Back Camp</h4>
+<h4>🌿 <u>English Title:</u> Star Blazers: The Comet Empire</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/89877.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/83049.jpg />
 
-<h4>🌱 Score: 8.27/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 1978</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuru Camp△](https://myanimelist.net/anime/34798/Yuru_Camp△)*
+🍂 *More information: [Uchuu Senkan Yamato 2](https://myanimelist.net/anime/1651/Uchuu_Senkan_Yamato_2)*
     
