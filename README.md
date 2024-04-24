@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Uchuu Senkan Yamato 2
+  <strong>🥭 <u>Title:</u></strong> Aikatsu Stars!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Star Blazers: The Comet Empire</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/83049.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/78658.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1978</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 100</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Uchuu Senkan Yamato 2](https://myanimelist.net/anime/1651/Uchuu_Senkan_Yamato_2)*
+🍂 *More information: [Aikatsu Stars!](https://myanimelist.net/anime/32717/Aikatsu_Stars)*
     
