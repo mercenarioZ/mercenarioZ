@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Monster
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Magic File 2: Kudou Shinichi Nazo no Kabe to Kuro Lab Jiken
 </h4>
 
-<h4>🌿 <u>English Title:</u> Monster</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/18793.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1509/124723.jpg />
 
-<h4>🌱 Score: 8.88/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Drama, Mystery, Suspense</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 74</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Monster](https://myanimelist.net/anime/19/Monster)*
+🍂 *More information: [Meitantei Conan Magic File 2: Kudou Shinichi Nazo no Kabe to Kuro Lab Jiken](https://myanimelist.net/anime/5348/Meitantei_Conan_Magic_File_2__Kudou_Shinichi_Nazo_no_Kabe_to_Kuro_Lab_Jiken)*
     
