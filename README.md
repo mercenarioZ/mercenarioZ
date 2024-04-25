@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Spy x Family Movie: Code: White
+  <strong>🥭 <u>Title:</u></strong> Monster
 </h4>
 
-<h4>🌿 <u>English Title:</u> Spy x Family Code: White</h4>
+<h4>🌿 <u>English Title:</u> Monster</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1426/139388.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/18793.jpg />
 
-<h4>🌱 Score: 8.23/10</h4>
+<h4>🌱 Score: 8.88/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Drama, Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 74</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Spy x Family Movie: Code: White](https://myanimelist.net/anime/53888/Spy_x_Family_Movie__Code__White)*
+🍂 *More information: [Monster](https://myanimelist.net/anime/19/Monster)*
     
