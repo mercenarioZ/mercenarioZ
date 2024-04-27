@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Machikado Mazoku
+  <strong>🥭 <u>Title:</u></strong> Ranma ½: Akumu! Shunmin Kou
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Demon Girl Next Door</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1633/111518.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/63469.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Machikado Mazoku](https://myanimelist.net/anime/39071/Machikado_Mazoku)*
+🍂 *More information: [Ranma ½: Akumu! Shunmin Kou](https://myanimelist.net/anime/5493/Ranma_½__Akumu_Shunmin_Kou)*
     
