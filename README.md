@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tasogare Otome x Amnesia: Taima Otome
+  <strong>🥭 <u>Title:</u></strong> Haikyuu!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dusk Maiden of Amnesia: Ghost Girl</h4>
+<h4>🌿 <u>English Title:</u> Haikyu!!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/65883.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/76014.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 8.44/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Romance, Supernatural</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tasogare Otome x Amnesia: Taima Otome](https://myanimelist.net/anime/14189/Tasogare_Otome_x_Amnesia__Taima_Otome)*
+🍂 *More information: [Haikyuu!!](https://myanimelist.net/anime/20583/Haikyuu)*
     
