@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gake no Ue no Ponyo
+  <strong>🥭 <u>Title:</u></strong> Tasogare Otome x Amnesia: Taima Otome
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ponyo</h4>
+<h4>🌿 <u>English Title:</u> Dusk Maiden of Amnesia: Ghost Girl</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1331/138727.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/65883.jpg />
 
-<h4>🌱 Score: 7.93/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Adventure, Award Winning, Fantasy</h4>
+<h4>🌵 Genres: Horror, Mystery, Romance, Supernatural</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Gake no Ue no Ponyo](https://myanimelist.net/anime/2890/Gake_no_Ue_no_Ponyo)*
+🍂 *More information: [Tasogare Otome x Amnesia: Taima Otome](https://myanimelist.net/anime/14189/Tasogare_Otome_x_Amnesia__Taima_Otome)*
     
