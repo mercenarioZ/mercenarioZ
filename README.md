@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Haikyuu!!
+  <strong>🥭 <u>Title:</u></strong> Persona 4 the Animation
 </h4>
 
-<h4>🌿 <u>English Title:</u> Haikyu!!</h4>
+<h4>🌿 <u>English Title:</u> Persona 4 the Animation</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/76014.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/29107.jpg />
 
-<h4>🌱 Score: 8.44/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Mystery, Sci-Fi, Supernatural</h4>
 
 <h4>🥑 Episodes: 25</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Haikyuu!!](https://myanimelist.net/anime/20583/Haikyuu)*
+🍂 *More information: [Persona 4 the Animation](https://myanimelist.net/anime/10588/Persona_4_the_Animation)*
     
