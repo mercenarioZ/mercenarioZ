@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Persona 4 the Animation
+  <strong>🥭 <u>Title:</u></strong> Toaru Hikuushi e no Tsuioku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Persona 4 the Animation</h4>
+<h4>🌿 <u>English Title:</u> The Princess and the Pilot</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/29107.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/36903.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
 <h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Mystery, Sci-Fi, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Romance</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Persona 4 the Animation](https://myanimelist.net/anime/10588/Persona_4_the_Animation)*
+🍂 *More information: [Toaru Hikuushi e no Tsuioku](https://myanimelist.net/anime/9000/Toaru_Hikuushi_e_no_Tsuioku)*
     
