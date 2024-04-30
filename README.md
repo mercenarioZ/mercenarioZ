@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Toaru Hikuushi e no Tsuioku
+  <strong>🥭 <u>Title:</u></strong> Hoozuki no Reitetsu 2nd Season: Sono Ni
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Princess and the Pilot</h4>
+<h4>🌿 <u>English Title:</u> Hozuki's Coolheadedness 2: Part 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/36903.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1113/92465.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Adventure, Romance</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Toaru Hikuushi e no Tsuioku](https://myanimelist.net/anime/9000/Toaru_Hikuushi_e_no_Tsuioku)*
+🍂 *More information: [Hoozuki no Reitetsu 2nd Season: Sono Ni](https://myanimelist.net/anime/37029/Hoozuki_no_Reitetsu_2nd_Season__Sono_Ni)*
     
