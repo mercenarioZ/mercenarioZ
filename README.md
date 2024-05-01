@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hoozuki no Reitetsu 2nd Season: Sono Ni
+  <strong>🥭 <u>Title:</u></strong> Yuanshen: Jinzhong Ge
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hozuki's Coolheadedness 2: Part 2</h4>
+<h4>🌿 <u>English Title:</u> Genshin Impact: The Song Burning in the Embers</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1113/92465.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1229/142648.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 7.97/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hoozuki no Reitetsu 2nd Season: Sono Ni](https://myanimelist.net/anime/37029/Hoozuki_no_Reitetsu_2nd_Season__Sono_Ni)*
+🍂 *More information: [Yuanshen: Jinzhong Ge](https://myanimelist.net/anime/58689/Yuanshen__Jinzhong_Ge)*
     
