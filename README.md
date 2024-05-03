@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz
+  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong: Nian Fan
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mushoku Tensei: Jobless Reincarnation 2nd Season - Episode 0 "Guardian Fitz"</h4>
+<h4>🌿 <u>English Title:</u> Fights Break Sphere 5th Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1627/136934.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1419/126374.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 8.12/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Fantasy, Ecchi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz](https://myanimelist.net/anime/55818/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu_-_Shugo_Jutsushi_Fitz)*
+🍂 *More information: [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan)*
     
