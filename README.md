@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tenchi Muyou! Ryououki 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Mitsudomoe Zouryouchuu!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tenchi Muyo! Ryo-Ohki</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1/2437.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/71554.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1994</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 8</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tenchi Muyou! Ryououki 2nd Season](https://myanimelist.net/anime/540/Tenchi_Muyou_Ryououki_2nd_Season)*
+🍂 *More information: [Mitsudomoe Zouryouchuu!](https://myanimelist.net/anime/9510/Mitsudomoe_Zouryouchuu)*
     
