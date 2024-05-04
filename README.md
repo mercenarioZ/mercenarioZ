@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong: Nian Fan
+  <strong>🥭 <u>Title:</u></strong> Tenchi Muyou! Ryououki 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fights Break Sphere 5th Season</h4>
+<h4>🌿 <u>English Title:</u> Tenchi Muyo! Ryo-Ohki</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1419/126374.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1/2437.jpg />
 
-<h4>🌱 Score: 8.12/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 1994</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 6</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan)*
+🍂 *More information: [Tenchi Muyou! Ryououki 2nd Season](https://myanimelist.net/anime/540/Tenchi_Muyou_Ryououki_2nd_Season)*
     
