@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yondemasu yo, Azazel-san.
+  <strong>🥭 <u>Title:</u></strong> Aikatsu! 10th Story: Mirai e no Starway (2023)
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/24619.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1837/130395.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy, Supernatural</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Yondemasu yo, Azazel-san.](https://myanimelist.net/anime/7762/Yondemasu_yo_Azazel-san)*
+🍂 *More information: [Aikatsu! 10th Story: Mirai e no Starway (2023)](https://myanimelist.net/anime/53499/Aikatsu_10th_Story__Mirai_e_no_Starway_2023)*
     
