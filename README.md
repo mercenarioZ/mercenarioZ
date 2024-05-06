@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Aikatsu! 10th Story: Mirai e no Starway (2023)
+  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin Season 3
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Attack on Titan Season 3</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1837/130395.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1173/92110.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 8.62/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Drama, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Aikatsu! 10th Story: Mirai e no Starway (2023)](https://myanimelist.net/anime/53499/Aikatsu_10th_Story__Mirai_e_no_Starway_2023)*
+🍂 *More information: [Shingeki no Kyojin Season 3](https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3)*
     
