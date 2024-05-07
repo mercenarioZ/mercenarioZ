@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin Season 3
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 10: Tantei-tachi no Requiem
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan Season 3</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 10: The Private Eyes' Requiem</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1173/92110.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1919/94322.jpg />
 
-<h4>🌱 Score: 8.62/10</h4>
+<h4>🌱 Score: 8.05/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin Season 3](https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3)*
+🍂 *More information: [Meitantei Conan Movie 10: Tantei-tachi no Requiem](https://myanimelist.net/anime/1506/Meitantei_Conan_Movie_10__Tantei-tachi_no_Requiem)*
     
