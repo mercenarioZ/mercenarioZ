@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ginga Eiyuu Densetsu: Die Neue These - Kaikou
+  <strong>🥭 <u>Title:</u></strong> Gakuen Alice
 </h4>
 
-<h4>🌿 <u>English Title:</u> Legend of the Galactic Heroes: Die Neue These</h4>
+<h4>🌿 <u>English Title:</u> Gakuen Alice</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1104/91793.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/18118.jpg />
 
-<h4>🌱 Score: 7.78/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Ginga Eiyuu Densetsu: Die Neue These - Kaikou](https://myanimelist.net/anime/31433/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Kaikou)*
+🍂 *More information: [Gakuen Alice](https://myanimelist.net/anime/74/Gakuen_Alice)*
     
