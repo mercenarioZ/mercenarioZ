@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> BanG Dream! Movie: Episode of Roselia - I: Yakusoku
+  <strong>🥭 <u>Title:</u></strong> Haikyuu!! Riku vs. Kuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Haikyu!! Land vs. Air</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1867/119189.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1527/102671.jpg />
 
-<h4>🌱 Score: 7.78/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [BanG Dream! Movie: Episode of Roselia - I: Yakusoku](https://myanimelist.net/anime/41780/BanG_Dream_Movie__Episode_of_Roselia_-_I__Yakusoku)*
+🍂 *More information: [Haikyuu!! Riku vs. Kuu](https://myanimelist.net/anime/40262/Haikyuu_Riku_vs_Kuu)*
     
