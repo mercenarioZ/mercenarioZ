@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gakuen Alice
+  <strong>🥭 <u>Title:</u></strong> BanG Dream! Movie: Episode of Roselia - I: Yakusoku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gakuen Alice</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/18118.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1867/119189.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gakuen Alice](https://myanimelist.net/anime/74/Gakuen_Alice)*
+🍂 *More information: [BanG Dream! Movie: Episode of Roselia - I: Yakusoku](https://myanimelist.net/anime/41780/BanG_Dream_Movie__Episode_of_Roselia_-_I__Yakusoku)*
     
