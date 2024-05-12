@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Chuuka Ichiban!
+  <strong>🥭 <u>Title:</u></strong> Given Movie 2: Hiiragi Mix
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/75283.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1095/140582.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1997</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Comedy, Drama, Gourmet</h4>
+<h4>🌵 Genres: Boys Love, Drama</h4>
 
-<h4>🥑 Episodes: 52</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Chuuka Ichiban!](https://myanimelist.net/anime/110/Chuuka_Ichiban)*
+🍂 *More information: [Given Movie 2: Hiiragi Mix](https://myanimelist.net/anime/54791/Given_Movie_2__Hiiragi_Mix)*
     
