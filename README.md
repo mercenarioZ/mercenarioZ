@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2
+  <strong>🥭 <u>Title:</u></strong> Capeta
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mushoku Tensei: Jobless Reincarnation Season 2 Part 2</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1876/141251.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/17667.jpg />
 
-<h4>🌱 Score: 8.36/10</h4>
+<h4>🌱 Score: 7.85/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Fantasy, Ecchi</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 52</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime/55888/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu_Part_2)*
+🍂 *More information: [Capeta](https://myanimelist.net/anime/388/Capeta)*
     
