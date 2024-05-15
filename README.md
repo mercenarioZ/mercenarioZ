@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shirobako
+  <strong>🥭 <u>Title:</u></strong> Sasaki to Miyano
 </h4>
 
-<h4>🌿 <u>English Title:</u> Shirobako</h4>
+<h4>🌿 <u>English Title:</u> Sasaki and Miyano</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1460/141897.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1182/119308.jpg />
 
-<h4>🌱 Score: 8.28/10</h4>
+<h4>🌱 Score: 8.22/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy, Drama</h4>
+<h4>🌵 Genres: Boys Love</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shirobako](https://myanimelist.net/anime/25835/Shirobako)*
+🍂 *More information: [Sasaki to Miyano](https://myanimelist.net/anime/44055/Sasaki_to_Miyano)*
     
