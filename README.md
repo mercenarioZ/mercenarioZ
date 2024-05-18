@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bakuman. 3rd Season
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan: Episode One - Chiisaku Natta Meitantei
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bakuman. Season 3</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan: Episode One - The Great Detective Turned Small</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/41845.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/81968.jpg />
 
-<h4>🌱 Score: 8.53/10</h4>
+<h4>🌱 Score: 8.27/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Romance</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bakuman. 3rd Season](https://myanimelist.net/anime/12365/Bakuman_3rd_Season)*
+🍂 *More information: [Meitantei Conan: Episode One - Chiisaku Natta Meitantei](https://myanimelist.net/anime/34036/Meitantei_Conan__Episode_One_-_Chiisaku_Natta_Meitantei)*
     
