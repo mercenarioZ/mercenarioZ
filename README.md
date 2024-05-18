@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan: Episode One - Chiisaku Natta Meitantei
+  <strong>🥭 <u>Title:</u></strong> Pokemon Generations
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan: Episode One - The Great Detective Turned Small</h4>
+<h4>🌿 <u>English Title:</u> Pokémon Generations</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/81968.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/83210.jpg />
 
-<h4>🌱 Score: 8.27/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: ONA</h4>
 
 <h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 18</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan: Episode One - Chiisaku Natta Meitantei](https://myanimelist.net/anime/34036/Meitantei_Conan__Episode_One_-_Chiisaku_Natta_Meitantei)*
+🍂 *More information: [Pokemon Generations](https://myanimelist.net/anime/34514/Pokemon_Generations)*
     
