@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Pokemon Generations
+  <strong>🥭 <u>Title:</u></strong> Overlord II
 </h4>
 
-<h4>🌿 <u>English Title:</u> Pokémon Generations</h4>
+<h4>🌿 <u>English Title:</u> Overlord II</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/83210.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1212/113415.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2018</h4>
 
 <h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 18</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Pokemon Generations](https://myanimelist.net/anime/34514/Pokemon_Generations)*
+🍂 *More information: [Overlord II](https://myanimelist.net/anime/35073/Overlord_II)*
     
