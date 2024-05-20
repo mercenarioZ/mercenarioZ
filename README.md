@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tunshi Xingkong 4th Season
+  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii: Seifuku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Swallowed Star 4th Season</h4>
+<h4>🌿 <u>English Title:</u> TONIKAWA: Over The Moon For You - Uniform</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1212/138218.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1085/126580.jpg />
 
-<h4>🌱 Score: 8.24/10</h4>
+<h4>🌱 Score: 7.73/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 52</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524/Tunshi_Xingkong_4th_Season)*
+🍂 *More information: [Tonikaku Kawaii: Seifuku](https://myanimelist.net/anime/51533/Tonikaku_Kawaii__Seifuku)*
     
