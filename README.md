@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saenai Heroine no Sodatekata Fine
+  <strong>🥭 <u>Title:</u></strong> Plawres Sanshirou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saekano the Movie: Finale</h4>
+<h4>🌿 <u>English Title:</u> Plastic Model Wrestling Sanshiro</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1671/111411.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1/1873.jpg />
 
-<h4>🌱 Score: 8.43/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 1983</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 37</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Saenai Heroine no Sodatekata Fine](https://myanimelist.net/anime/36885/Saenai_Heroine_no_Sodatekata_Fine)*
+🍂 *More information: [Plawres Sanshirou](https://myanimelist.net/anime/1873/Plawres_Sanshirou)*
     
