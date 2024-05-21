@@ -39,18 +39,18 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii: Seifuku
+  <strong>🥭 <u>Title:</u></strong> Saenai Heroine no Sodatekata Fine
 </h4>
 
-<h4>🌿 <u>English Title:</u> TONIKAWA: Over The Moon For You - Uniform</h4>
+<h4>🌿 <u>English Title:</u> Saekano the Movie: Finale</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1085/126580.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1671/111411.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 8.43/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2019</h4>
 
 <h4>🌵 Genres: Comedy, Romance</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Tonikaku Kawaii: Seifuku](https://myanimelist.net/anime/51533/Tonikaku_Kawaii__Seifuku)*
+🍂 *More information: [Saenai Heroine no Sodatekata Fine](https://myanimelist.net/anime/36885/Saenai_Heroine_no_Sodatekata_Fine)*
     
