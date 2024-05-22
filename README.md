@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Plawres Sanshirou
+  <strong>🥭 <u>Title:</u></strong> Fushigi Mahou Fun Fun Pharmacy
 </h4>
 
-<h4>🌿 <u>English Title:</u> Plastic Model Wrestling Sanshiro</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1/1873.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/49799.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1983</h4>
+<h4>🌴 Aired: 1998</h4>
 
-<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 37</h4>
+<h4>🥑 Episodes: 48</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Plawres Sanshirou](https://myanimelist.net/anime/1873/Plawres_Sanshirou)*
+🍂 *More information: [Fushigi Mahou Fun Fun Pharmacy](https://myanimelist.net/anime/8503/Fushigi_Mahou_Fun_Fun_Pharmacy)*
     
