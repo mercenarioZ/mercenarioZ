@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sono Bisque Doll wa Koi wo Suru
+  <strong>🥭 <u>Title:</u></strong> Kakuriyo no Yadomeshi
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Dress-Up Darling</h4>
+<h4>🌿 <u>English Title:</u> Kakuriyo: Bed and Breakfast for Spirits</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1179/119897.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1035/95056.jpg />
 
-<h4>🌱 Score: 8.19/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Drama, Fantasy, Gourmet, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sono Bisque Doll wa Koi wo Suru](https://myanimelist.net/anime/48736/Sono_Bisque_Doll_wa_Koi_wo_Suru)*
+🍂 *More information: [Kakuriyo no Yadomeshi](https://myanimelist.net/anime/36754/Kakuriyo_no_Yadomeshi)*
     
