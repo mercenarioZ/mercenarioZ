@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wu Dong Qian Kun 4th Season
+  <strong>🥭 <u>Title:</u></strong> Cardcaptor Sakura Movie 2: Fuuin Sareta Card
 </h4>
 
-<h4>🌿 <u>English Title:</u> Martial Universe 4th Season</h4>
+<h4>🌿 <u>English Title:</u> Cardcaptor Sakura Movie 2: The Sealed Card</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1843/139679.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1652/90326.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 8.21/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Award Winning, Comedy, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Wu Dong Qian Kun 4th Season](https://myanimelist.net/anime/57183/Wu_Dong_Qian_Kun_4th_Season)*
+🍂 *More information: [Cardcaptor Sakura Movie 2: Fuuin Sareta Card](https://myanimelist.net/anime/372/Cardcaptor_Sakura_Movie_2__Fuuin_Sareta_Card)*
     
