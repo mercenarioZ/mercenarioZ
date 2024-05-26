@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cardcaptor Sakura Movie 2: Fuuin Sareta Card
+  <strong>🥭 <u>Title:</u></strong> Hidamari Sketch x 365 Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Cardcaptor Sakura Movie 2: The Sealed Card</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1652/90326.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/17727.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 7.73/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy, Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Cardcaptor Sakura Movie 2: Fuuin Sareta Card](https://myanimelist.net/anime/372/Cardcaptor_Sakura_Movie_2__Fuuin_Sareta_Card)*
+🍂 *More information: [Hidamari Sketch x 365 Specials](https://myanimelist.net/anime/6984/Hidamari_Sketch_x_365_Specials)*
     
