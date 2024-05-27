@@ -9,7 +9,7 @@ export const writeFileForAnime = (data) => {
 
 <br />
 
-<h3>Hello, my name is <strong>Le Ba Nguyen Vu</strong> - a web developer and a college student.</h3>
+<h3>Hi, my name is <strong>Le Ba Nguyen Vu</strong>.</h3>
 
 - 🏫 I'm currently a student at **Ho Chi Minh City University of Technologies**
 - 👀 I'm currently learning **Web Development**
