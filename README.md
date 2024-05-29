@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Given: Uragawa no Sonzai
+  <strong>🥭 <u>Title:</u></strong> Mairimashita! Iruma-kun
 </h4>
 
-<h4>🌿 <u>English Title:</u> given - on the other hand</h4>
+<h4>🌿 <u>English Title:</u> Welcome to Demon School! Iruma-kun</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1031/115154.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1009/103187.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 7.74/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Boys Love, Drama</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 23</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Given: Uragawa no Sonzai](https://myanimelist.net/anime/49053/Given__Uragawa_no_Sonzai)*
+🍂 *More information: [Mairimashita! Iruma-kun](https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun)*
     
