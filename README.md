@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kami nomi zo Shiru Sekai: Tenri-hen
+  <strong>🥭 <u>Title:</u></strong> Tennis no Oujisama: Another Story - Kako to Mirai no Message
 </h4>
 
-<h4>🌿 <u>English Title:</u> The World God Only Knows: Tenri Arc</h4>
+<h4>🌿 <u>English Title:</u> The Prince of Tennis: Another Story - Messages From Past and Future</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/43359.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1907/133535.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
 <h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 4</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kami nomi zo Shiru Sekai: Tenri-hen](https://myanimelist.net/anime/15117/Kami_nomi_zo_Shiru_Sekai__Tenri-hen)*
+🍂 *More information: [Tennis no Oujisama: Another Story - Kako to Mirai no Message](https://myanimelist.net/anime/5751/Tennis_no_Oujisama__Another_Story_-_Kako_to_Mirai_no_Message)*
     
