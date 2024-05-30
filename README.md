@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Douluo Dalu II: Jueshi Tangmen
+  <strong>🥭 <u>Title:</u></strong> Kami nomi zo Shiru Sekai: Tenri-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Soul Land 2: The Peerless Tang Clan</h4>
+<h4>🌿 <u>English Title:</u> The World God Only Knows: Tenri Arc</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1447/123844.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/43359.jpg />
 
-<h4>🌱 Score: 8.08/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 52</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Douluo Dalu II: Jueshi Tangmen](https://myanimelist.net/anime/51836/Douluo_Dalu_II__Jueshi_Tangmen)*
+🍂 *More information: [Kami nomi zo Shiru Sekai: Tenri-hen](https://myanimelist.net/anime/15117/Kami_nomi_zo_Shiru_Sekai__Tenri-hen)*
     
