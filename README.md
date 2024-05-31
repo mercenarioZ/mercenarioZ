@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tennis no Oujisama: Another Story - Kako to Mirai no Message
+  <strong>🥭 <u>Title:</u></strong> Towa no Quon 4: Guren no Shoushin
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Prince of Tennis: Another Story - Messages From Past and Future</h4>
+<h4>🌿 <u>English Title:</u> Towanoquon: The Roaring Anxiety</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1907/133535.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1014/94473.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Sci-Fi, Supernatural</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tennis no Oujisama: Another Story - Kako to Mirai no Message](https://myanimelist.net/anime/5751/Tennis_no_Oujisama__Another_Story_-_Kako_to_Mirai_no_Message)*
+🍂 *More information: [Towa no Quon 4: Guren no Shoushin](https://myanimelist.net/anime/10715/Towa_no_Quon_4__Guren_no_Shoushin)*
     
