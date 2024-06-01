@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Towa no Quon 4: Guren no Shoushin
+  <strong>🥭 <u>Title:</u></strong> IDOLiSH7 Third Beat!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Towanoquon: The Roaring Anxiety</h4>
+<h4>🌿 <u>English Title:</u> IDOLISH7 Third BEAT!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1014/94473.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1646/115723.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 8.23/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi, Supernatural</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Towa no Quon 4: Guren no Shoushin](https://myanimelist.net/anime/10715/Towa_no_Quon_4__Guren_no_Shoushin)*
+🍂 *More information: [IDOLiSH7 Third Beat!](https://myanimelist.net/anime/45577/IDOLiSH7_Third_Beat)*
     
