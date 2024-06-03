@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> IDOLiSH7 Third Beat!
+  <strong>🥭 <u>Title:</u></strong> Tokyo Revengers
 </h4>
 
-<h4>🌿 <u>English Title:</u> IDOLISH7 Third BEAT!</h4>
+<h4>🌿 <u>English Title:</u> Tokyo Revengers</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1646/115723.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1839/122012.jpg />
 
-<h4>🌱 Score: 8.23/10</h4>
+<h4>🌱 Score: 7.92/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [IDOLiSH7 Third Beat!](https://myanimelist.net/anime/45577/IDOLiSH7_Third_Beat)*
+🍂 *More information: [Tokyo Revengers](https://myanimelist.net/anime/42249/Tokyo_Revengers)*
     
