@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tiger & Bunny 2 Part 2
+  <strong>🥭 <u>Title:</u></strong> Hoozuki no Reitetsu 2nd Season: Sono Ni
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Hozuki's Coolheadedness 2: Part 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1941/128060.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1113/92465.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.85/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Comedy, Mystery</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tiger & Bunny 2 Part 2](https://myanimelist.net/anime/52291/Tiger___Bunny_2_Part_2)*
+🍂 *More information: [Hoozuki no Reitetsu 2nd Season: Sono Ni](https://myanimelist.net/anime/37029/Hoozuki_no_Reitetsu_2nd_Season__Sono_Ni)*
     
