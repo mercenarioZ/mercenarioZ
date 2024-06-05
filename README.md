@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Pokemon: Mezase Pokemon Master
+  <strong>🥭 <u>Title:</u></strong> Arslan Senki (TV)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Pokémon: To Be a Pokémon Master</h4>
+<h4>🌿 <u>English Title:</u> The Heroic Legend of Arslan</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1246/134209.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/73588.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Pokemon: Mezase Pokemon Master](https://myanimelist.net/anime/53874/Pokemon__Mezase_Pokemon_Master)*
+🍂 *More information: [Arslan Senki (TV)](https://myanimelist.net/anime/28249/Arslan_Senki_TV)*
     
