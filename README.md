@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken
+  <strong>🥭 <u>Title:</u></strong> Juuni Kokuki
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece: Episode of East Blue - Luffy and His Four Crewmates' Great Adventure</h4>
+<h4>🌿 <u>English Title:</u> The Twelve Kingdoms</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/87473.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/50859.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 8.02/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2002</h4>
 
 <h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 45</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken](https://myanimelist.net/anime/36215/One_Piece__Episode_of_East_Blue_-_Luffy_to_4-nin_no_Nakama_no_Daibouken)*
+🍂 *More information: [Juuni Kokuki](https://myanimelist.net/anime/153/Juuni_Kokuki)*
     
