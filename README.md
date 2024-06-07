@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> COLORs
+  <strong>🥭 <u>Title:</u></strong> One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> One Piece: Episode of East Blue - Luffy and His Four Crewmates' Great Adventure</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1241/132103.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/87473.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [COLORs](https://myanimelist.net/anime/54005/COLORs)*
+🍂 *More information: [One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken](https://myanimelist.net/anime/36215/One_Piece__Episode_of_East_Blue_-_Luffy_to_4-nin_no_Nakama_no_Daibouken)*
     
