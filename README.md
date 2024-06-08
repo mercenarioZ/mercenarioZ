@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Juuni Kokuki
+  <strong>🥭 <u>Title:</u></strong> Tenki no Ko
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Twelve Kingdoms</h4>
+<h4>🌿 <u>English Title:</u> Weathering with You</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/50859.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1880/101146.jpg />
 
-<h4>🌱 Score: 8.02/10</h4>
+<h4>🌱 Score: 8.28/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Award Winning, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 45</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Juuni Kokuki](https://myanimelist.net/anime/153/Juuni_Kokuki)*
+🍂 *More information: [Tenki no Ko](https://myanimelist.net/anime/38826/Tenki_no_Ko)*
     
