@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ginga Tetsudou 999
+  <strong>🥭 <u>Title:</u></strong> Gochuumon wa Usagi desu ka??
 </h4>
 
-<h4>🌿 <u>English Title:</u> Galaxy Express 999</h4>
+<h4>🌿 <u>English Title:</u> Is the Order a Rabbit??</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1685/104554.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/76702.jpg />
 
 <h4>🌱 Score: 7.77/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1978</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ginga Tetsudou 999](https://myanimelist.net/anime/1491/Ginga_Tetsudou_999)*
+🍂 *More information: [Gochuumon wa Usagi desu ka??](https://myanimelist.net/anime/29787/Gochuumon_wa_Usagi_desu_ka)*
     
