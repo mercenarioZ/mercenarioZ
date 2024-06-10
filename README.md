@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yamato Nadeshiko Shichihenge♥
+  <strong>🥭 <u>Title:</u></strong> Kingdom
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Wallflower</h4>
+<h4>🌿 <u>English Title:</u> Kingdom</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/7701.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/39511.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 38</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Yamato Nadeshiko Shichihenge♥](https://myanimelist.net/anime/1562/Yamato_Nadeshiko_Shichihenge♥)*
+🍂 *More information: [Kingdom](https://myanimelist.net/anime/12031/Kingdom)*
     
