@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kingdom
+  <strong>🥭 <u>Title:</u></strong> Planetarian: Chiisana Hoshi no Yume
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kingdom</h4>
+<h4>🌿 <u>English Title:</u> Planetarian: The Reverie of a Little Planet</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/39511.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/80753.jpg />
 
-<h4>🌱 Score: 7.9/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 38</h4>
+<h4>🥑 Episodes: 5</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kingdom](https://myanimelist.net/anime/12031/Kingdom)*
+🍂 *More information: [Planetarian: Chiisana Hoshi no Yume](https://myanimelist.net/anime/33091/Planetarian__Chiisana_Hoshi_no_Yume)*
     
