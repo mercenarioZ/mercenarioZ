@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Planetarian: Chiisana Hoshi no Yume
+  <strong>🥭 <u>Title:</u></strong> Hanasaku Iroha Movie: Home Sweet Home
 </h4>
 
-<h4>🌿 <u>English Title:</u> Planetarian: The Reverie of a Little Planet</h4>
+<h4>🌿 <u>English Title:</u> Hanasaku Iroha the Movie: Home Sweet Home</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/80753.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/70701.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 5</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Planetarian: Chiisana Hoshi no Yume](https://myanimelist.net/anime/33091/Planetarian__Chiisana_Hoshi_no_Yume)*
+🍂 *More information: [Hanasaku Iroha Movie: Home Sweet Home](https://myanimelist.net/anime/14175/Hanasaku_Iroha_Movie__Home_Sweet_Home)*
     
