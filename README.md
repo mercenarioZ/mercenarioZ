@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket Movie 3: Winter Cup - Tobira no Mukou
+  <strong>🥭 <u>Title:</u></strong> Seto no Hanayome
 </h4>
 
-<h4>🌿 <u>English Title:</u> Winter Cup Highlights Episode 3 – Winter Cup Highlights -Crossing the Door-</h4>
+<h4>🌿 <u>English Title:</u> My Bride is a Mermaid</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/80729.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/58383.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Comedy, Sports</h4>
+<h4>🌵 Genres: Comedy, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuroko no Basket Movie 3: Winter Cup - Tobira no Mukou](https://myanimelist.net/anime/32871/Kuroko_no_Basket_Movie_3__Winter_Cup_-_Tobira_no_Mukou)*
+🍂 *More information: [Seto no Hanayome](https://myanimelist.net/anime/2104/Seto_no_Hanayome)*
     
