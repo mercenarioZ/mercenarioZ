@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuru Yuri San☆Hai!
+  <strong>🥭 <u>Title:</u></strong> Dead Dead Demons Dededede Destruction (ONA)
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Dead Dead Demons Dededede Destruction</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/76667.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1528/143212.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy, Girls Love</h4>
+<h4>🌵 Genres: Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 18</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuru Yuri San☆Hai!](https://myanimelist.net/anime/30279/Yuru_Yuri_San☆Hai)*
+🍂 *More information: [Dead Dead Demons Dededede Destruction (ONA)](https://myanimelist.net/anime/58883/Dead_Dead_Demons_Dededede_Destruction_ONA)*
     
