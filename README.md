@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ao no Exorcist
+  <strong>🥭 <u>Title:</u></strong> Jormungand: Perfect Order
 </h4>
 
-<h4>🌿 <u>English Title:</u> Blue Exorcist</h4>
+<h4>🌿 <u>English Title:</u> Jormungand Season 2: Perfect Order</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/75195.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/73278.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.89/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Ao no Exorcist](https://myanimelist.net/anime/9919/Ao_no_Exorcist)*
+🍂 *More information: [Jormungand: Perfect Order](https://myanimelist.net/anime/13331/Jormungand__Perfect_Order)*
     
