@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dead Dead Demons Dededede Destruction (ONA)
+  <strong>🥭 <u>Title:</u></strong> Ao no Exorcist
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dead Dead Demons Dededede Destruction</h4>
+<h4>🌿 <u>English Title:</u> Blue Exorcist</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1528/143212.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/75195.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 18</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Dead Dead Demons Dededede Destruction (ONA)](https://myanimelist.net/anime/58883/Dead_Dead_Demons_Dededede_Destruction_ONA)*
+🍂 *More information: [Ao no Exorcist](https://myanimelist.net/anime/9919/Ao_no_Exorcist)*
     
