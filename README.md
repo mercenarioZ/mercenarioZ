@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jormungand: Perfect Order
+  <strong>🥭 <u>Title:</u></strong> Casshern Sins
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jormungand Season 2: Perfect Order</h4>
+<h4>🌿 <u>English Title:</u> Casshern Sins</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/73278.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/23336.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Adventure</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Jormungand: Perfect Order](https://myanimelist.net/anime/13331/Jormungand__Perfect_Order)*
+🍂 *More information: [Casshern Sins](https://myanimelist.net/anime/4981/Casshern_Sins)*
     
