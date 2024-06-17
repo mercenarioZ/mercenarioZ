@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sasaki to Miyano
+  <strong>🥭 <u>Title:</u></strong> Love Live! Sunshine!! The School Idol Movie: Over the Rainbow
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sasaki and Miyano</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1182/119308.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1859/100474.jpg />
 
-<h4>🌱 Score: 8.22/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Boys Love</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sasaki to Miyano](https://myanimelist.net/anime/44055/Sasaki_to_Miyano)*
+🍂 *More information: [Love Live! Sunshine!! The School Idol Movie: Over the Rainbow](https://myanimelist.net/anime/37027/Love_Live_Sunshine_The_School_Idol_Movie__Over_the_Rainbow)*
     
