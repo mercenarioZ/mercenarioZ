@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doupo Cangqiong 3rd Season
+  <strong>🥭 <u>Title:</u></strong> Sasaki to Miyano
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fights Break Sphere 3rd Season</h4>
+<h4>🌿 <u>English Title:</u> Sasaki and Miyano</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1643/102418.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1182/119308.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 8.22/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance, Supernatural</h4>
+<h4>🌵 Genres: Boys Love</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Doupo Cangqiong 3rd Season](https://myanimelist.net/anime/38436/Doupo_Cangqiong_3rd_Season)*
+🍂 *More information: [Sasaki to Miyano](https://myanimelist.net/anime/44055/Sasaki_to_Miyano)*
     
