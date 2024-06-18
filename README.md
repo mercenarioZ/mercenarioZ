@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Love Live! Sunshine!! The School Idol Movie: Over the Rainbow
+  <strong>🥭 <u>Title:</u></strong> Zankyou no Terror
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Terror in Resonance</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1859/100474.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1417/117422.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 8.09/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Love Live! Sunshine!! The School Idol Movie: Over the Rainbow](https://myanimelist.net/anime/37027/Love_Live_Sunshine_The_School_Idol_Movie__Over_the_Rainbow)*
+🍂 *More information: [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)*
     
