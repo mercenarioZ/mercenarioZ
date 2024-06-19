@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Asobi Asobase Specials
+  <strong>🥭 <u>Title:</u></strong> Ramayana: The Legend of Prince Rama
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Ramayana: The Legend of Prince Rama</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1270/97437.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1070/104671.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 8.37/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 1993</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Adventure</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Asobi Asobase Specials](https://myanimelist.net/anime/38002/Asobi_Asobase_Specials)*
+🍂 *More information: [Ramayana: The Legend of Prince Rama](https://myanimelist.net/anime/4921/Ramayana__The_Legend_of_Prince_Rama)*
     
