@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ramayana: The Legend of Prince Rama
+  <strong>🥭 <u>Title:</u></strong> Konjiki no Gash Bell!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ramayana: The Legend of Prince Rama</h4>
+<h4>🌿 <u>English Title:</u> Zatch Bell!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1070/104671.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1151/125951.jpg />
 
-<h4>🌱 Score: 8.37/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1993</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Adventure</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ramayana: The Legend of Prince Rama](https://myanimelist.net/anime/4921/Ramayana__The_Legend_of_Prince_Rama)*
+🍂 *More information: [Konjiki no Gash Bell!!](https://myanimelist.net/anime/250/Konjiki_no_Gash_Bell)*
     
