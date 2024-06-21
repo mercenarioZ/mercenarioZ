@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Code Geass: Hangyaku no Lelouch I - Koudou
+  <strong>🥭 <u>Title:</u></strong> Clannad
 </h4>
 
-<h4>🌿 <u>English Title:</u> Code Geass: Lelouch of the Rebellion I - Initiation</h4>
+<h4>🌿 <u>English Title:</u> Clannad</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/87709.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1804/95033.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 7.99/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 23</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Code Geass: Hangyaku no Lelouch I - Koudou](https://myanimelist.net/anime/34438/Code_Geass__Hangyaku_no_Lelouch_I_-_Koudou)*
+🍂 *More information: [Clannad](https://myanimelist.net/anime/2167/Clannad)*
     
