@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Clannad
+  <strong>🥭 <u>Title:</u></strong> Hanma Baki: Son of Ogre 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Clannad</h4>
+<h4>🌿 <u>English Title:</u> Baki Hanma 2nd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1804/95033.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1800/135847.jpg />
 
 <h4>🌱 Score: 7.99/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 23</h4>
+<h4>🥑 Episodes: 27</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Clannad](https://myanimelist.net/anime/2167/Clannad)*
+🍂 *More information: [Hanma Baki: Son of Ogre 2nd Season](https://myanimelist.net/anime/51318/Hanma_Baki__Son_of_Ogre_2nd_Season)*
     
