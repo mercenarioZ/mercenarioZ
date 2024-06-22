@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Barakamon
+  <strong>🥭 <u>Title:</u></strong> Machikado Mazoku: 2-choume
 </h4>
 
-<h4>🌿 <u>English Title:</u> Barakamon</h4>
+<h4>🌿 <u>English Title:</u> The Demon Girl Next Door 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1426/111248.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1036/121135.jpg />
 
-<h4>🌱 Score: 8.37/10</h4>
+<h4>🌱 Score: 7.85/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Barakamon](https://myanimelist.net/anime/22789/Barakamon)*
+🍂 *More information: [Machikado Mazoku: 2-choume](https://myanimelist.net/anime/42745/Machikado_Mazoku__2-choume)*
     
