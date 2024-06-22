@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hanma Baki: Son of Ogre 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Barakamon
 </h4>
 
-<h4>🌿 <u>English Title:</u> Baki Hanma 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> Barakamon</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1800/135847.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1426/111248.jpg />
 
-<h4>🌱 Score: 7.99/10</h4>
+<h4>🌱 Score: 8.37/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 27</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hanma Baki: Son of Ogre 2nd Season](https://myanimelist.net/anime/51318/Hanma_Baki__Son_of_Ogre_2nd_Season)*
+🍂 *More information: [Barakamon](https://myanimelist.net/anime/22789/Barakamon)*
     
