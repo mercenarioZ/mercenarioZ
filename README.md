@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Machikado Mazoku: 2-choume
+  <strong>🥭 <u>Title:</u></strong> Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Demon Girl Next Door 2</h4>
+<h4>🌿 <u>English Title:</u> KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1036/121135.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1638/119321.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 8.43/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Machikado Mazoku: 2-choume](https://myanimelist.net/anime/42745/Machikado_Mazoku__2-choume)*
+🍂 *More information: [Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu](https://myanimelist.net/anime/38040/Kono_Subarashii_Sekai_ni_Shukufuku_wo_Movie__Kurenai_Densetsu)*
     
