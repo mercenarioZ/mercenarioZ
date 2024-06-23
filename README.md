@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu
+  <strong>🥭 <u>Title:</u></strong> Igano Kabamaru
 </h4>
 
-<h4>🌿 <u>English Title:</u> KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1638/119321.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/62909.jpg />
 
-<h4>🌱 Score: 8.43/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 1983</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu](https://myanimelist.net/anime/38040/Kono_Subarashii_Sekai_ni_Shukufuku_wo_Movie__Kurenai_Densetsu)*
+🍂 *More information: [Igano Kabamaru](https://myanimelist.net/anime/2762/Igano_Kabamaru)*
     
