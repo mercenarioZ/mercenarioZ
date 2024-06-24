@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Igano Kabamaru
+  <strong>🥭 <u>Title:</u></strong> Toshokan Sensou: Kakumei no Tsubasa
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Library Wars: The Wings of Revolution</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/62909.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/39273.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.73/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1983</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Igano Kabamaru](https://myanimelist.net/anime/2762/Igano_Kabamaru)*
+🍂 *More information: [Toshokan Sensou: Kakumei no Tsubasa](https://myanimelist.net/anime/11001/Toshokan_Sensou__Kakumei_no_Tsubasa)*
     
