@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yofukashi no Uta
+  <strong>🥭 <u>Title:</u></strong> Haikyuu!! Movie 2: Shousha to Haisha
 </h4>
 
-<h4>🌿 <u>English Title:</u> Call of the Night</h4>
+<h4>🌿 <u>English Title:</u> Haikyuu!! the Movie: The Winner and the Loser</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1045/123711.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/74813.jpg />
 
-<h4>🌱 Score: 7.97/10</h4>
+<h4>🌱 Score: 8.07/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Romance, Supernatural</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yofukashi no Uta](https://myanimelist.net/anime/50346/Yofukashi_no_Uta)*
+🍂 *More information: [Haikyuu!! Movie 2: Shousha to Haisha](https://myanimelist.net/anime/30364/Haikyuu_Movie_2__Shousha_to_Haisha)*
     
