@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Noragami OVA
+  <strong>🥭 <u>Title:</u></strong> Yofukashi no Uta
 </h4>
 
-<h4>🌿 <u>English Title:</u> Noragami OVA</h4>
+<h4>🌿 <u>English Title:</u> Call of the Night</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/77177.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1045/123711.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.97/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Noragami OVA](https://myanimelist.net/anime/20767/Noragami_OVA)*
+🍂 *More information: [Yofukashi no Uta](https://myanimelist.net/anime/50346/Yofukashi_no_Uta)*
     
