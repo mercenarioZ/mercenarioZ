@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Haikyuu!! Movie 2: Shousha to Haisha
+  <strong>🥭 <u>Title:</u></strong> Uchuu Senkan Yamato 2202: Ai no Senshi-tachi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Haikyuu!! the Movie: The Winner and the Loser</h4>
+<h4>🌿 <u>English Title:</u> Star Blazers: Space Battleship Yamato 2202</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/74813.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/84463.jpg />
 
-<h4>🌱 Score: 8.07/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Haikyuu!! Movie 2: Shousha to Haisha](https://myanimelist.net/anime/30364/Haikyuu_Movie_2__Shousha_to_Haisha)*
+🍂 *More information: [Uchuu Senkan Yamato 2202: Ai no Senshi-tachi](https://myanimelist.net/anime/33064/Uchuu_Senkan_Yamato_2202__Ai_no_Senshi-tachi)*
     
