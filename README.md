@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 27: 100-man Dollar no Michishirube
+  <strong>🥭 <u>Title:</u></strong> Oniisama e...
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 27</h4>
+<h4>🌿 <u>English Title:</u> Dear Brother</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1888/141209.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/18531.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 1991</h4>
 
-<h4>🌵 Genres: Mystery</h4>
+<h4>🌵 Genres: Drama, Girls Love</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 39</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 27: 100-man Dollar no Michishirube](https://myanimelist.net/anime/56785/Meitantei_Conan_Movie_27__100-man_Dollar_no_Michishirube)*
+🍂 *More information: [Oniisama e...](https://myanimelist.net/anime/795/Oniisama_e)*
     
