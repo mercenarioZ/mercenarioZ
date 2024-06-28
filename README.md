@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kageki Shoujo!!
+  <strong>🥭 <u>Title:</u></strong> Junjou Romantica 3
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kageki Shojo!!</h4>
+<h4>🌿 <u>English Title:</u> Junjo Romantica 3</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1944/114427.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/74170.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Boys Love, Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kageki Shoujo!!](https://myanimelist.net/anime/43691/Kageki_Shoujo)*
+🍂 *More information: [Junjou Romantica 3](https://myanimelist.net/anime/25649/Junjou_Romantica_3)*
     
