@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Junjou Romantica 3
+  <strong>🥭 <u>Title:</u></strong> Hakkenden: Touhou Hakken Ibun 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Junjo Romantica 3</h4>
+<h4>🌿 <u>English Title:</u> Hakkenden -Eight Dogs of the East- Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/74170.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/50885.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Boys Love, Comedy, Drama</h4>
+<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Junjou Romantica 3](https://myanimelist.net/anime/25649/Junjou_Romantica_3)*
+🍂 *More information: [Hakkenden: Touhou Hakken Ibun 2nd Season](https://myanimelist.net/anime/18055/Hakkenden__Touhou_Hakken_Ibun_2nd_Season)*
     
