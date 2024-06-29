@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hakkenden: Touhou Hakken Ibun 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Grappler Baki: Saidai Tournament-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hakkenden -Eight Dogs of the East- Season 2</h4>
+<h4>🌿 <u>English Title:</u> Baki the Grappler: Saidai Tournament-hen</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/50885.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1433/96723.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Hakkenden: Touhou Hakken Ibun 2nd Season](https://myanimelist.net/anime/18055/Hakkenden__Touhou_Hakken_Ibun_2nd_Season)*
+🍂 *More information: [Grappler Baki: Saidai Tournament-hen](https://myanimelist.net/anime/551/Grappler_Baki__Saidai_Tournament-hen)*
     
