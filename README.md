@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Grappler Baki: Saidai Tournament-hen
+  <strong>🥭 <u>Title:</u></strong> Trigun Stampede
 </h4>
 
-<h4>🌿 <u>English Title:</u> Baki the Grappler: Saidai Tournament-hen</h4>
+<h4>🌿 <u>English Title:</u> Trigun Stampede</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1433/96723.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1426/129194.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Grappler Baki: Saidai Tournament-hen](https://myanimelist.net/anime/551/Grappler_Baki__Saidai_Tournament-hen)*
+🍂 *More information: [Trigun Stampede](https://myanimelist.net/anime/52093/Trigun_Stampede)*
     
