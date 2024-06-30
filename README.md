@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Trigun Stampede
+  <strong>🥭 <u>Title:</u></strong> Clannad: After Story
 </h4>
 
-<h4>🌿 <u>English Title:</u> Trigun Stampede</h4>
+<h4>🌿 <u>English Title:</u> Clannad: After Story</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1426/129194.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1299/110774.jpg />
 
-<h4>🌱 Score: 7.84/10</h4>
+<h4>🌱 Score: 8.93/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Trigun Stampede](https://myanimelist.net/anime/52093/Trigun_Stampede)*
+🍂 *More information: [Clannad: After Story](https://myanimelist.net/anime/4181/Clannad__After_Story)*
     
