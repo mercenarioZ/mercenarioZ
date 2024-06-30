@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Clannad: After Story
+  <strong>🥭 <u>Title:</u></strong> Junjou Romantica OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> Clannad: After Story</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1299/110774.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/60389.jpg />
 
-<h4>🌱 Score: 8.93/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
+<h4>🌵 Genres: Boys Love, Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Clannad: After Story](https://myanimelist.net/anime/4181/Clannad__After_Story)*
+🍂 *More information: [Junjou Romantica OVA](https://myanimelist.net/anime/13767/Junjou_Romantica_OVA)*
     
