@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Junjou Romantica OVA
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 08: Ginyoku no Time Travel Recap
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 08: Time Travel of the Silver Sky Recap</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/60389.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/17583.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Boys Love, Comedy, Drama</h4>
+<h4>🌵 Genres: Adventure, Mystery</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Junjou Romantica OVA](https://myanimelist.net/anime/13767/Junjou_Romantica_OVA)*
+🍂 *More information: [Meitantei Conan Movie 08: Ginyoku no Time Travel Recap](https://myanimelist.net/anime/7304/Meitantei_Conan_Movie_08__Ginyoku_no_Time_Travel_Recap)*
     
