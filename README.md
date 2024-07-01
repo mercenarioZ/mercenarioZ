@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 08: Ginyoku no Time Travel Recap
+  <strong>🥭 <u>Title:</u></strong> Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 08: Time Travel of the Silver Sky Recap</h4>
+<h4>🌿 <u>English Title:</u> Classroom of the Elite III</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/17583.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1332/139318.jpg />
 
-<h4>🌱 Score: 7.8/10</h4>
+<h4>🌱 Score: 7.98/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Adventure, Mystery</h4>
+<h4>🌵 Genres: Drama, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 08: Ginyoku no Time Travel Recap](https://myanimelist.net/anime/7304/Meitantei_Conan_Movie_08__Ginyoku_no_Time_Travel_Recap)*
+🍂 *More information: [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://myanimelist.net/anime/51180/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_3rd_Season)*
     
