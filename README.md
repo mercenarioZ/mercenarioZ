@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hirogaru Sky! Precure
+  <strong>🥭 <u>Title:</u></strong> Horimiya: Piece
 </h4>
 
-<h4>🌿 <u>English Title:</u> Soaring Sky! Pretty Cure</h4>
+<h4>🌿 <u>English Title:</u> Horimiya: The Missing Pieces</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1762/135268.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1007/136277.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 8.18/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 50</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hirogaru Sky! Precure](https://myanimelist.net/anime/53716/Hirogaru_Sky_Precure)*
+🍂 *More information: [Horimiya: Piece](https://myanimelist.net/anime/54856/Horimiya__Piece)*
     
