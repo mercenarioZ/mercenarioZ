@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Luo Xiao Hei Zhan Ji: Zhongsheng Zhi Men
+  <strong>🥭 <u>Title:</u></strong> Akagami no Shirayuki-hime 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Legend of Luoxiaohei: The Gate of All Living Beings</h4>
+<h4>🌿 <u>English Title:</u> Snow White with the Red Hair 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1909/114536.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/77834.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.97/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Comedy, Supernatural</h4>
+<h4>🌵 Genres: Drama, Fantasy, Romance</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Luo Xiao Hei Zhan Ji: Zhongsheng Zhi Men](https://myanimelist.net/anime/48791/Luo_Xiao_Hei_Zhan_Ji__Zhongsheng_Zhi_Men)*
+🍂 *More information: [Akagami no Shirayuki-hime 2nd Season](https://myanimelist.net/anime/31173/Akagami_no_Shirayuki-hime_2nd_Season)*
     
