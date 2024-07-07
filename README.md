@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Horimiya: Piece
+  <strong>🥭 <u>Title:</u></strong> Luo Xiao Hei Zhan Ji: Zhongsheng Zhi Men
 </h4>
 
-<h4>🌿 <u>English Title:</u> Horimiya: The Missing Pieces</h4>
+<h4>🌿 <u>English Title:</u> The Legend of Luoxiaohei: The Gate of All Living Beings</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1007/136277.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1909/114536.jpg />
 
-<h4>🌱 Score: 8.18/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Horimiya: Piece](https://myanimelist.net/anime/54856/Horimiya__Piece)*
+🍂 *More information: [Luo Xiao Hei Zhan Ji: Zhongsheng Zhi Men](https://myanimelist.net/anime/48791/Luo_Xiao_Hei_Zhan_Ji__Zhongsheng_Zhi_Men)*
     
