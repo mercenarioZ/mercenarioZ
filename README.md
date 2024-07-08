@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Akagami no Shirayuki-hime 2nd Season
+  <strong>🥭 <u>Title:</u></strong> BanG Dream! Garupa☆Pico Fever!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Snow White with the Red Hair 2</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/77834.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1724/117808.jpg />
 
-<h4>🌱 Score: 7.97/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Akagami no Shirayuki-hime 2nd Season](https://myanimelist.net/anime/31173/Akagami_no_Shirayuki-hime_2nd_Season)*
+🍂 *More information: [BanG Dream! Garupa☆Pico Fever!](https://myanimelist.net/anime/49123/BanG_Dream_Garupa☆Pico_Fever)*
     
