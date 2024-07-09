@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion
+  <strong>🥭 <u>Title:</u></strong> Tomodachi Game
 </h4>
 
-<h4>🌿 <u>English Title:</u> Code Geass: Lelouch of the Rebellion Special Edition - Black Rebellion</h4>
+<h4>🌿 <u>English Title:</u> Tomodachi Game</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/23532.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1247/121345.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion](https://myanimelist.net/anime/4596/Code_Geass__Hangyaku_no_Lelouch_Special_Edition_-_Black_Rebellion)*
+🍂 *More information: [Tomodachi Game](https://myanimelist.net/anime/50273/Tomodachi_Game)*
     
