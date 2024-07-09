@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> BanG Dream! Garupa☆Pico Fever!
+  <strong>🥭 <u>Title:</u></strong> Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Code Geass: Lelouch of the Rebellion Special Edition - Black Rebellion</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1724/117808.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/23532.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [BanG Dream! Garupa☆Pico Fever!](https://myanimelist.net/anime/49123/BanG_Dream_Garupa☆Pico_Fever)*
+🍂 *More information: [Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion](https://myanimelist.net/anime/4596/Code_Geass__Hangyaku_no_Lelouch_Special_Edition_-_Black_Rebellion)*
     
