@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ghost Hunt
+  <strong>🥭 <u>Title:</u></strong> Seikai no Senki III
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ghost Hunt</h4>
+<h4>🌿 <u>English Title:</u> Banner of the Stars III</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/73908.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/2755.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ghost Hunt](https://myanimelist.net/anime/1571/Ghost_Hunt)*
+🍂 *More information: [Seikai no Senki III](https://myanimelist.net/anime/398/Seikai_no_Senki_III)*
     
