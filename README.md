@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seikai no Senki III
+  <strong>🥭 <u>Title:</u></strong> Kimi no Suizou wo Tabetai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Banner of the Stars III</h4>
+<h4>🌿 <u>English Title:</u> I Want To Eat Your Pancreas</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/2755.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1768/93291.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 8.55/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Seikai no Senki III](https://myanimelist.net/anime/398/Seikai_no_Senki_III)*
+🍂 *More information: [Kimi no Suizou wo Tabetai](https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai)*
     
