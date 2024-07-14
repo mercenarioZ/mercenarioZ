@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimi no Suizou wo Tabetai
+  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> I Want To Eat Your Pancreas</h4>
+<h4>🌿 <u>English Title:</u> Sound! Euphonium 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1768/93291.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/81155.jpg />
 
-<h4>🌱 Score: 8.55/10</h4>
+<h4>🌱 Score: 8.32/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kimi no Suizou wo Tabetai](https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai)*
+🍂 *More information: [Hibike! Euphonium 2](https://myanimelist.net/anime/31988/Hibike_Euphonium_2)*
     
