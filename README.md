@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium 2
+  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji: Book of Circus
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sound! Euphonium 2</h4>
+<h4>🌿 <u>English Title:</u> Black Butler: Book of Circus</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/81155.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/64811.jpg />
 
-<h4>🌱 Score: 8.32/10</h4>
+<h4>🌱 Score: 8.06/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 10</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Hibike! Euphonium 2](https://myanimelist.net/anime/31988/Hibike_Euphonium_2)*
+🍂 *More information: [Kuroshitsuji: Book of Circus](https://myanimelist.net/anime/22145/Kuroshitsuji__Book_of_Circus)*
     
