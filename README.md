@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji: Book of Circus
+  <strong>🥭 <u>Title:</u></strong> Aria the Crepuscolo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Black Butler: Book of Circus</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/64811.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1934/111002.jpg />
 
-<h4>🌱 Score: 8.06/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Mystery</h4>
+<h4>🌵 Genres: Fantasy, Sci-Fi, Slice of Life</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuroshitsuji: Book of Circus](https://myanimelist.net/anime/22145/Kuroshitsuji__Book_of_Circus)*
+🍂 *More information: [Aria the Crepuscolo](https://myanimelist.net/anime/41674/Aria_the_Crepuscolo)*
     
