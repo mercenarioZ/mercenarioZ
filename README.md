@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Persona 3 the Movie 1: Spring of Birth
+  <strong>🥭 <u>Title:</u></strong> Gensoumaden Saiyuuki
 </h4>
 
-<h4>🌿 <u>English Title:</u> Persona 3 the Movie: #1 Spring of Birth</h4>
+<h4>🌿 <u>English Title:</u> Saiyuki</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/55287.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/75282.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 50</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Persona 3 the Movie 1: Spring of Birth](https://myanimelist.net/anime/14407/Persona_3_the_Movie_1__Spring_of_Birth)*
+🍂 *More information: [Gensoumaden Saiyuuki](https://myanimelist.net/anime/129/Gensoumaden_Saiyuuki)*
     
