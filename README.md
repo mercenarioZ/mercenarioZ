@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Naruto: Shippuuden
+  <strong>🥭 <u>Title:</u></strong> Hajime no Ippo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Naruto Shippuden</h4>
+<h4>🌿 <u>English Title:</u> Fighting Spirit</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1565/111305.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/86334.jpg />
 
-<h4>🌱 Score: 8.27/10</h4>
+<h4>🌱 Score: 8.77/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 75</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Naruto: Shippuuden](https://myanimelist.net/anime/1735/Naruto__Shippuuden)*
+🍂 *More information: [Hajime no Ippo](https://myanimelist.net/anime/263/Hajime_no_Ippo)*
     
