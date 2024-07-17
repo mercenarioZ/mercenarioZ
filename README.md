@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gensoumaden Saiyuuki
+  <strong>🥭 <u>Title:</u></strong> Naruto: Shippuuden
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saiyuki</h4>
+<h4>🌿 <u>English Title:</u> Naruto Shippuden</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/75282.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1565/111305.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 8.27/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 50</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gensoumaden Saiyuuki](https://myanimelist.net/anime/129/Gensoumaden_Saiyuuki)*
+🍂 *More information: [Naruto: Shippuuden](https://myanimelist.net/anime/1735/Naruto__Shippuuden)*
     
