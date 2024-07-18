@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuru Camp△ Movie
+  <strong>🥭 <u>Title:</u></strong> Uchuu Senkan Yamato 2205: Aratanaru Tabidachi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Laid-Back Camp: The Movie</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1806/124396.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1888/117889.jpg />
 
-<h4>🌱 Score: 8.41/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 8</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuru Camp△ Movie](https://myanimelist.net/anime/38475/Yuru_Camp△_Movie)*
+🍂 *More information: [Uchuu Senkan Yamato 2205: Aratanaru Tabidachi](https://myanimelist.net/anime/40389/Uchuu_Senkan_Yamato_2205__Aratanaru_Tabidachi)*
     
