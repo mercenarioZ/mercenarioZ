@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Uchuu Senkan Yamato 2205: Aratanaru Tabidachi
+  <strong>🥭 <u>Title:</u></strong> Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Saint Seiya: The Hades Chapter - Recaps</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1888/117889.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/13518.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Adventure, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 8</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Uchuu Senkan Yamato 2205: Aratanaru Tabidachi](https://myanimelist.net/anime/40389/Uchuu_Senkan_Yamato_2205__Aratanaru_Tabidachi)*
+🍂 *More information: [Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa](https://myanimelist.net/anime/6154/Saint_Seiya__Meiou_Hades_Juuni_Kyuu-hen_-_Yomigaerishi_Gold_Saint-tachi_no_Shinwa)*
     
