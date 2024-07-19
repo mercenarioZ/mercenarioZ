@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa
+  <strong>🥭 <u>Title:</u></strong> Kengan Ashura Season 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saint Seiya: The Hades Chapter - Recaps</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/13518.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1513/134619.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa](https://myanimelist.net/anime/6154/Saint_Seiya__Meiou_Hades_Juuni_Kyuu-hen_-_Yomigaerishi_Gold_Saint-tachi_no_Shinwa)*
+🍂 *More information: [Kengan Ashura Season 2](https://myanimelist.net/anime/51369/Kengan_Ashura_Season_2)*
     
