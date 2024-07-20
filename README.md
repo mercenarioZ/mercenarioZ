@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kengan Ashura Season 2
+  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon R
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Sailor Moon R</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1513/134619.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1/740.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 1993</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 43</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kengan Ashura Season 2](https://myanimelist.net/anime/51369/Kengan_Ashura_Season_2)*
+🍂 *More information: [Bishoujo Senshi Sailor Moon R](https://myanimelist.net/anime/740/Bishoujo_Senshi_Sailor_Moon_R)*
     
