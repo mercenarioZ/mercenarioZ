@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tsuki ga Kirei
+  <strong>🥭 <u>Title:</u></strong> Yuru Camp△ Season 3
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tsukigakirei</h4>
+<h4>🌿 <u>English Title:</u> Laid-Back Camp Season 3</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/85592.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1178/142710.jpg />
 
-<h4>🌱 Score: 8.04/10</h4>
+<h4>🌱 Score: 8.03/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Tsuki ga Kirei](https://myanimelist.net/anime/34822/Tsuki_ga_Kirei)*
+🍂 *More information: [Yuru Camp△ Season 3](https://myanimelist.net/anime/53410/Yuru_Camp△_Season_3)*
     
