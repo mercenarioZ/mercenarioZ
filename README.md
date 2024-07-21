@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuru Camp△ Season 3
+  <strong>🥭 <u>Title:</u></strong> Yakitate!! Japan
 </h4>
 
-<h4>🌿 <u>English Title:</u> Laid-Back Camp Season 3</h4>
+<h4>🌿 <u>English Title:</u> Yakitate!! Japan</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1178/142710.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/76432.jpg />
 
-<h4>🌱 Score: 8.03/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Comedy, Gourmet</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 69</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuru Camp△ Season 3](https://myanimelist.net/anime/53410/Yuru_Camp△_Season_3)*
+🍂 *More information: [Yakitate!! Japan](https://myanimelist.net/anime/28/Yakitate_Japan)*
     
