@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mahou Shoujo ni Akogarete
+  <strong>🥭 <u>Title:</u></strong> Giant Killing
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gushing over Magical Girls</h4>
+<h4>🌿 <u>English Title:</u> Giant Killing</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1525/139345.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/30191.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Comedy, Fantasy, Girls Love, Ecchi</h4>
+<h4>🌵 Genres: Drama, Sports</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mahou Shoujo ni Akogarete](https://myanimelist.net/anime/54722/Mahou_Shoujo_ni_Akogarete)*
+🍂 *More information: [Giant Killing](https://myanimelist.net/anime/7661/Giant_Killing)*
     
