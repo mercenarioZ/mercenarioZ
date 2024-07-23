@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Giant Killing
+  <strong>🥭 <u>Title:</u></strong> Zan Sayonara Zetsubou Sensei Bangaichi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Giant Killing</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/30191.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/17699.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Drama, Sports</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Giant Killing](https://myanimelist.net/anime/7661/Giant_Killing)*
+🍂 *More information: [Zan Sayonara Zetsubou Sensei Bangaichi](https://myanimelist.net/anime/7044/Zan_Sayonara_Zetsubou_Sensei_Bangaichi)*
     
