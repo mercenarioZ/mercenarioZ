@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kui Cheng Shoufu Cong Youxi Kaishi
+  <strong>🥭 <u>Title:</u></strong> Tunshi Xingkong 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Losing Money to Be a Tycoon</h4>
+<h4>🌿 <u>English Title:</u> Swallowed Star 2nd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1635/140669.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1558/117008.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.29/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 16</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kui Cheng Shoufu Cong Youxi Kaishi](https://myanimelist.net/anime/57663/Kui_Cheng_Shoufu_Cong_Youxi_Kaishi)*
+🍂 *More information: [Tunshi Xingkong 2nd Season](https://myanimelist.net/anime/49571/Tunshi_Xingkong_2nd_Season)*
     
