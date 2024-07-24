@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Zan Sayonara Zetsubou Sensei Bangaichi
+  <strong>🥭 <u>Title:</u></strong> Kui Cheng Shoufu Cong Youxi Kaishi
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Losing Money to Be a Tycoon</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/17699.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1635/140669.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 16</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Zan Sayonara Zetsubou Sensei Bangaichi](https://myanimelist.net/anime/7044/Zan_Sayonara_Zetsubou_Sensei_Bangaichi)*
+🍂 *More information: [Kui Cheng Shoufu Cong Youxi Kaishi](https://myanimelist.net/anime/57663/Kui_Cheng_Shoufu_Cong_Youxi_Kaishi)*
     
