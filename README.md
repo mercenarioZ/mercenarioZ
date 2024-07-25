@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tunshi Xingkong 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Tian Guan Cifu Er
 </h4>
 
-<h4>🌿 <u>English Title:</u> Swallowed Star 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> Heaven Official's Blessing Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1558/117008.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1203/139210.jpg />
 
-<h4>🌱 Score: 8.29/10</h4>
+<h4>🌱 Score: 8.67/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tunshi Xingkong 2nd Season](https://myanimelist.net/anime/49571/Tunshi_Xingkong_2nd_Season)*
+🍂 *More information: [Tian Guan Cifu Er](https://myanimelist.net/anime/50399/Tian_Guan_Cifu_Er)*
     
