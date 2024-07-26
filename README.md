@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Blue Period
+  <strong>🥭 <u>Title:</u></strong> Mushishi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Blue Period</h4>
+<h4>🌿 <u>English Title:</u> Mushi-Shi</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1757/116931.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/73862.jpg />
 
-<h4>🌱 Score: 7.8/10</h4>
+<h4>🌱 Score: 8.66/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Adventure, Mystery, Slice of Life, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Blue Period](https://myanimelist.net/anime/46352/Blue_Period)*
+🍂 *More information: [Mushishi](https://myanimelist.net/anime/457/Mushishi)*
     
