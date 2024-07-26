@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita
+  <strong>🥭 <u>Title:</u></strong> Blue Period
 </h4>
 
-<h4>🌿 <u>English Title:</u> Darker Than Black Episode 26: Beneath the Fully Bloomed Cherry Blossoms</h4>
+<h4>🌿 <u>English Title:</u> Blue Period</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/32729.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1757/116931.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita](https://myanimelist.net/anime/4182/Darker_than_Black__Kuro_no_Keiyakusha_-_Sakura_no_Hana_no_Mankai_no_Shita)*
+🍂 *More information: [Blue Period](https://myanimelist.net/anime/46352/Blue_Period)*
     
