@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mushishi
+  <strong>🥭 <u>Title:</u></strong> Liang Bu Yi 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mushi-Shi</h4>
+<h4>🌿 <u>English Title:</u> No Doubt In Us 2nd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/73862.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1385/119524.jpg />
 
-<h4>🌱 Score: 8.66/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Adventure, Mystery, Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mushishi](https://myanimelist.net/anime/457/Mushishi)*
+🍂 *More information: [Liang Bu Yi 2nd Season](https://myanimelist.net/anime/50403/Liang_Bu_Yi_2nd_Season)*
     
