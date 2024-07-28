@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> New Initial D Movie: Legend 3 - Mugen
+  <strong>🥭 <u>Title:</u></strong> Kiniro Mosaic: Pretty Days
 </h4>
 
-<h4>🌿 <u>English Title:</u> Initial D Legend 3: Dream</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/76759.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/81607.jpg />
 
-<h4>🌱 Score: 7.87/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
 <h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [New Initial D Movie: Legend 3 - Mugen](https://myanimelist.net/anime/30952/New_Initial_D_Movie__Legend_3_-_Mugen)*
+🍂 *More information: [Kiniro Mosaic: Pretty Days](https://myanimelist.net/anime/33034/Kiniro_Mosaic__Pretty_Days)*
     
