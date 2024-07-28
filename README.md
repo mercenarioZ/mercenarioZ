@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi
+  <strong>🥭 <u>Title:</u></strong> New Initial D Movie: Legend 3 - Mugen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mob Psycho 100 II: The Spirits and Such Consultation Office's First Company Outing ~A Healing Trip That Warms the Heart~</h4>
+<h4>🌿 <u>English Title:</u> Initial D Legend 3: Dream</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1605/119301.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/76759.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.87/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
+<h4>🌵 Genres: </h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi](https://myanimelist.net/anime/39651/Mob_Psycho_100__Dai_Ikkai_Rei_toka_Soudansho_Ian_Ryokou_-_Kokoro_Mitasu_Iyashi_no_Tabi)*
+🍂 *More information: [New Initial D Movie: Legend 3 - Mugen](https://myanimelist.net/anime/30952/New_Initial_D_Movie__Legend_3_-_Mugen)*
     
