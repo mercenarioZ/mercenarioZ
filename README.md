@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shijou Saikyou no Deshi Kenichi
+  <strong>🥭 <u>Title:</u></strong> Eikoku Koi Monogatari Emma: Molders-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> KenIchi: The Mightiest Disciple</h4>
+<h4>🌿 <u>English Title:</u> Emma: A Victorian Romance Season Two</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/75515.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/80118.jpg />
 
-<h4>🌱 Score: 8.04/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 50</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Shijou Saikyou no Deshi Kenichi](https://myanimelist.net/anime/1559/Shijou_Saikyou_no_Deshi_Kenichi)*
+🍂 *More information: [Eikoku Koi Monogatari Emma: Molders-hen](https://myanimelist.net/anime/2035/Eikoku_Koi_Monogatari_Emma__Molders-hen)*
     
