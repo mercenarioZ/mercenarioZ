@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kara no Kyoukai Movie 4: Garan no Dou
+  <strong>🥭 <u>Title:</u></strong> Tensei shitara Slime Datta Ken: Coleus no Yume
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Garden of Sinners Chapter 4: The Hollow Shrine</h4>
+<h4>🌿 <u>English Title:</u> That Time I Got Reincarnated as a Slime: Visions of Coleus</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/21736.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1570/135813.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kara no Kyoukai Movie 4: Garan no Dou](https://myanimelist.net/anime/4280/Kara_no_Kyoukai_Movie_4__Garan_no_Dou)*
+🍂 *More information: [Tensei shitara Slime Datta Ken: Coleus no Yume](https://myanimelist.net/anime/54565/Tensei_shitara_Slime_Datta_Ken__Coleus_no_Yume)*
     
