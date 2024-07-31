@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tensei shitara Slime Datta Ken: Coleus no Yume
+  <strong>🥭 <u>Title:</u></strong> Fate/Zero
 </h4>
 
-<h4>🌿 <u>English Title:</u> That Time I Got Reincarnated as a Slime: Visions of Coleus</h4>
+<h4>🌿 <u>English Title:</u> Fate/Zero</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1570/135813.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1887/117644.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 8.27/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Fantasy, Supernatural</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Tensei shitara Slime Datta Ken: Coleus no Yume](https://myanimelist.net/anime/54565/Tensei_shitara_Slime_Datta_Ken__Coleus_no_Yume)*
+🍂 *More information: [Fate/Zero](https://myanimelist.net/anime/10087/Fate_Zero)*
     
