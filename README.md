@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fate/Zero
+  <strong>🥭 <u>Title:</u></strong> Kageki Shoujo!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fate/Zero</h4>
+<h4>🌿 <u>English Title:</u> Kageki Shojo!!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1887/117644.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1944/114427.jpg />
 
-<h4>🌱 Score: 8.27/10</h4>
+<h4>🌱 Score: 7.73/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Supernatural</h4>
+<h4>🌵 Genres: Drama</h4>
 
 <h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fate/Zero](https://myanimelist.net/anime/10087/Fate_Zero)*
+🍂 *More information: [Kageki Shoujo!!](https://myanimelist.net/anime/43691/Kageki_Shoujo)*
     
