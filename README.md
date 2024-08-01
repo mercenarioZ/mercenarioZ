@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nodame Cantabile Finale OVA
+  <strong>🥭 <u>Title:</u></strong> Fushigi no Umi no Nadia
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Nadia: The Secret of Blue Water</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/22335.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1750/118570.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 1990</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Adventure, Comedy, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 39</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Nodame Cantabile Finale OVA](https://myanimelist.net/anime/8190/Nodame_Cantabile_Finale_OVA)*
+🍂 *More information: [Fushigi no Umi no Nadia](https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia)*
     
