@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Free! Dive to the Future
+  <strong>🥭 <u>Title:</u></strong> Jibaku Shounen Hanako-kun
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Toilet-Bound Hanako-kun</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1243/95025.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1050/111687.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Supernatural</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Free! Dive to the Future](https://myanimelist.net/anime/36704/Free_Dive_to_the_Future)*
+🍂 *More information: [Jibaku Shounen Hanako-kun](https://myanimelist.net/anime/39534/Jibaku_Shounen_Hanako-kun)*
     
