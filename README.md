@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jibaku Shounen Hanako-kun
+  <strong>🥭 <u>Title:</u></strong> Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari
 </h4>
 
-<h4>🌿 <u>English Title:</u> Toilet-Bound Hanako-kun</h4>
+<h4>🌿 <u>English Title:</u> Kaleido Star: Legend of Phoenix - The Layla Hamilton Story</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1050/111687.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/28863.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Supernatural</h4>
+<h4>🌵 Genres: Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Jibaku Shounen Hanako-kun](https://myanimelist.net/anime/39534/Jibaku_Shounen_Hanako-kun)*
+🍂 *More information: [Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari](https://myanimelist.net/anime/429/Kaleido_Star__Legend_of_Phoenix_-_Layla_Hamilton_Monogatari)*
     
