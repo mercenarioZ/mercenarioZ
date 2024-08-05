@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ookiku Furikabutte
+  <strong>🥭 <u>Title:</u></strong> Hakumei to Mikochi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Big Windup!</h4>
+<h4>🌿 <u>English Title:</u> Hakumei and Mikochi</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/20751.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1250/91694.jpg />
 
-<h4>🌱 Score: 7.87/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Fantasy, Slice of Life</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ookiku Furikabutte](https://myanimelist.net/anime/2159/Ookiku_Furikabutte)*
+🍂 *More information: [Hakumei to Mikochi](https://myanimelist.net/anime/36094/Hakumei_to_Mikochi)*
     
