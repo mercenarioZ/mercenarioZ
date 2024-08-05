@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bakuman.
+  <strong>🥭 <u>Title:</u></strong> Ookiku Furikabutte
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bakuman.</h4>
+<h4>🌿 <u>English Title:</u> Big Windup!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/26138.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/20751.jpg />
 
-<h4>🌱 Score: 8.18/10</h4>
+<h4>🌱 Score: 7.87/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Romance</h4>
+<h4>🌵 Genres: Sports</h4>
 
 <h4>🥑 Episodes: 25</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Bakuman.](https://myanimelist.net/anime/7674/Bakuman)*
+🍂 *More information: [Ookiku Furikabutte](https://myanimelist.net/anime/2159/Ookiku_Furikabutte)*
     
