@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hakumei to Mikochi
+  <strong>🥭 <u>Title:</u></strong> Shokugeki no Souma: San no Sara
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hakumei and Mikochi</h4>
+<h4>🌿 <u>English Title:</u> Food Wars! The Third Plate</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1250/91694.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/88434.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.99/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Fantasy, Slice of Life</h4>
+<h4>🌵 Genres: Gourmet, Ecchi</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Hakumei to Mikochi](https://myanimelist.net/anime/36094/Hakumei_to_Mikochi)*
+🍂 *More information: [Shokugeki no Souma: San no Sara](https://myanimelist.net/anime/35788/Shokugeki_no_Souma__San_no_Sara)*
     
