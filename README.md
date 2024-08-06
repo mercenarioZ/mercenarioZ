@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shokugeki no Souma: San no Sara
+  <strong>🥭 <u>Title:</u></strong> Glass no Kamen (2005)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Food Wars! The Third Plate</h4>
+<h4>🌿 <u>English Title:</u> Glass Mask</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/88434.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/75061.jpg />
 
-<h4>🌱 Score: 7.99/10</h4>
+<h4>🌱 Score: 8.03/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Gourmet, Ecchi</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 51</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Shokugeki no Souma: San no Sara](https://myanimelist.net/anime/35788/Shokugeki_no_Souma__San_no_Sara)*
+🍂 *More information: [Glass no Kamen (2005)](https://myanimelist.net/anime/1974/Glass_no_Kamen_2005)*
     
