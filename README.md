@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> So Ra No Wo To Specials
+  <strong>🥭 <u>Title:</u></strong> Enen no Shouboutai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sound of the Sky Specials</h4>
+<h4>🌿 <u>English Title:</u> Fire Force</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/20884.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1664/103275.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Sci-Fi, Slice of Life</h4>
+<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [So Ra No Wo To Specials](https://myanimelist.net/anime/8197/So_Ra_No_Wo_To_Specials)*
+🍂 *More information: [Enen no Shouboutai](https://myanimelist.net/anime/38671/Enen_no_Shouboutai)*
     
