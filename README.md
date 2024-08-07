@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Glass no Kamen (2005)
+  <strong>🥭 <u>Title:</u></strong> So Ra No Wo To Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Glass Mask</h4>
+<h4>🌿 <u>English Title:</u> Sound of the Sky Specials</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/75061.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/20884.jpg />
 
-<h4>🌱 Score: 8.03/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Sci-Fi, Slice of Life</h4>
 
-<h4>🥑 Episodes: 51</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Glass no Kamen (2005)](https://myanimelist.net/anime/1974/Glass_no_Kamen_2005)*
+🍂 *More information: [So Ra No Wo To Specials](https://myanimelist.net/anime/8197/So_Ra_No_Wo_To_Specials)*
     
