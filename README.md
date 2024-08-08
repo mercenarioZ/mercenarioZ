@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Enen no Shouboutai
+  <strong>🥭 <u>Title:</u></strong> Inazuma Eleven
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fire Force</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1664/103275.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1854/94704.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Enen no Shouboutai](https://myanimelist.net/anime/38671/Enen_no_Shouboutai)*
+🍂 *More information: [Inazuma Eleven](https://myanimelist.net/anime/5231/Inazuma_Eleven)*
     
