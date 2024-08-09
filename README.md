@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: The Final Season Specials
+  <strong>🥭 <u>Title:</u></strong> Fate/stay night: Unlimited Blade Works Prologue
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan: Chibi Theater - Survey Corps, The Final!</h4>
+<h4>🌿 <u>English Title:</u> Fate/stay night: Unlimited Blade Works - Prologue</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1470/117265.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/67425.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 8.04/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Fantasy, Supernatural</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin: The Final Season Specials](https://myanimelist.net/anime/49627/Shingeki_no_Kyojin__The_Final_Season_Specials)*
+🍂 *More information: [Fate/stay night: Unlimited Blade Works Prologue](https://myanimelist.net/anime/27821/Fate_stay_night__Unlimited_Blade_Works_Prologue)*
     
