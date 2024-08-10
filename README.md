@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fate/stay night: Unlimited Blade Works Prologue
+  <strong>🥭 <u>Title:</u></strong> Love Live! School Idol Project 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fate/stay night: Unlimited Blade Works - Prologue</h4>
+<h4>🌿 <u>English Title:</u> Love Live! School Idol Project 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/67425.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/59101.jpg />
 
-<h4>🌱 Score: 8.04/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Supernatural</h4>
+<h4>🌵 Genres: Award Winning, Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fate/stay night: Unlimited Blade Works Prologue](https://myanimelist.net/anime/27821/Fate_stay_night__Unlimited_Blade_Works_Prologue)*
+🍂 *More information: [Love Live! School Idol Project 2nd Season](https://myanimelist.net/anime/19111/Love_Live_School_Idol_Project_2nd_Season)*
     
