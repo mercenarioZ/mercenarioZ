@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Love Live! School Idol Project 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Muumindani no Suisei
 </h4>
 
-<h4>🌿 <u>English Title:</u> Love Live! School Idol Project 2</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/59101.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/3984.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 1992</h4>
 
-<h4>🌵 Genres: Award Winning, Slice of Life</h4>
+<h4>🌵 Genres: Adventure, Fantasy, Slice of Life</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Love Live! School Idol Project 2nd Season](https://myanimelist.net/anime/19111/Love_Live_School_Idol_Project_2nd_Season)*
+🍂 *More information: [Muumindani no Suisei](https://myanimelist.net/anime/2313/Muumindani_no_Suisei)*
     
