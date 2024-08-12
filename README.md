@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saenai Heroine no Sodatekata Fine
+  <strong>🥭 <u>Title:</u></strong> Hug tto! Precure
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saekano the Movie: Finale</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1671/111411.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1220/92883.jpg />
 
-<h4>🌱 Score: 8.42/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 49</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Saenai Heroine no Sodatekata Fine](https://myanimelist.net/anime/36885/Saenai_Heroine_no_Sodatekata_Fine)*
+🍂 *More information: [Hug tto! Precure](https://myanimelist.net/anime/36593/Hug_tto_Precure)*
     
