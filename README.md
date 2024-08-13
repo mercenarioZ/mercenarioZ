@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hug tto! Precure
+  <strong>🥭 <u>Title:</u></strong> Mahou Shoujo Lyrical Nanoha: Detonation
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1220/92883.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1084/93086.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
 <h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 49</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hug tto! Precure](https://myanimelist.net/anime/36593/Hug_tto_Precure)*
+🍂 *More information: [Mahou Shoujo Lyrical Nanoha: Detonation](https://myanimelist.net/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation)*
     
