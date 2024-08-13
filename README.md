@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mahou Shoujo Lyrical Nanoha: Detonation
+  <strong>🥭 <u>Title:</u></strong> Metropolis
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1084/93086.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/75601.jpg />
 
 <h4>🌱 Score: 7.52/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Action, Comedy, Drama</h4>
+<h4>🌵 Genres: Adventure, Drama, Romance, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Mahou Shoujo Lyrical Nanoha: Detonation](https://myanimelist.net/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation)*
+🍂 *More information: [Metropolis](https://myanimelist.net/anime/522/Metropolis)*
     
