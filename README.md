@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Metropolis
+  <strong>🥭 <u>Title:</u></strong> Hakuouki Movie 2: Shikon Soukyuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Hakuoki ~Demon of the Fleeting Blossom~ Warrior Spirit of the Blue Sky</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/75601.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/71796.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Drama, Supernatural</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Metropolis](https://myanimelist.net/anime/522/Metropolis)*
+🍂 *More information: [Hakuouki Movie 2: Shikon Soukyuu](https://myanimelist.net/anime/13119/Hakuouki_Movie_2__Shikon_Soukyuu)*
     
