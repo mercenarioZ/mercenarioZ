@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hakuouki Movie 2: Shikon Soukyuu
+  <strong>🥭 <u>Title:</u></strong> Toshokan Sensou: Kakumei no Tsubasa
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hakuoki ~Demon of the Fleeting Blossom~ Warrior Spirit of the Blue Sky</h4>
+<h4>🌿 <u>English Title:</u> Library Wars: The Wings of Revolution</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/71796.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/39273.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.73/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Drama, Supernatural</h4>
+<h4>🌵 Genres: Action, Comedy, Romance</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Hakuouki Movie 2: Shikon Soukyuu](https://myanimelist.net/anime/13119/Hakuouki_Movie_2__Shikon_Soukyuu)*
+🍂 *More information: [Toshokan Sensou: Kakumei no Tsubasa](https://myanimelist.net/anime/11001/Toshokan_Sensou__Kakumei_no_Tsubasa)*
     
