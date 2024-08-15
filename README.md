@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hourou Musuko
+  <strong>🥭 <u>Title:</u></strong> Kono Oto Tomare!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Wandering Son</h4>
+<h4>🌿 <u>English Title:</u> Kono Oto Tomare!: Sounds of Life</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/53945.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1464/99881.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.93/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hourou Musuko](https://myanimelist.net/anime/8426/Hourou_Musuko)*
+🍂 *More information: [Kono Oto Tomare!](https://myanimelist.net/anime/38080/Kono_Oto_Tomare)*
     
