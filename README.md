@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Goku Sayonara Zetsubou Sensei
+  <strong>🥭 <u>Title:</u></strong> Afro Samurai Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Goodbye Mr. Despair OAD</h4>
+<h4>🌿 <u>English Title:</u> Afro Samurai the Movie</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/14336.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/38065.jpg />
 
-<h4>🌱 Score: 7.81/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Goku Sayonara Zetsubou Sensei](https://myanimelist.net/anime/4872/Goku_Sayonara_Zetsubou_Sensei)*
+🍂 *More information: [Afro Samurai Movie](https://myanimelist.net/anime/13709/Afro_Samurai_Movie)*
     
