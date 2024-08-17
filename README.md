@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Overlord II
+  <strong>🥭 <u>Title:</u></strong> Goku Sayonara Zetsubou Sensei
 </h4>
 
-<h4>🌿 <u>English Title:</u> Overlord II</h4>
+<h4>🌿 <u>English Title:</u> Goodbye Mr. Despair OAD</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1212/113415.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/14336.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 3</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Overlord II](https://myanimelist.net/anime/35073/Overlord_II)*
+🍂 *More information: [Goku Sayonara Zetsubou Sensei](https://myanimelist.net/anime/4872/Goku_Sayonara_Zetsubou_Sensei)*
     
