@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Afro Samurai Movie
+  <strong>🥭 <u>Title:</u></strong> Seikai no Senki II
 </h4>
 
-<h4>🌿 <u>English Title:</u> Afro Samurai the Movie</h4>
+<h4>🌿 <u>English Title:</u> Banner of the Stars II</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/38065.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/61109.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Action, Adventure</h4>
+<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 10</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Afro Samurai Movie](https://myanimelist.net/anime/13709/Afro_Samurai_Movie)*
+🍂 *More information: [Seikai no Senki II](https://myanimelist.net/anime/397/Seikai_no_Senki_II)*
     
