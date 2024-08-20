@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nagi no Asu kara
+  <strong>🥭 <u>Title:</u></strong> Sidonia no Kishi: Daikyuu Wakusei Seneki
 </h4>
 
-<h4>🌿 <u>English Title:</u> A Lull in the Sea</h4>
+<h4>🌿 <u>English Title:</u> Knights of Sidonia: Battle for Planet Nine</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/53549.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/72712.jpg />
 
-<h4>🌱 Score: 7.95/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Nagi no Asu kara](https://myanimelist.net/anime/16067/Nagi_no_Asu_kara)*
+🍂 *More information: [Sidonia no Kishi: Daikyuu Wakusei Seneki](https://myanimelist.net/anime/24893/Sidonia_no_Kishi__Daikyuu_Wakusei_Seneki)*
     
