@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sidonia no Kishi: Daikyuu Wakusei Seneki
+  <strong>🥭 <u>Title:</u></strong> Black Jack 21
 </h4>
 
-<h4>🌿 <u>English Title:</u> Knights of Sidonia: Battle for Planet Nine</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/72712.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1300/133792.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Drama</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 17</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sidonia no Kishi: Daikyuu Wakusei Seneki](https://myanimelist.net/anime/24893/Sidonia_no_Kishi__Daikyuu_Wakusei_Seneki)*
+🍂 *More information: [Black Jack 21](https://myanimelist.net/anime/2214/Black_Jack_21)*
     
