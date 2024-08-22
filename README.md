@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Haikyuu!! To the Top Part 2
+  <strong>🥭 <u>Title:</u></strong> Aggressive Retsuko (ONA) 3rd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Haikyu!! To the Top 2nd-cour</h4>
+<h4>🌿 <u>English Title:</u> Aggretsuko (ONA) 3rd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1453/106768.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1049/108692.jpg />
 
-<h4>🌱 Score: 8.55/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
 <h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 10</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Haikyuu!! To the Top Part 2](https://myanimelist.net/anime/40776/Haikyuu_To_the_Top_Part_2)*
+🍂 *More information: [Aggressive Retsuko (ONA) 3rd Season](https://myanimelist.net/anime/40215/Aggressive_Retsuko_ONA_3rd_Season)*
     
