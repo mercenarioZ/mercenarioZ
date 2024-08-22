@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaiba
+  <strong>🥭 <u>Title:</u></strong> Haikyuu!! To the Top Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kaiba</h4>
+<h4>🌿 <u>English Title:</u> Haikyu!! To the Top 2nd-cour</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/13193.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1453/106768.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 8.55/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Adventure, Avant Garde, Award Winning, Mystery, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Sports</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kaiba](https://myanimelist.net/anime/3701/Kaiba)*
+🍂 *More information: [Haikyuu!! To the Top Part 2](https://myanimelist.net/anime/40776/Haikyuu_To_the_Top_Part_2)*
     
