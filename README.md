@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Chiyu Mahou no Machigatta Tsukaikata
+  <strong>🥭 <u>Title:</u></strong> Marine Shukkou!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Wrong Way to Use Healing Magic</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1733/140802.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1450/123348.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Chiyu Mahou no Machigatta Tsukaikata](https://myanimelist.net/anime/49613/Chiyu_Mahou_no_Machigatta_Tsukaikata)*
+🍂 *More information: [Marine Shukkou!!](https://myanimelist.net/anime/51710/Marine_Shukkou)*
     
