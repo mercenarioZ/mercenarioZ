@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Aggressive Retsuko (ONA) 3rd Season
+  <strong>🥭 <u>Title:</u></strong> Chiyu Mahou no Machigatta Tsukaikata
 </h4>
 
-<h4>🌿 <u>English Title:</u> Aggretsuko (ONA) 3rd Season</h4>
+<h4>🌿 <u>English Title:</u> The Wrong Way to Use Healing Magic</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1049/108692.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1733/140802.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Aggressive Retsuko (ONA) 3rd Season](https://myanimelist.net/anime/40215/Aggressive_Retsuko_ONA_3rd_Season)*
+🍂 *More information: [Chiyu Mahou no Machigatta Tsukaikata](https://myanimelist.net/anime/49613/Chiyu_Mahou_no_Machigatta_Tsukaikata)*
     
