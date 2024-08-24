@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Marine Shukkou!!
+  <strong>🥭 <u>Title:</u></strong> Kara no Kyoukai Movie 4: Garan no Dou
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Garden of Sinners Chapter 4: The Hollow Shrine</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1450/123348.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/21736.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Mystery, Supernatural, Suspense</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Marine Shukkou!!](https://myanimelist.net/anime/51710/Marine_Shukkou)*
+🍂 *More information: [Kara no Kyoukai Movie 4: Garan no Dou](https://myanimelist.net/anime/4280/Kara_no_Kyoukai_Movie_4__Garan_no_Dou)*
     
