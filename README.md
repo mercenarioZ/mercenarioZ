@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Eiga Daisuki Pompo-san
+  <strong>🥭 <u>Title:</u></strong> Koukaku Kidoutai: Stand Alone Complex
 </h4>
 
-<h4>🌿 <u>English Title:</u> Pompo: The Cinéphile</h4>
+<h4>🌿 <u>English Title:</u> Ghost in the Shell: Stand Alone Complex</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1210/119193.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/50857.jpg />
 
-<h4>🌱 Score: 8.15/10</h4>
+<h4>🌱 Score: 8.42/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Comedy, Drama</h4>
+<h4>🌵 Genres: Action, Award Winning, Mystery, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Eiga Daisuki Pompo-san](https://myanimelist.net/anime/41361/Eiga_Daisuki_Pompo-san)*
+🍂 *More information: [Koukaku Kidoutai: Stand Alone Complex](https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex)*
     
