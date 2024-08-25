@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rising Impact Season 2
+  <strong>🥭 <u>Title:</u></strong> Eiga Daisuki Pompo-san
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Pompo: The Cinéphile</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1161/144669.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1210/119193.jpg />
 
-<h4>🌱 Score: 7.92/10</h4>
+<h4>🌱 Score: 8.15/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 14</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Rising Impact Season 2](https://myanimelist.net/anime/59497/Rising_Impact_Season_2)*
+🍂 *More information: [Eiga Daisuki Pompo-san](https://myanimelist.net/anime/41361/Eiga_Daisuki_Pompo-san)*
     
