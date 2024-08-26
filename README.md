@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> BanG Dream! 5th Anniversary Animation: CiRCLE Thanks Party!
+  <strong>🥭 <u>Title:</u></strong> Yojouhan Shinwa Taikei
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Tatami Galaxy</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1343/121390.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1633/123689.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 8.56/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Award Winning, Comedy, Mystery, Romance, Suspense</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [BanG Dream! 5th Anniversary Animation: CiRCLE Thanks Party!](https://myanimelist.net/anime/51218/BanG_Dream_5th_Anniversary_Animation__CiRCLE_Thanks_Party)*
+🍂 *More information: [Yojouhan Shinwa Taikei](https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei)*
     
