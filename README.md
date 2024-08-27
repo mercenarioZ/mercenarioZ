@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yojouhan Shinwa Taikei
+  <strong>🥭 <u>Title:</u></strong> Owari no Seraph: Nagoya Kessen-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Tatami Galaxy</h4>
+<h4>🌿 <u>English Title:</u> Seraph of the End: Battle in Nagoya</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1633/123689.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/76632.jpg />
 
-<h4>🌱 Score: 8.56/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy, Mystery, Romance, Suspense</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Yojouhan Shinwa Taikei](https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei)*
+🍂 *More information: [Owari no Seraph: Nagoya Kessen-hen](https://myanimelist.net/anime/28927/Owari_no_Seraph__Nagoya_Kessen-hen)*
     
