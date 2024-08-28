@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Natsume Yuujinchou San
+  <strong>🥭 <u>Title:</u></strong> Shouwa Genroku Rakugo Shinjuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Natsume's Book of Friends Season 3</h4>
+<h4>🌿 <u>English Title:</u> Showa Genroku Rakugo Shinju</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/82394.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1354/124768.jpg />
 
-<h4>🌱 Score: 8.57/10</h4>
+<h4>🌱 Score: 8.55/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Drama</h4>
 
 <h4>🥑 Episodes: 13</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Natsume Yuujinchou San](https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San)*
+🍂 *More information: [Shouwa Genroku Rakugo Shinjuu](https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu)*
     
