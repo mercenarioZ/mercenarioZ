@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shouwa Genroku Rakugo Shinjuu
+  <strong>🥭 <u>Title:</u></strong> Macross Δ Movie 2: Zettai Live!!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Showa Genroku Rakugo Shinju</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1354/124768.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1687/117888.jpg />
 
-<h4>🌱 Score: 8.55/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shouwa Genroku Rakugo Shinjuu](https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu)*
+🍂 *More information: [Macross Δ Movie 2: Zettai Live!!!](https://myanimelist.net/anime/38373/Macross_Δ_Movie_2__Zettai_Live)*
     
