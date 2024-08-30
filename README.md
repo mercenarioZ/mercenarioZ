@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna
+  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket 3rd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Re:ZERO -Starting Life in Another World- The Frozen Bond</h4>
+<h4>🌿 <u>English Title:</u> Kuroko's Basketball 3</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1238/104023.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/68299.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 8.29/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Drama, Fantasy, Suspense</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna](https://myanimelist.net/anime/38414/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Hyouketsu_no_Kizuna)*
+🍂 *More information: [Kuroko no Basket 3rd Season](https://myanimelist.net/anime/24415/Kuroko_no_Basket_3rd_Season)*
     
