@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket 3rd Season
+  <strong>🥭 <u>Title:</u></strong> Working!!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kuroko's Basketball 3</h4>
+<h4>🌿 <u>English Title:</u> Wagnaria!!3</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/68299.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/73886.jpg />
 
-<h4>🌱 Score: 8.29/10</h4>
+<h4>🌱 Score: 7.95/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuroko no Basket 3rd Season](https://myanimelist.net/anime/24415/Kuroko_no_Basket_3rd_Season)*
+🍂 *More information: [Working!!!](https://myanimelist.net/anime/25879/Working)*
     
