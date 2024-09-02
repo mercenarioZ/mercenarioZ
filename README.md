@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ramayana: The Legend of Prince Rama
+  <strong>🥭 <u>Title:</u></strong> Gabriel DropOut Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ramayana: The Legend of Prince Rama</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1070/104671.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/89690.jpg />
 
-<h4>🌱 Score: 8.38/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 1993</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Adventure</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ramayana: The Legend of Prince Rama](https://myanimelist.net/anime/4921/Ramayana__The_Legend_of_Prince_Rama)*
+🍂 *More information: [Gabriel DropOut Specials](https://myanimelist.net/anime/34855/Gabriel_DropOut_Specials)*
     
