@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dance Dance Danseur
+  <strong>🥭 <u>Title:</u></strong> Ramayana: The Legend of Prince Rama
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dance Dance Danseur</h4>
+<h4>🌿 <u>English Title:</u> Ramayana: The Legend of Prince Rama</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1571/121381.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1070/104671.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 8.38/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 1993</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Adventure</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Dance Dance Danseur](https://myanimelist.net/anime/48702/Dance_Dance_Danseur)*
+🍂 *More information: [Ramayana: The Legend of Prince Rama](https://myanimelist.net/anime/4921/Ramayana__The_Legend_of_Prince_Rama)*
     
