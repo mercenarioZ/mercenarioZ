@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> InuYasha Movie 1: Toki wo Koeru Omoi
+  <strong>🥭 <u>Title:</u></strong> Hakumei no Tsubasa
 </h4>
 
-<h4>🌿 <u>English Title:</u> InuYasha the Movie: Affections Touching Across Time</h4>
+<h4>🌿 <u>English Title:</u> Pokémon: Twilight Wings</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1683/94370.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1399/104762.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 7</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [InuYasha Movie 1: Toki wo Koeru Omoi](https://myanimelist.net/anime/452/InuYasha_Movie_1__Toki_wo_Koeru_Omoi)*
+🍂 *More information: [Hakumei no Tsubasa](https://myanimelist.net/anime/40861/Hakumei_no_Tsubasa)*
     
