@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gabriel DropOut Specials
+  <strong>🥭 <u>Title:</u></strong> InuYasha Movie 1: Toki wo Koeru Omoi
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> InuYasha the Movie: Affections Touching Across Time</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/89690.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1683/94370.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Comedy, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gabriel DropOut Specials](https://myanimelist.net/anime/34855/Gabriel_DropOut_Specials)*
+🍂 *More information: [InuYasha Movie 1: Toki wo Koeru Omoi](https://myanimelist.net/anime/452/InuYasha_Movie_1__Toki_wo_Koeru_Omoi)*
     
