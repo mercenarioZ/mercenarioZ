@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Pokemon Movie 01: Mewtwo no Gyakushuu
+  <strong>🥭 <u>Title:</u></strong> Free! Eternal Summer: Kindan no All Hard!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Pokémon: The First Movie - Mewtwo Strikes Back</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1513/140273.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/73125.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 1998</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Pokemon Movie 01: Mewtwo no Gyakushuu](https://myanimelist.net/anime/528/Pokemon_Movie_01__Mewtwo_no_Gyakushuu)*
+🍂 *More information: [Free! Eternal Summer: Kindan no All Hard!](https://myanimelist.net/anime/26213/Free_Eternal_Summer__Kindan_no_All_Hard)*
     
