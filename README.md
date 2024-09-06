@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yao Shen Ji 5th Season
+  <strong>🥭 <u>Title:</u></strong> K: Missing Kings
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tales of Demons and Gods Season 5</h4>
+<h4>🌿 <u>English Title:</u> K: Missing Kings</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1390/119371.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/71795.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yao Shen Ji 5th Season](https://myanimelist.net/anime/50274/Yao_Shen_Ji_5th_Season)*
+🍂 *More information: [K: Missing Kings](https://myanimelist.net/anime/16904/K__Missing_Kings)*
     
