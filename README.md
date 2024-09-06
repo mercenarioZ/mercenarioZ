@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> K: Missing Kings
+  <strong>🥭 <u>Title:</u></strong> Given Movie 1
 </h4>
 
-<h4>🌿 <u>English Title:</u> K: Missing Kings</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/71795.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1648/111422.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 8.12/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Boys Love, Drama</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [K: Missing Kings](https://myanimelist.net/anime/16904/K__Missing_Kings)*
+🍂 *More information: [Given Movie 1](https://myanimelist.net/anime/40421/Given_Movie_1)*
     
