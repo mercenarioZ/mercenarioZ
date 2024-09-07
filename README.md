@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Given Movie 1
+  <strong>🥭 <u>Title:</u></strong> Junjou Romantica OVA
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1648/111422.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/60389.jpg />
 
-<h4>🌱 Score: 8.12/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Boys Love, Drama</h4>
+<h4>🌵 Genres: Boys Love, Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Given Movie 1](https://myanimelist.net/anime/40421/Given_Movie_1)*
+🍂 *More information: [Junjou Romantica OVA](https://myanimelist.net/anime/13767/Junjou_Romantica_OVA)*
     
