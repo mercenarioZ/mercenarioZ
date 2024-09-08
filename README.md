@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Grand Blue
+  <strong>🥭 <u>Title:</u></strong> Basilisk: Kouga Ninpou Chou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Grand Blue Dreaming</h4>
+<h4>🌿 <u>English Title:</u> Basilisk</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1302/94882.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1103/133549.jpg />
 
-<h4>🌱 Score: 8.43/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Grand Blue](https://myanimelist.net/anime/37105/Grand_Blue)*
+🍂 *More information: [Basilisk: Kouga Ninpou Chou](https://myanimelist.net/anime/67/Basilisk__Kouga_Ninpou_Chou)*
     
