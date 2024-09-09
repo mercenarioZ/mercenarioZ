@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Basilisk: Kouga Ninpou Chou
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan OVA 10: Kid in Trap Island
 </h4>
 
-<h4>🌿 <u>English Title:</u> Basilisk</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan OVA 10: Kid in Trap Island</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1103/133549.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/23698.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Drama, Romance</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Basilisk: Kouga Ninpou Chou](https://myanimelist.net/anime/67/Basilisk__Kouga_Ninpou_Chou)*
+🍂 *More information: [Meitantei Conan OVA 10: Kid in Trap Island](https://myanimelist.net/anime/8609/Meitantei_Conan_OVA_10__Kid_in_Trap_Island)*
     
