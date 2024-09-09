@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan OVA 10: Kid in Trap Island
+  <strong>🥭 <u>Title:</u></strong> Dekiru Neko wa Kyou mo Yuuutsu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan OVA 10: Kid in Trap Island</h4>
+<h4>🌿 <u>English Title:</u> The Masterful Cat Is Depressed Again Today</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/23698.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1074/136720.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan OVA 10: Kid in Trap Island](https://myanimelist.net/anime/8609/Meitantei_Conan_OVA_10__Kid_in_Trap_Island)*
+🍂 *More information: [Dekiru Neko wa Kyou mo Yuuutsu](https://myanimelist.net/anime/51916/Dekiru_Neko_wa_Kyou_mo_Yuuutsu)*
     
