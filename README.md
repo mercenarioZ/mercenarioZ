@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fullmetal Alchemist: The Conqueror of Shamballa
+  <strong>🥭 <u>Title:</u></strong> Ansatsu Kyoushitsu 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fullmetal Alchemist: The Movie - Conqueror of Shamballa</h4>
+<h4>🌿 <u>English Title:</u> Assassination Classroom Second Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1707/94039.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/77966.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 8.48/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fullmetal Alchemist: The Conqueror of Shamballa](https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa)*
+🍂 *More information: [Ansatsu Kyoushitsu 2nd Season](https://myanimelist.net/anime/30654/Ansatsu_Kyoushitsu_2nd_Season)*
     
