@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dekiru Neko wa Kyou mo Yuuutsu
+  <strong>🥭 <u>Title:</u></strong> Fullmetal Alchemist: The Conqueror of Shamballa
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Masterful Cat Is Depressed Again Today</h4>
+<h4>🌿 <u>English Title:</u> Fullmetal Alchemist: The Movie - Conqueror of Shamballa</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1074/136720.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1707/94039.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Comedy, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Award Winning, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Dekiru Neko wa Kyou mo Yuuutsu](https://myanimelist.net/anime/51916/Dekiru_Neko_wa_Kyou_mo_Yuuutsu)*
+🍂 *More information: [Fullmetal Alchemist: The Conqueror of Shamballa](https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa)*
     
