@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon
+  <strong>🥭 <u>Title:</u></strong> Boku no Kokoro no Yabai Yatsu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sailor Moon</h4>
+<h4>🌿 <u>English Title:</u> The Dangers in My Heart</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1440/92258.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1545/133887.jpg />
 
-<h4>🌱 Score: 7.74/10</h4>
+<h4>🌱 Score: 8.24/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1992</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Fantasy, Romance</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 46</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bishoujo Senshi Sailor Moon](https://myanimelist.net/anime/530/Bishoujo_Senshi_Sailor_Moon)*
+🍂 *More information: [Boku no Kokoro no Yabai Yatsu](https://myanimelist.net/anime/52578/Boku_no_Kokoro_no_Yabai_Yatsu)*
     
