@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ansatsu Kyoushitsu 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon
 </h4>
 
-<h4>🌿 <u>English Title:</u> Assassination Classroom Second Season</h4>
+<h4>🌿 <u>English Title:</u> Sailor Moon</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/77966.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1440/92258.jpg />
 
-<h4>🌱 Score: 8.48/10</h4>
+<h4>🌱 Score: 7.74/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 1992</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 46</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ansatsu Kyoushitsu 2nd Season](https://myanimelist.net/anime/30654/Ansatsu_Kyoushitsu_2nd_Season)*
+🍂 *More information: [Bishoujo Senshi Sailor Moon](https://myanimelist.net/anime/530/Bishoujo_Senshi_Sailor_Moon)*
     
