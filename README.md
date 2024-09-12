@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Boku no Kokoro no Yabai Yatsu
+  <strong>🥭 <u>Title:</u></strong> Totsukuni no Shoujo (2022)
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Dangers in My Heart</h4>
+<h4>🌿 <u>English Title:</u> The Girl From the Other Side</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1545/133887.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1957/113267.jpg />
 
-<h4>🌱 Score: 8.24/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Boku no Kokoro no Yabai Yatsu](https://myanimelist.net/anime/52578/Boku_no_Kokoro_no_Yabai_Yatsu)*
+🍂 *More information: [Totsukuni no Shoujo (2022)](https://myanimelist.net/anime/48405/Totsukuni_no_Shoujo_2022)*
     
