@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Totsukuni no Shoujo (2022)
+  <strong>🥭 <u>Title:</u></strong> Lupin III
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Girl From the Other Side</h4>
+<h4>🌿 <u>English Title:</u> Lupin III</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1957/113267.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/15625.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 1971</h4>
 
-<h4>🌵 Genres: Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 23</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Totsukuni no Shoujo (2022)](https://myanimelist.net/anime/48405/Totsukuni_no_Shoujo_2022)*
+🍂 *More information: [Lupin III](https://myanimelist.net/anime/1412/Lupin_III)*
     
