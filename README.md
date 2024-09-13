@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Lupin III
+  <strong>🥭 <u>Title:</u></strong> Kiniro Mosaic: Pretty Days
 </h4>
 
-<h4>🌿 <u>English Title:</u> Lupin III</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/15625.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/81607.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1971</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 23</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Lupin III](https://myanimelist.net/anime/1412/Lupin_III)*
+🍂 *More information: [Kiniro Mosaic: Pretty Days](https://myanimelist.net/anime/33034/Kiniro_Mosaic__Pretty_Days)*
     
