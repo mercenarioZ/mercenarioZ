@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kiniro Mosaic: Pretty Days
+  <strong>🥭 <u>Title:</u></strong> Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Beyond the Boundary: I'll Be Here - Future</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/81607.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/72614.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 8.14/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Fantasy, Romance</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Kiniro Mosaic: Pretty Days](https://myanimelist.net/anime/33034/Kiniro_Mosaic__Pretty_Days)*
+🍂 *More information: [Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen](https://myanimelist.net/anime/28675/Kyoukai_no_Kanata_Movie_2__Ill_Be_Here_-_Mirai-hen)*
     
