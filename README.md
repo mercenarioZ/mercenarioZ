@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Full Moon wo Sagashite
+  <strong>🥭 <u>Title:</u></strong> Dragon Ball Kai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Searching for the Full Moon</h4>
+<h4>🌿 <u>English Title:</u> Dragon Ball Z Kai</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1900/99154.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1102/133990.jpg />
 
-<h4>🌱 Score: 7.93/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 52</h4>
+<h4>🥑 Episodes: 97</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Full Moon wo Sagashite](https://myanimelist.net/anime/122/Full_Moon_wo_Sagashite)*
+🍂 *More information: [Dragon Ball Kai](https://myanimelist.net/anime/6033/Dragon_Ball_Kai)*
     
