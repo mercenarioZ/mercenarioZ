@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mairimashita! Iruma-kun 3rd Season
+  <strong>🥭 <u>Title:</u></strong> Full Moon wo Sagashite
 </h4>
 
-<h4>🌿 <u>English Title:</u> Welcome to Demon School! Iruma-kun Season 3</h4>
+<h4>🌿 <u>English Title:</u> Searching for the Full Moon</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1688/128720.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1900/99154.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.93/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Drama, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 21</h4>
+<h4>🥑 Episodes: 52</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mairimashita! Iruma-kun 3rd Season](https://myanimelist.net/anime/49784/Mairimashita_Iruma-kun_3rd_Season)*
+🍂 *More information: [Full Moon wo Sagashite](https://myanimelist.net/anime/122/Full_Moon_wo_Sagashite)*
     
