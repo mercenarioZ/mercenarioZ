@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dragon Ball Kai
+  <strong>🥭 <u>Title:</u></strong> Yahari Ore no Seishun Love Comedy wa Machigatteiru.
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dragon Ball Z Kai</h4>
+<h4>🌿 <u>English Title:</u> My Teen Romantic Comedy SNAFU</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1102/133990.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1786/120117.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 8/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 97</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Dragon Ball Kai](https://myanimelist.net/anime/6033/Dragon_Ball_Kai)*
+🍂 *More information: [Yahari Ore no Seishun Love Comedy wa Machigatteiru.](https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru)*
     
