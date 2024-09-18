@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yume-iro Pâtissière SP Professional
+  <strong>🥭 <u>Title:</u></strong> Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Darker Than Black Episode 26: Beneath the Fully Bloomed Cherry Blossoms</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/27794.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/32729.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Gourmet, Slice of Life</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Yume-iro Pâtissière SP Professional](https://myanimelist.net/anime/9441/Yume-iro_Pâtissière_SP_Professional)*
+🍂 *More information: [Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita](https://myanimelist.net/anime/4182/Darker_than_Black__Kuro_no_Keiyakusha_-_Sakura_no_Hana_no_Mankai_no_Shita)*
     
