@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimi wa Houkago Insomnia
+  <strong>🥭 <u>Title:</u></strong> Junjou Romantica OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> Insomniacs After School</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1402/134007.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/60389.jpg />
 
-<h4>🌱 Score: 8.07/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Boys Love, Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kimi wa Houkago Insomnia](https://myanimelist.net/anime/50796/Kimi_wa_Houkago_Insomnia)*
+🍂 *More information: [Junjou Romantica OVA](https://myanimelist.net/anime/13767/Junjou_Romantica_OVA)*
     
