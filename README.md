@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Josee to Tora to Sakana-tachi
+  <strong>🥭 <u>Title:</u></strong> Wushen Zhuzai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Josee, the Tiger and the Fish</h4>
+<h4>🌿 <u>English Title:</u> The God of War Dominates</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1714/108892.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1738/107609.jpg />
 
-<h4>🌱 Score: 8.39/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
 <h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Josee to Tora to Sakana-tachi](https://myanimelist.net/anime/40787/Josee_to_Tora_to_Sakana-tachi)*
+🍂 *More information: [Wushen Zhuzai](https://myanimelist.net/anime/41409/Wushen_Zhuzai)*
     
