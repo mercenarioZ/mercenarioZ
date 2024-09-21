@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoujo☆Kageki Revue Starlight Movie
+  <strong>🥭 <u>Title:</u></strong> Josee to Tora to Sakana-tachi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Revue Starlight: The Movie</h4>
+<h4>🌿 <u>English Title:</u> Josee, the Tiger and the Fish</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1378/119190.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1714/108892.jpg />
 
-<h4>🌱 Score: 8.52/10</h4>
+<h4>🌱 Score: 8.39/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Shoujo☆Kageki Revue Starlight Movie](https://myanimelist.net/anime/40664/Shoujo☆Kageki_Revue_Starlight_Movie)*
+🍂 *More information: [Josee to Tora to Sakana-tachi](https://myanimelist.net/anime/40787/Josee_to_Tora_to_Sakana-tachi)*
     
