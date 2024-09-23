@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yume-iro Pâtissière
+  <strong>🥭 <u>Title:</u></strong> Zombieland Saga Revenge
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Zombie Land Saga Revenge</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1076/134431.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1118/115156.jpg />
 
-<h4>🌱 Score: 7.84/10</h4>
+<h4>🌱 Score: 8/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Gourmet</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 50</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Yume-iro Pâtissière](https://myanimelist.net/anime/6586/Yume-iro_Pâtissière)*
+🍂 *More information: [Zombieland Saga Revenge](https://myanimelist.net/anime/40174/Zombieland_Saga_Revenge)*
     
