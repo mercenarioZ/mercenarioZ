@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tensei shitara Slime Datta Ken OVA
+  <strong>🥭 <u>Title:</u></strong> Cardcaptor Sakura Movie 1
 </h4>
 
-<h4>🌿 <u>English Title:</u> That Time I Got Reincarnated as a Slime OAD</h4>
+<h4>🌿 <u>English Title:</u> Cardcaptor Sakura The Movie</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1230/118297.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1733/90336.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Award Winning, Comedy, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 5</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Tensei shitara Slime Datta Ken OVA](https://myanimelist.net/anime/38793/Tensei_shitara_Slime_Datta_Ken_OVA)*
+🍂 *More information: [Cardcaptor Sakura Movie 1](https://myanimelist.net/anime/371/Cardcaptor_Sakura_Movie_1)*
     
