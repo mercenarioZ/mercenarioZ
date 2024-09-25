@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cardcaptor Sakura Movie 1
+  <strong>🥭 <u>Title:</u></strong> Yuukoku no Moriarty OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> Cardcaptor Sakura The Movie</h4>
+<h4>🌿 <u>English Title:</u> Moriarty the Patriot OVA</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1733/90336.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1158/119868.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy, Drama, Fantasy</h4>
+<h4>🌵 Genres: Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Cardcaptor Sakura Movie 1](https://myanimelist.net/anime/371/Cardcaptor_Sakura_Movie_1)*
+🍂 *More information: [Yuukoku no Moriarty OVA](https://myanimelist.net/anime/49733/Yuukoku_no_Moriarty_OVA)*
     
