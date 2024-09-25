@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuukoku no Moriarty OVA
+  <strong>🥭 <u>Title:</u></strong> Golden Kamuy
 </h4>
 
-<h4>🌿 <u>English Title:</u> Moriarty the Patriot OVA</h4>
+<h4>🌿 <u>English Title:</u> Golden Kamuy</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1158/119868.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1145/90880.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Mystery, Suspense</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Yuukoku no Moriarty OVA](https://myanimelist.net/anime/49733/Yuukoku_no_Moriarty_OVA)*
+🍂 *More information: [Golden Kamuy](https://myanimelist.net/anime/36028/Golden_Kamuy)*
     
