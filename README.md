@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kotarou wa Hitorigurashi
+  <strong>🥭 <u>Title:</u></strong> Yondemasu yo, Azazel-san. (TV)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kotaro Lives Alone</h4>
+<h4>🌿 <u>English Title:</u> You're Being Summoned, Azazel</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1862/121020.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/75284.jpg />
 
-<h4>🌱 Score: 8.18/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kotarou wa Hitorigurashi](https://myanimelist.net/anime/49909/Kotarou_wa_Hitorigurashi)*
+🍂 *More information: [Yondemasu yo, Azazel-san. (TV)](https://myanimelist.net/anime/10216/Yondemasu_yo_Azazel-san_TV)*
     
