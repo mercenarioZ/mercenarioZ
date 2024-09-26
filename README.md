@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Golden Kamuy
+  <strong>🥭 <u>Title:</u></strong> Kotarou wa Hitorigurashi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Golden Kamuy</h4>
+<h4>🌿 <u>English Title:</u> Kotaro Lives Alone</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1145/90880.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1862/121020.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 8.18/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 10</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Golden Kamuy](https://myanimelist.net/anime/36028/Golden_Kamuy)*
+🍂 *More information: [Kotarou wa Hitorigurashi](https://myanimelist.net/anime/49909/Kotarou_wa_Hitorigurashi)*
     
