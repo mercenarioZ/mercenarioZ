@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yondemasu yo, Azazel-san. (TV)
+  <strong>🥭 <u>Title:</u></strong> Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma
 </h4>
 
-<h4>🌿 <u>English Title:</u> You're Being Summoned, Azazel</h4>
+<h4>🌿 <u>English Title:</u> Donten: Laughing Under the Clouds - Gaiden: Chapter 2 - The Tragedy of Fuuma Ninja Tribe</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/75284.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1013/93320.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Comedy, Supernatural</h4>
+<h4>🌵 Genres: Action, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yondemasu yo, Azazel-san. (TV)](https://myanimelist.net/anime/10216/Yondemasu_yo_Azazel-san_TV)*
+🍂 *More information: [Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma](https://myanimelist.net/anime/35424/Donten_ni_Warau_Gaiden__Shukumei_Soutou_no_Fuuma)*
     
