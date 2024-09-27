@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 07: Meikyuu no Crossroad
 </h4>
 
-<h4>🌿 <u>English Title:</u> Donten: Laughing Under the Clouds - Gaiden: Chapter 2 - The Tragedy of Fuuma Ninja Tribe</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 07: Crossroad in the Ancient Capital</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1013/93320.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/20984.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma](https://myanimelist.net/anime/35424/Donten_ni_Warau_Gaiden__Shukumei_Soutou_no_Fuuma)*
+🍂 *More information: [Meitantei Conan Movie 07: Meikyuu no Crossroad](https://myanimelist.net/anime/1366/Meitantei_Conan_Movie_07__Meikyuu_no_Crossroad)*
     
