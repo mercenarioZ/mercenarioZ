@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 07: Meikyuu no Crossroad
+  <strong>🥭 <u>Title:</u></strong> Hanasaku Iroha
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 07: Crossroad in the Ancient Capital</h4>
+<h4>🌿 <u>English Title:</u> Hanasaku Iroha: Blossoms for Tomorrow</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/20984.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1491/117229.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.89/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 07: Meikyuu no Crossroad](https://myanimelist.net/anime/1366/Meitantei_Conan_Movie_07__Meikyuu_no_Crossroad)*
+🍂 *More information: [Hanasaku Iroha](https://myanimelist.net/anime/9289/Hanasaku_Iroha)*
     
