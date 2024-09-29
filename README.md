@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mutsu Enmei Ryuu Gaiden: Shura no Toki
+  <strong>🥭 <u>Title:</u></strong> Yuru Camp△ Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Time of Shura</h4>
+<h4>🌿 <u>English Title:</u> Laid-Back Camp: The Movie</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/56847.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1806/124396.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 8.4/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mutsu Enmei Ryuu Gaiden: Shura no Toki](https://myanimelist.net/anime/340/Mutsu_Enmei_Ryuu_Gaiden__Shura_no_Toki)*
+🍂 *More information: [Yuru Camp△ Movie](https://myanimelist.net/anime/38475/Yuru_Camp△_Movie)*
     
