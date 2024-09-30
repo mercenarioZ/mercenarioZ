@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ginga Nagareboshi Gin
+  <strong>🥭 <u>Title:</u></strong> Yume-iro Pâtissière SP Professional
 </h4>
 
-<h4>🌿 <u>English Title:</u> Silver Fang</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/47461.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/27794.jpg />
 
-<h4>🌱 Score: 8.02/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1986</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama</h4>
+<h4>🌵 Genres: Gourmet, Slice of Life</h4>
 
-<h4>🥑 Episodes: 21</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Ginga Nagareboshi Gin](https://myanimelist.net/anime/589/Ginga_Nagareboshi_Gin)*
+🍂 *More information: [Yume-iro Pâtissière SP Professional](https://myanimelist.net/anime/9441/Yume-iro_Pâtissière_SP_Professional)*
     
