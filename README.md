@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yume-iro Pâtissière SP Professional
+  <strong>🥭 <u>Title:</u></strong> Chibi Maruko-chan
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/27794.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/22476.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 1990</h4>
 
-<h4>🌵 Genres: Gourmet, Slice of Life</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Yume-iro Pâtissière SP Professional](https://myanimelist.net/anime/9441/Yume-iro_Pâtissière_SP_Professional)*
+🍂 *More information: [Chibi Maruko-chan](https://myanimelist.net/anime/951/Chibi_Maruko-chan)*
     
