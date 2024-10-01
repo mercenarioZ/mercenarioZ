@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Zan Sayonara Zetsubou Sensei
+  <strong>🥭 <u>Title:</u></strong> Tenki no Ko
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Weathering with You</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/78774.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1880/101146.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 8.27/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Award Winning, Drama, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Zan Sayonara Zetsubou Sensei](https://myanimelist.net/anime/6377/Zan_Sayonara_Zetsubou_Sensei)*
+🍂 *More information: [Tenki no Ko](https://myanimelist.net/anime/38826/Tenki_no_Ko)*
     
