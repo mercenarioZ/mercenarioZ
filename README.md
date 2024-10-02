@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kumichou Musume to Sewagakari
+  <strong>🥭 <u>Title:</u></strong> Arslan Senki (TV)
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Yakuza's Guide to Babysitting</h4>
+<h4>🌿 <u>English Title:</u> The Heroic Legend of Arslan</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1454/122063.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/73588.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kumichou Musume to Sewagakari](https://myanimelist.net/anime/49776/Kumichou_Musume_to_Sewagakari)*
+🍂 *More information: [Arslan Senki (TV)](https://myanimelist.net/anime/28249/Arslan_Senki_TV)*
     
