@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tenki no Ko
+  <strong>🥭 <u>Title:</u></strong> Kumichou Musume to Sewagakari
 </h4>
 
-<h4>🌿 <u>English Title:</u> Weathering with You</h4>
+<h4>🌿 <u>English Title:</u> The Yakuza's Guide to Babysitting</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1880/101146.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1454/122063.jpg />
 
-<h4>🌱 Score: 8.27/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Award Winning, Drama, Romance, Supernatural</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tenki no Ko](https://myanimelist.net/anime/38826/Tenki_no_Ko)*
+🍂 *More information: [Kumichou Musume to Sewagakari](https://myanimelist.net/anime/49776/Kumichou_Musume_to_Sewagakari)*
     
