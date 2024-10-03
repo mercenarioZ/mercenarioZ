@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi
+  <strong>🥭 <u>Title:</u></strong> JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Ancient Magus' Bride: The Boy from the West and the Knight of the Blue Storm</h4>
+<h4>🌿 <u>English Title:</u> JoJo's Bizarre Adventure: Diamond Is Unbreakable</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1534/129413.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/79156.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 8.5/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 39</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi](https://myanimelist.net/anime/48438/Mahoutsukai_no_Yome__Nishi_no_Shounen_to_Seiran_no_Kishi)*
+🍂 *More information: [JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai](https://myanimelist.net/anime/31933/JoJo_no_Kimyou_na_Bouken_Part_4__Diamond_wa_Kudakenai)*
     
