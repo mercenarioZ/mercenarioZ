@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+  <strong>🥭 <u>Title:</u></strong> Bai Yao Pu 3rd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> JoJo's Bizarre Adventure: Diamond Is Unbreakable</h4>
+<h4>🌿 <u>English Title:</u> Fairies Albums 3</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/79156.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1889/119939.jpg />
 
-<h4>🌱 Score: 8.5/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Fantasy, Mystery, Supernatural</h4>
 
-<h4>🥑 Episodes: 39</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai](https://myanimelist.net/anime/31933/JoJo_no_Kimyou_na_Bouken_Part_4__Diamond_wa_Kudakenai)*
+🍂 *More information: [Bai Yao Pu 3rd Season](https://myanimelist.net/anime/50537/Bai_Yao_Pu_3rd_Season)*
     
