@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bai Yao Pu 3rd Season
+  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba: Katanakaji no Sato-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fairies Albums 3</h4>
+<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1889/119939.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1765/135099.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 8.21/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Adventure, Fantasy, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Bai Yao Pu 3rd Season](https://myanimelist.net/anime/50537/Bai_Yao_Pu_3rd_Season)*
+🍂 *More information: [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime/51019/Kimetsu_no_Yaiba__Katanakaji_no_Sato-hen)*
     
