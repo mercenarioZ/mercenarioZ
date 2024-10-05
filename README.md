@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba: Katanakaji no Sato-hen
+  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc</h4>
+<h4>🌿 <u>English Title:</u> Sound! Euphonium 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1765/135099.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/81155.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 8.33/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kimetsu no Yaiba: Katanakaji no Sato-hen](https://myanimelist.net/anime/51019/Kimetsu_no_Yaiba__Katanakaji_no_Sato-hen)*
+🍂 *More information: [Hibike! Euphonium 2](https://myanimelist.net/anime/31988/Hibike_Euphonium_2)*
     
