@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Golden Kamuy 2nd Season OVA
+  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium: Ensemble Contest-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Sound! Euphonium: Ensemble Contest Arc</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1101/100258.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1952/135162.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Adventure</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Golden Kamuy 2nd Season OVA](https://myanimelist.net/anime/38710/Golden_Kamuy_2nd_Season_OVA)*
+🍂 *More information: [Hibike! Euphonium: Ensemble Contest-hen](https://myanimelist.net/anime/51995/Hibike_Euphonium__Ensemble_Contest-hen)*
     
