@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium: Ensemble Contest-hen
+  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon Eternal Movie 1
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sound! Euphonium: Ensemble Contest Arc</h4>
+<h4>🌿 <u>English Title:</u> Pretty Guardian Sailor Moon Eternal The Movie Part 1</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1952/135162.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1312/110461.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Romance</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Hibike! Euphonium: Ensemble Contest-hen](https://myanimelist.net/anime/51995/Hibike_Euphonium__Ensemble_Contest-hen)*
+🍂 *More information: [Bishoujo Senshi Sailor Moon Eternal Movie 1](https://myanimelist.net/anime/40024/Bishoujo_Senshi_Sailor_Moon_Eternal_Movie_1)*
     
