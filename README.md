@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sekaiichi Hatsukoi: Valentine-hen
+  <strong>🥭 <u>Title:</u></strong> Maria-sama ga Miteru: Haru
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Maria Watches Over Us: Printemps</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/55723.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/75208.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Boys Love</h4>
+<h4>🌵 Genres: Drama, Girls Love</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sekaiichi Hatsukoi: Valentine-hen](https://myanimelist.net/anime/20815/Sekaiichi_Hatsukoi__Valentine-hen)*
+🍂 *More information: [Maria-sama ga Miteru: Haru](https://myanimelist.net/anime/444/Maria-sama_ga_Miteru__Haru)*
     
