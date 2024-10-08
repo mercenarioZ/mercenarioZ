@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Maria-sama ga Miteru: Haru
+  <strong>🥭 <u>Title:</u></strong> Wind Breaker
 </h4>
 
-<h4>🌿 <u>English Title:</u> Maria Watches Over Us: Printemps</h4>
+<h4>🌿 <u>English Title:</u> Wind Breaker</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/75208.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1438/141816.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Drama, Girls Love</h4>
+<h4>🌵 Genres: Action</h4>
 
 <h4>🥑 Episodes: 13</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Maria-sama ga Miteru: Haru](https://myanimelist.net/anime/444/Maria-sama_ga_Miteru__Haru)*
+🍂 *More information: [Wind Breaker](https://myanimelist.net/anime/54900/Wind_Breaker)*
     
