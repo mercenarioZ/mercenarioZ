@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kobayashi-san Chi no Maid Dragon
+  <strong>🥭 <u>Title:</u></strong> One Piece
 </h4>
 
-<h4>🌿 <u>English Title:</u> Miss Kobayashi's Dragon Maid</h4>
+<h4>🌿 <u>English Title:</u> One Piece</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/85434.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1244/138851.jpg />
 
-<h4>🌱 Score: 7.93/10</h4>
+<h4>🌱 Score: 8.72/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Fantasy, Slice of Life</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: null</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kobayashi-san Chi no Maid Dragon](https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon)*
+🍂 *More information: [One Piece](https://myanimelist.net/anime/21/One_Piece)*
     
