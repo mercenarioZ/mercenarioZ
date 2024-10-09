@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece
+  <strong>🥭 <u>Title:</u></strong> Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece</h4>
+<h4>🌿 <u>English Title:</u> Rascal Does Not Dream of a Dreaming Girl</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1244/138851.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1613/102179.jpg />
 
-<h4>🌱 Score: 8.72/10</h4>
+<h4>🌱 Score: 8.59/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [One Piece](https://myanimelist.net/anime/21/One_Piece)*
+🍂 *More information: [Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai](https://myanimelist.net/anime/38329/Seishun_Buta_Yarou_wa_Yumemiru_Shoujo_no_Yume_wo_Minai)*
     
