@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaijuu 8-gou
+  <strong>🥭 <u>Title:</u></strong> Turn A Gundam
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kaiju No. 8</h4>
+<h4>🌿 <u>English Title:</u> ∀ Gundam</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1370/140362.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/78330.jpg />
 
-<h4>🌱 Score: 8.32/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Award Winning, Drama, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 50</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kaijuu 8-gou](https://myanimelist.net/anime/52588/Kaijuu_8-gou)*
+🍂 *More information: [Turn A Gundam](https://myanimelist.net/anime/95/Turn_A_Gundam)*
     
