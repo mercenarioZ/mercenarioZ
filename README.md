@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Turn A Gundam
+  <strong>🥭 <u>Title:</u></strong> Higashi no Eden Movie I: The King of Eden
 </h4>
 
-<h4>🌿 <u>English Title:</u> ∀ Gundam</h4>
+<h4>🌿 <u>English Title:</u> Eden of The East the Movie I: The King of Eden</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/78330.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/19101.jpg />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Drama, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Mystery, Romance, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 50</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Turn A Gundam](https://myanimelist.net/anime/95/Turn_A_Gundam)*
+🍂 *More information: [Higashi no Eden Movie I: The King of Eden](https://myanimelist.net/anime/6372/Higashi_no_Eden_Movie_I__The_King_of_Eden)*
     
