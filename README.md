@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Momoko, Kaeru no Uta ga Kikoeru yo.
+  <strong>🥭 <u>Title:</u></strong> Huangjin Tingyuan: Dongri Li de Xinnian Yuanwang
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Sister Momoko</h4>
+<h4>🌿 <u>English Title:</u> Golden Courtyard: New Year Wishes in Winter</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1162/112724.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1830/134820.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Drama, Slice of Life</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Momoko, Kaeru no Uta ga Kikoeru yo.](https://myanimelist.net/anime/7877/Momoko_Kaeru_no_Uta_ga_Kikoeru_yo)*
+🍂 *More information: [Huangjin Tingyuan: Dongri Li de Xinnian Yuanwang](https://myanimelist.net/anime/54035/Huangjin_Tingyuan__Dongri_Li_de_Xinnian_Yuanwang)*
     
