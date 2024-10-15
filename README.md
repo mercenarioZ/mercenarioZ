@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sexy Commando Gaiden: Sugoi yo!! Masaru-san
+  <strong>🥭 <u>Title:</u></strong> Sengoku Basara Movie: The Last Party
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Sengoku Basara - Samurai Kings: The Movie</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/39595.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/50871.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1998</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 48</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sexy Commando Gaiden: Sugoi yo!! Masaru-san](https://myanimelist.net/anime/582/Sexy_Commando_Gaiden__Sugoi_yo_Masaru-san)*
+🍂 *More information: [Sengoku Basara Movie: The Last Party](https://myanimelist.net/anime/9745/Sengoku_Basara_Movie__The_Last_Party)*
     
