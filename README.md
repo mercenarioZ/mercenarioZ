@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sengoku Basara Movie: The Last Party
+  <strong>🥭 <u>Title:</u></strong> Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sengoku Basara - Samurai Kings: The Movie</h4>
+<h4>🌿 <u>English Title:</u> Shangri-La Frontier Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/50871.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1978/144794.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 8.16/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sengoku Basara Movie: The Last Party](https://myanimelist.net/anime/9745/Sengoku_Basara_Movie__The_Last_Party)*
+🍂 *More information: [Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season](https://myanimelist.net/anime/58572/Shangri-La_Frontier__Kusoge_Hunter_Kamige_ni_Idoman_to_su_2nd_Season)*
     
