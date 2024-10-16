@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ginga Eiyuu Densetsu: Arata naru Tatakai no Overture
+  <strong>🥭 <u>Title:</u></strong> Major S6
 </h4>
 
-<h4>🌿 <u>English Title:</u> Legend of the Galactic Heroes: Overture to a New War</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/22498.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/75216.jpg />
 
-<h4>🌱 Score: 8.08/10</h4>
+<h4>🌱 Score: 8.31/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1993</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ginga Eiyuu Densetsu: Arata naru Tatakai no Overture](https://myanimelist.net/anime/3016/Ginga_Eiyuu_Densetsu__Arata_naru_Tatakai_no_Overture)*
+🍂 *More information: [Major S6](https://myanimelist.net/anime/7655/Major_S6)*
     
