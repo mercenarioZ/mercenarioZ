@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+  <strong>🥭 <u>Title:</u></strong> Tada-kun wa Koi wo Shinai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Rascal Does Not Dream of Bunny Girl Senpai</h4>
+<h4>🌿 <u>English Title:</u> Tada Never Falls in Love</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1301/93586.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1446/91841.jpg />
 
-<h4>🌱 Score: 8.23/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
 <h4>🥑 Episodes: 13</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai)*
+🍂 *More information: [Tada-kun wa Koi wo Shinai](https://myanimelist.net/anime/36470/Tada-kun_wa_Koi_wo_Shinai)*
     
