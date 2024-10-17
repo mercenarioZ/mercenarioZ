@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Major S6
+  <strong>🥭 <u>Title:</u></strong> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Rascal Does Not Dream of Bunny Girl Senpai</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/75216.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1301/93586.jpg />
 
-<h4>🌱 Score: 8.31/10</h4>
+<h4>🌱 Score: 8.23/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Major S6](https://myanimelist.net/anime/7655/Major_S6)*
+🍂 *More information: [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai)*
     
