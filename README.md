@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jigoku Sensei Nube
+  <strong>🥭 <u>Title:</u></strong> Tada-kun wa Koi wo Shinai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hell Teacher Nube</h4>
+<h4>🌿 <u>English Title:</u> Tada Never Falls in Love</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1068/99222.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1446/91841.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Comedy, Horror, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 49</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Jigoku Sensei Nube](https://myanimelist.net/anime/2012/Jigoku_Sensei_Nube)*
+🍂 *More information: [Tada-kun wa Koi wo Shinai](https://myanimelist.net/anime/36470/Tada-kun_wa_Koi_wo_Shinai)*
     
