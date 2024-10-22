@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mairimashita! Iruma-kun 3rd Season
+  <strong>🥭 <u>Title:</u></strong> JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Welcome to Demon School! Iruma-kun Season 3</h4>
+<h4>🌿 <u>English Title:</u> JoJo's Bizarre Adventure: Stone Ocean Part 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1688/128720.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1051/121959.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 8.06/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
 <h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 21</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Mairimashita! Iruma-kun 3rd Season](https://myanimelist.net/anime/49784/Mairimashita_Iruma-kun_3rd_Season)*
+🍂 *More information: [JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2](https://myanimelist.net/anime/51367/JoJo_no_Kimyou_na_Bouken_Part_6__Stone_Ocean_Part_2)*
     
