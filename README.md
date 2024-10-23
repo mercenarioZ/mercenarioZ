@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+  <strong>🥭 <u>Title:</u></strong> Golden Kamuy 4th Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> JoJo's Bizarre Adventure: Stone Ocean Part 2</h4>
+<h4>🌿 <u>English Title:</u> Golden Kamuy Season 4</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1051/121959.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1855/128059.jpg />
 
-<h4>🌱 Score: 8.06/10</h4>
+<h4>🌱 Score: 8.12/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2022</h4>
 
 <h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2](https://myanimelist.net/anime/51367/JoJo_no_Kimyou_na_Bouken_Part_6__Stone_Ocean_Part_2)*
+🍂 *More information: [Golden Kamuy 4th Season](https://myanimelist.net/anime/50528/Golden_Kamuy_4th_Season)*
     
