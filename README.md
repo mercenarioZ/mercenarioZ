@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Golden Kamuy 4th Season
+  <strong>🥭 <u>Title:</u></strong> Full Metal Panic? Fumoffu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Golden Kamuy Season 4</h4>
+<h4>🌿 <u>English Title:</u> Full Metal Panic? Fumoffu</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1855/128059.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/75260.jpg />
 
-<h4>🌱 Score: 8.12/10</h4>
+<h4>🌱 Score: 8.02/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Action, Adventure</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Golden Kamuy 4th Season](https://myanimelist.net/anime/50528/Golden_Kamuy_4th_Season)*
+🍂 *More information: [Full Metal Panic? Fumoffu](https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu)*
     
