@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Full Metal Panic? Fumoffu
+  <strong>🥭 <u>Title:</u></strong> Shirobako
 </h4>
 
-<h4>🌿 <u>English Title:</u> Full Metal Panic? Fumoffu</h4>
+<h4>🌿 <u>English Title:</u> Shirobako</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/75260.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1460/141897.jpg />
 
-<h4>🌱 Score: 8.02/10</h4>
+<h4>🌱 Score: 8.27/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Award Winning, Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Full Metal Panic? Fumoffu](https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu)*
+🍂 *More information: [Shirobako](https://myanimelist.net/anime/25835/Shirobako)*
     
