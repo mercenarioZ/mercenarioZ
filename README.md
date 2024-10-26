@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Stand By Me Doraemon
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam 00 Special Edition
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam 00 Special Edition</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/65571.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/17217.jpg />
 
-<h4>🌱 Score: 8.11/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Stand By Me Doraemon](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon)*
+🍂 *More information: [Kidou Senshi Gundam 00 Special Edition](https://myanimelist.net/anime/7270/Kidou_Senshi_Gundam_00_Special_Edition)*
     
