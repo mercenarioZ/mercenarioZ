@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece Film: Z
+  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece Film: Z</h4>
+<h4>🌿 <u>English Title:</u> Attack on Titan</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/44297.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/47347.jpg />
 
-<h4>🌱 Score: 8.11/10</h4>
+<h4>🌱 Score: 8.55/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Award Winning, Drama, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [One Piece Film: Z](https://myanimelist.net/anime/12859/One_Piece_Film__Z)*
+🍂 *More information: [Shingeki no Kyojin](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)*
     
