@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin
+  <strong>🥭 <u>Title:</u></strong> Lucky☆Star: Original na Visual to Animation
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan</h4>
+<h4>🌿 <u>English Title:</u> Lucky☆Star OVA</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/47347.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1475/99189.jpg />
 
-<h4>🌱 Score: 8.55/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Award Winning, Drama, Suspense</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)*
+🍂 *More information: [Lucky☆Star: Original na Visual to Animation](https://myanimelist.net/anime/4472/Lucky☆Star__Original_na_Visual_to_Animation)*
     
