@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Macross Plus Movie Edition
+  <strong>🥭 <u>Title:</u></strong> Pokemon Movie 01: Mewtwo no Gyakushuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Pokémon: The First Movie - Mewtwo Strikes Back</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1487/133799.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1513/140273.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1995</h4>
+<h4>🌴 Aired: 1998</h4>
 
-<h4>🌵 Genres: Action, Adventure, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Award Winning, Comedy, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Macross Plus Movie Edition](https://myanimelist.net/anime/1211/Macross_Plus_Movie_Edition)*
+🍂 *More information: [Pokemon Movie 01: Mewtwo no Gyakushuu](https://myanimelist.net/anime/528/Pokemon_Movie_01__Mewtwo_no_Gyakushuu)*
     
