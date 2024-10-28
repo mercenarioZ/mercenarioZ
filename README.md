@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Lucky☆Star: Original na Visual to Animation
+  <strong>🥭 <u>Title:</u></strong> Macross Plus Movie Edition
 </h4>
 
-<h4>🌿 <u>English Title:</u> Lucky☆Star OVA</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1475/99189.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1487/133799.jpg />
 
-<h4>🌱 Score: 7.8/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 1995</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Adventure, Romance, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Lucky☆Star: Original na Visual to Animation](https://myanimelist.net/anime/4472/Lucky☆Star__Original_na_Visual_to_Animation)*
+🍂 *More information: [Macross Plus Movie Edition](https://myanimelist.net/anime/1211/Macross_Plus_Movie_Edition)*
     
