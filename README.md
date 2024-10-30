@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gotcha!
+  <strong>🥭 <u>Title:</u></strong> Wu Shan Wu Xing: Xichuan Huan Zi Lin
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Fog Hill of Five Elements</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1637/109512.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1433/119529.jpg />
 
-<h4>🌱 Score: 8.32/10</h4>
+<h4>🌱 Score: 8.34/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Fantasy</h4>
+<h4>🌵 Genres: Action, Fantasy, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Gotcha!](https://myanimelist.net/anime/42984/Gotcha)*
+🍂 *More information: [Wu Shan Wu Xing: Xichuan Huan Zi Lin](https://myanimelist.net/anime/50407/Wu_Shan_Wu_Xing__Xichuan_Huan_Zi_Lin)*
     
