@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Keroro Gunsou
+  <strong>🥭 <u>Title:</u></strong> Gyakkyou Burai Kaiji: Hakairoku-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sgt. Frog</h4>
+<h4>🌿 <u>English Title:</u> Kaiji: Against All Rules</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1121/117792.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/30599.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 8.24/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Suspense</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Keroro Gunsou](https://myanimelist.net/anime/516/Keroro_Gunsou)*
+🍂 *More information: [Gyakkyou Burai Kaiji: Hakairoku-hen](https://myanimelist.net/anime/10271/Gyakkyou_Burai_Kaiji__Hakairoku-hen)*
     
