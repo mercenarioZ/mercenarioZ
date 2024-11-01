@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ushio to Tora (TV)
+  <strong>🥭 <u>Title:</u></strong> Natsume Yuujinchou Shichi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ushio & Tora (2015)</h4>
+<h4>🌿 <u>English Title:</u> Natsume's Book of Friends Season 7</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/74945.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1270/145168.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 8.6/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
+<h4>🌵 Genres: Slice of Life, Supernatural</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ushio to Tora (TV)](https://myanimelist.net/anime/29854/Ushio_to_Tora_TV)*
+🍂 *More information: [Natsume Yuujinchou Shichi](https://myanimelist.net/anime/55823/Natsume_Yuujinchou_Shichi)*
     
