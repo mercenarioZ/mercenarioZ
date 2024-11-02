@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Koukaku Kidoutai: Stand Alone Complex
+  <strong>🥭 <u>Title:</u></strong> Area 88
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ghost in the Shell: Stand Alone Complex</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/50857.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/2856.jpg />
 
-<h4>🌱 Score: 8.42/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 1985</h4>
 
-<h4>🌵 Genres: Action, Award Winning, Mystery, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Koukaku Kidoutai: Stand Alone Complex](https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex)*
+🍂 *More information: [Area 88](https://myanimelist.net/anime/1488/Area_88)*
     
