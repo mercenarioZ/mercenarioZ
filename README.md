@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Area 88
+  <strong>🥭 <u>Title:</u></strong> Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Seven Deadly Sins: Four Knights of the Apocalypse Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/2856.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1109/145389.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1985</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: null</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Area 88](https://myanimelist.net/anime/1488/Area_88)*
+🍂 *More information: [Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season](https://myanimelist.net/anime/58511/Nanatsu_no_Taizai__Mokushiroku_no_Yonkishi_2nd_Season)*
     
