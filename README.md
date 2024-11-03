@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Binbougami ga!
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Seven Deadly Sins: Four Knights of the Apocalypse Season 2</h4>
+<h4>🌿 <u>English Title:</u> Good Luck Girl!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1109/145389.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/39333.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season](https://myanimelist.net/anime/58511/Nanatsu_no_Taizai__Mokushiroku_no_Yonkishi_2nd_Season)*
+🍂 *More information: [Binbougami ga!](https://myanimelist.net/anime/13535/Binbougami_ga)*
     
