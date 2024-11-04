@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Binbougami ga!
+  <strong>🥭 <u>Title:</u></strong> Hanasaku Iroha
 </h4>
 
-<h4>🌿 <u>English Title:</u> Good Luck Girl!</h4>
+<h4>🌿 <u>English Title:</u> Hanasaku Iroha: Blossoms for Tomorrow</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/39333.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1491/117229.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.89/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Comedy, Supernatural</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Binbougami ga!](https://myanimelist.net/anime/13535/Binbougami_ga)*
+🍂 *More information: [Hanasaku Iroha](https://myanimelist.net/anime/9289/Hanasaku_Iroha)*
     
