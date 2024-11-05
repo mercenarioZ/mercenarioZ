@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hanasaku Iroha
+  <strong>🥭 <u>Title:</u></strong> Seikai no Senki
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hanasaku Iroha: Blossoms for Tomorrow</h4>
+<h4>🌿 <u>English Title:</u> Banner of the Stars</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1491/117229.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/61111.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hanasaku Iroha](https://myanimelist.net/anime/9289/Hanasaku_Iroha)*
+🍂 *More information: [Seikai no Senki](https://myanimelist.net/anime/396/Seikai_no_Senki)*
     
