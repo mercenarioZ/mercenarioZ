@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tamayura: Sotsugyou Shashin Part 2 - Hibiki
+  <strong>🥭 <u>Title:</u></strong> Aa! Megami-sama! Sorezore no Tsubasa Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Ah! My Goddess: Flights of Fancy Specials</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/76028.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/13530.jpg />
 
-<h4>🌱 Score: 7.74/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tamayura: Sotsugyou Shashin Part 2 - Hibiki](https://myanimelist.net/anime/29829/Tamayura__Sotsugyou_Shashin_Part_2_-_Hibiki)*
+🍂 *More information: [Aa! Megami-sama! Sorezore no Tsubasa Specials](https://myanimelist.net/anime/2198/Aa_Megami-sama_Sorezore_no_Tsubasa_Specials)*
     
