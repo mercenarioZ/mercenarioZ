@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nige Jouzu no Wakagimi
+  <strong>🥭 <u>Title:</u></strong> Chihayafuru 3
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Elusive Samurai</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1386/140401.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1898/110709.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 8.46/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Adventure, Comedy</h4>
+<h4>🌵 Genres: Drama, Sports</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Nige Jouzu no Wakagimi](https://myanimelist.net/anime/54724/Nige_Jouzu_no_Wakagimi)*
+🍂 *More information: [Chihayafuru 3](https://myanimelist.net/anime/37379/Chihayafuru_3)*
     
