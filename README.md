@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Chihayafuru 3
+  <strong>🥭 <u>Title:</u></strong> Baka to Test to Shoukanjuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Baka & Test - Summon the Beasts</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1898/110709.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/50389.jpg />
 
-<h4>🌱 Score: 8.46/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Drama, Sports</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Chihayafuru 3](https://myanimelist.net/anime/37379/Chihayafuru_3)*
+🍂 *More information: [Baka to Test to Shoukanjuu](https://myanimelist.net/anime/6347/Baka_to_Test_to_Shoukanjuu)*
     
