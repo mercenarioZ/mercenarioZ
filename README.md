@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hinamatsuri
+  <strong>🥭 <u>Title:</u></strong> Seikai no Senki II
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hinamatsuri</h4>
+<h4>🌿 <u>English Title:</u> Banner of the Stars II</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1580/93526.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/61109.jpg />
 
-<h4>🌱 Score: 8.12/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 10</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hinamatsuri](https://myanimelist.net/anime/36296/Hinamatsuri)*
+🍂 *More information: [Seikai no Senki II](https://myanimelist.net/anime/397/Seikai_no_Senki_II)*
     
