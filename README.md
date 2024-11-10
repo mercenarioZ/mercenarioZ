@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seikai no Senki II
+  <strong>🥭 <u>Title:</u></strong> Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Banner of the Stars II</h4>
+<h4>🌿 <u>English Title:</u> Dragon Ball Z: Bardock, The Father of Goku</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/61109.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1978/138488.jpg />
 
-<h4>🌱 Score: 7.78/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 1990</h4>
 
-<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Seikai no Senki II](https://myanimelist.net/anime/397/Seikai_no_Senki_II)*
+🍂 *More information: [Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen](https://myanimelist.net/anime/986/Dragon_Ball_Z_Special_1__Tatta_Hitori_no_Saishuu_Kessen)*
     
