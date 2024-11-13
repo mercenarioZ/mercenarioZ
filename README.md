@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doraemon (1979)
+  <strong>🥭 <u>Title:</u></strong> Space☆Dandy 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Doraemon</h4>
+<h4>🌿 <u>English Title:</u> Space Dandy 2nd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/3953.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/64451.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 8.26/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1979</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Doraemon (1979)](https://myanimelist.net/anime/2471/Doraemon_1979)*
+🍂 *More information: [Space☆Dandy 2nd Season](https://myanimelist.net/anime/23327/Space☆Dandy_2nd_Season)*
     
