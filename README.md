@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Space☆Dandy 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Durarara!!x2 Ten: Onoroke Chakapoko
 </h4>
 
-<h4>🌿 <u>English Title:</u> Space Dandy 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> Durarara!!x2 Ten Episode 13.5</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/64451.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/76082.jpg />
 
-<h4>🌱 Score: 8.26/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Space☆Dandy 2nd Season](https://myanimelist.net/anime/23327/Space☆Dandy_2nd_Season)*
+🍂 *More information: [Durarara!!x2 Ten: Onoroke Chakapoko](https://myanimelist.net/anime/31552/Durararax2_Ten__Onoroke_Chakapoko)*
     
