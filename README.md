@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Durarara!!x2 Ten: Onoroke Chakapoko
+  <strong>🥭 <u>Title:</u></strong> Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow
 </h4>
 
-<h4>🌿 <u>English Title:</u> Durarara!!x2 Ten Episode 13.5</h4>
+<h4>🌿 <u>English Title:</u> Re:ZERO -Starting Life in Another World- Memory Snow</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/76082.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1081/95707.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Durarara!!x2 Ten: Onoroke Chakapoko](https://myanimelist.net/anime/31552/Durararax2_Ten__Onoroke_Chakapoko)*
+🍂 *More information: [Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow](https://myanimelist.net/anime/36286/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_-_Memory_Snow)*
     
