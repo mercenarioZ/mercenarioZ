@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gotcha!
+  <strong>🥭 <u>Title:</u></strong> Break Blade Movie 2: Ketsubetsu no Michi
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Broken Blade 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1637/109512.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/68081.jpg />
 
-<h4>🌱 Score: 8.32/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Fantasy</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Gotcha!](https://myanimelist.net/anime/42984/Gotcha)*
+🍂 *More information: [Break Blade Movie 2: Ketsubetsu no Michi](https://myanimelist.net/anime/8514/Break_Blade_Movie_2__Ketsubetsu_no_Michi)*
     
