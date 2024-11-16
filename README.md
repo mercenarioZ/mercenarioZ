@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?
+  <strong>🥭 <u>Title:</u></strong> R.O.D: Read or Die
 </h4>
 
-<h4>🌿 <u>English Title:</u> WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?</h4>
+<h4>🌿 <u>English Title:</u> R.O.D - Read or Die</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/85260.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1824/98849.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Drama, Fantasy, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Mystery, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 3</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?](https://myanimelist.net/anime/33502/Shuumatsu_Nani_Shitemasu_ka_Isogashii_desu_ka_Sukutte_Moratte_Ii_desu_ka)*
+🍂 *More information: [R.O.D: Read or Die](https://myanimelist.net/anime/208/ROD__Read_or_Die)*
     
