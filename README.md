@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> The Last: Naruto the Movie
+  <strong>🥭 <u>Title:</u></strong> Saint Seiya
 </h4>
 
-<h4>🌿 <u>English Title:</u> Naruto Shippuden the Movie 7: The Last</h4>
+<h4>🌿 <u>English Title:</u> Saint Seiya: Knights of the Zodiac</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1491/134498.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1180/133782.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 1986</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [The Last: Naruto the Movie](https://myanimelist.net/anime/16870/The_Last__Naruto_the_Movie)*
+🍂 *More information: [Saint Seiya](https://myanimelist.net/anime/1254/Saint_Seiya)*
     
