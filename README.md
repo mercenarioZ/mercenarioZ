@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo
+  <strong>🥭 <u>Title:</u></strong> Bleach 20th PV
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sword Art Online the Movie: Progressive - Scherzo of Deep Night</h4>
+<h4>🌿 <u>English Title:</u> Bleach 20th Anime Anniversary</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1656/126446.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1357/145984.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 8.11/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: PV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Supernatural</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo](https://myanimelist.net/anime/50275/Sword_Art_Online__Progressive_Movie_-_Kuraki_Yuuyami_no_Scherzo)*
+🍂 *More information: [Bleach 20th PV](https://myanimelist.net/anime/60048/Bleach_20th_PV)*
     
