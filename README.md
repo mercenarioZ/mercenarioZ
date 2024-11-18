@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saint Seiya
+  <strong>🥭 <u>Title:</u></strong> Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saint Seiya: Knights of the Zodiac</h4>
+<h4>🌿 <u>English Title:</u> Sword Art Online the Movie: Progressive - Scherzo of Deep Night</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1180/133782.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1656/126446.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1986</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Saint Seiya](https://myanimelist.net/anime/1254/Saint_Seiya)*
+🍂 *More information: [Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo](https://myanimelist.net/anime/50275/Sword_Art_Online__Progressive_Movie_-_Kuraki_Yuuyami_no_Scherzo)*
     
