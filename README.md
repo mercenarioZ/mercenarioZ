@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bleach 20th PV
+  <strong>🥭 <u>Title:</u></strong> Quanzhi Gaoshou 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bleach 20th Anime Anniversary</h4>
+<h4>🌿 <u>English Title:</u> The King's Avatar 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1357/145984.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1573/109220.jpg />
 
-<h4>🌱 Score: 8.11/10</h4>
+<h4>🌱 Score: 7.92/10</h4>
 
-<h4>🌲 Type: PV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bleach 20th PV](https://myanimelist.net/anime/60048/Bleach_20th_PV)*
+🍂 *More information: [Quanzhi Gaoshou 2](https://myanimelist.net/anime/37932/Quanzhi_Gaoshou_2)*
     
