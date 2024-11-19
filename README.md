@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Quanzhi Gaoshou 2
+  <strong>🥭 <u>Title:</u></strong> PriPara
 </h4>
 
-<h4>🌿 <u>English Title:</u> The King's Avatar 2</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1573/109220.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/75258.jpg />
 
-<h4>🌱 Score: 7.92/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Quanzhi Gaoshou 2](https://myanimelist.net/anime/37932/Quanzhi_Gaoshou_2)*
+🍂 *More information: [PriPara](https://myanimelist.net/anime/23135/PriPara)*
     
