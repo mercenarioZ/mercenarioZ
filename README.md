@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> PriPara
+  <strong>🥭 <u>Title:</u></strong> Magic Kaito 1412
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/75258.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/67807.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Adventure, Comedy, Romance</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [PriPara](https://myanimelist.net/anime/23135/PriPara)*
+🍂 *More information: [Magic Kaito 1412](https://myanimelist.net/anime/25517/Magic_Kaito_1412)*
     
