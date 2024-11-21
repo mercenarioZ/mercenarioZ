@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Zhen Hun Jie
+  <strong>🥭 <u>Title:</u></strong> Initial D Second Stage
 </h4>
 
-<h4>🌿 <u>English Title:</u> Rakshasa Street</h4>
+<h4>🌿 <u>English Title:</u> Initial D Second Stage</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/81969.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/12750.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.18/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Action, Drama</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Zhen Hun Jie](https://myanimelist.net/anime/33350/Zhen_Hun_Jie)*
+🍂 *More information: [Initial D Second Stage](https://myanimelist.net/anime/186/Initial_D_Second_Stage)*
     
