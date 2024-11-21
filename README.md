@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Initial D Second Stage
+  <strong>🥭 <u>Title:</u></strong> Arashi no Yoru ni
 </h4>
 
-<h4>🌿 <u>English Title:</u> Initial D Second Stage</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/12750.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/5064.jpg />
 
-<h4>🌱 Score: 8.18/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Drama</h4>
+<h4>🌵 Genres: Adventure, Comedy, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Initial D Second Stage](https://myanimelist.net/anime/186/Initial_D_Second_Stage)*
+🍂 *More information: [Arashi no Yoru ni](https://myanimelist.net/anime/1961/Arashi_no_Yoru_ni)*
     
