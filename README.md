@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Arashi no Yoru ni
+  <strong>🥭 <u>Title:</u></strong> Hinomaruzumou
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Hinomaru Sumo</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/5064.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1974/95289.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Drama, Fantasy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Arashi no Yoru ni](https://myanimelist.net/anime/1961/Arashi_no_Yoru_ni)*
+🍂 *More information: [Hinomaruzumou](https://myanimelist.net/anime/37007/Hinomaruzumou)*
     
