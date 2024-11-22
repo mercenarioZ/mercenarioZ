@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hinomaruzumou
+  <strong>🥭 <u>Title:</u></strong> Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hinomaru Sumo</h4>
+<h4>🌿 <u>English Title:</u> Descending Stories: Showa Genroku Rakugo Shinju</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1974/95289.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1493/124765.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 8.71/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hinomaruzumou](https://myanimelist.net/anime/37007/Hinomaruzumou)*
+🍂 *More information: [Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen](https://myanimelist.net/anime/33095/Shouwa_Genroku_Rakugo_Shinjuu__Sukeroku_Futatabi-hen)*
     
