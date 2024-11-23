@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
+  <strong>🥭 <u>Title:</u></strong> Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii
 </h4>
 
-<h4>🌿 <u>English Title:</u> Descending Stories: Showa Genroku Rakugo Shinju</h4>
+<h4>🌿 <u>English Title:</u> Imaizumi Brings All the Gyarus to His House</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1493/124765.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1862/140626.jpg />
 
-<h4>🌱 Score: 8.71/10</h4>
+<h4>🌱 Score: 7.94/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Hentai</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: Rx - Hentai</h4>
 
 <br />
 
-🍂 *More information: [Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen](https://myanimelist.net/anime/33095/Shouwa_Genroku_Rakugo_Shinjuu__Sukeroku_Futatabi-hen)*
+🍂 *More information: [Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii](https://myanimelist.net/anime/48755/Imaizumin_Chi_wa_Douyara_Gal_no_Tamariba_ni_Natteru_Rashii)*
     
