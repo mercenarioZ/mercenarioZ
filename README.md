@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii
+  <strong>🥭 <u>Title:</u></strong> Beelzebub
 </h4>
 
-<h4>🌿 <u>English Title:</u> Imaizumi Brings All the Gyarus to His House</h4>
+<h4>🌿 <u>English Title:</u> Beelzebub</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1862/140626.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/28013.jpg />
 
-<h4>🌱 Score: 7.94/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Hentai</h4>
+<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 60</h4>
 
-<h4>🍏 Rating: Rx - Hentai</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii](https://myanimelist.net/anime/48755/Imaizumin_Chi_wa_Douyara_Gal_no_Tamariba_ni_Natteru_Rashii)*
+🍂 *More information: [Beelzebub](https://myanimelist.net/anime/9513/Beelzebub)*
     
