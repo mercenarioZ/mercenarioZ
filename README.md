@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bungou Stray Dogs 4th Season
+  <strong>🥭 <u>Title:</u></strong> Tomodachi Game
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bungo Stray Dogs 4</h4>
+<h4>🌿 <u>English Title:</u> Tomodachi Game</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1263/132759.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1247/121345.jpg />
 
-<h4>🌱 Score: 8.44/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Mystery</h4>
+<h4>🌵 Genres: Suspense</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Bungou Stray Dogs 4th Season](https://myanimelist.net/anime/50330/Bungou_Stray_Dogs_4th_Season)*
+🍂 *More information: [Tomodachi Game](https://myanimelist.net/anime/50273/Tomodachi_Game)*
     
