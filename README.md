@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tomodachi Game
+  <strong>🥭 <u>Title:</u></strong> Saint Seiya: Meiou Hades Meikai-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tomodachi Game</h4>
+<h4>🌿 <u>English Title:</u> Saint Seiya: The Hades Chapter - Inferno</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1247/121345.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/75732.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Suspense</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tomodachi Game](https://myanimelist.net/anime/50273/Tomodachi_Game)*
+🍂 *More information: [Saint Seiya: Meiou Hades Meikai-hen](https://myanimelist.net/anime/1253/Saint_Seiya__Meiou_Hades_Meikai-hen)*
     
