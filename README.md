@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saint Seiya: Meiou Hades Meikai-hen
+  <strong>🥭 <u>Title:</u></strong> 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saint Seiya: The Hades Chapter - Inferno</h4>
+<h4>🌿 <u>English Title:</u> Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/75732.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1762/139690.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Boys Love, Comedy, Supernatural</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Saint Seiya: Meiou Hades Meikai-hen](https://myanimelist.net/anime/1253/Saint_Seiya__Meiou_Hades_Meikai-hen)*
+🍂 *More information: [30-sai made Doutei dato Mahoutsukai ni Nareru Rashii](https://myanimelist.net/anime/55973/30-sai_made_Doutei_dato_Mahoutsukai_ni_Nareru_Rashii)*
     
