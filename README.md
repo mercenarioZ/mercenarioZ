@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii
+  <strong>🥭 <u>Title:</u></strong> Mirai Shounen Conan
 </h4>
 
-<h4>🌿 <u>English Title:</u> Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!</h4>
+<h4>🌿 <u>English Title:</u> Future Boy Conan</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1762/139690.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/17529.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 8.09/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 1978</h4>
 
-<h4>🌵 Genres: Boys Love, Comedy, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [30-sai made Doutei dato Mahoutsukai ni Nareru Rashii](https://myanimelist.net/anime/55973/30-sai_made_Doutei_dato_Mahoutsukai_ni_Nareru_Rashii)*
+🍂 *More information: [Mirai Shounen Conan](https://myanimelist.net/anime/302/Mirai_Shounen_Conan)*
     
