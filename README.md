@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Osomatsu-san
+  <strong>🥭 <u>Title:</u></strong> NieR:Automata Ver1.1a Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mr. Osomatsu</h4>
+<h4>🌿 <u>English Title:</u> NieR:Automata Ver1.1a (Cour 2)</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/76540.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1364/143539.jpg />
 
-<h4>🌱 Score: 7.93/10</h4>
+<h4>🌱 Score: 8.03/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Osomatsu-san](https://myanimelist.net/anime/31174/Osomatsu-san)*
+🍂 *More information: [NieR:Automata Ver1.1a Part 2](https://myanimelist.net/anime/56063/NieR_Automata_Ver11a_Part_2)*
     
