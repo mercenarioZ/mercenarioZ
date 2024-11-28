@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> NieR:Automata Ver1.1a Part 2
+  <strong>🥭 <u>Title:</u></strong> Tsukimonogatari
 </h4>
 
-<h4>🌿 <u>English Title:</u> NieR:Automata Ver1.1a (Cour 2)</h4>
+<h4>🌿 <u>English Title:</u> Tsukimonogatari</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1364/143539.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/68259.jpg />
 
-<h4>🌱 Score: 8.03/10</h4>
+<h4>🌱 Score: 8.08/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Mystery, Supernatural, Ecchi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [NieR:Automata Ver1.1a Part 2](https://myanimelist.net/anime/56063/NieR_Automata_Ver11a_Part_2)*
+🍂 *More information: [Tsukimonogatari](https://myanimelist.net/anime/28025/Tsukimonogatari)*
     
