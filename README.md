@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tsukimonogatari
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Tekketsu no Orphans
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tsukimonogatari</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: Iron-Blooded Orphans</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/68259.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/75879.jpg />
 
-<h4>🌱 Score: 8.08/10</h4>
+<h4>🌱 Score: 8.06/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy, Mystery, Supernatural, Ecchi</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Tsukimonogatari](https://myanimelist.net/anime/28025/Tsukimonogatari)*
+🍂 *More information: [Kidou Senshi Gundam: Tekketsu no Orphans](https://myanimelist.net/anime/31251/Kidou_Senshi_Gundam__Tekketsu_no_Orphans)*
     
