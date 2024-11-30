@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen
+  <strong>🥭 <u>Title:</u></strong> Fune wo Amu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Is It Wrong to Try to Pick Up Girls in a Dungeon? V</h4>
+<h4>🌿 <u>English Title:</u> The Great Passage</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1299/144738.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/81624.jpg />
 
-<h4>🌱 Score: 7.98/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Award Winning, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 15</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen](https://myanimelist.net/anime/57066/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_V__Houjou_no_Megami-hen)*
+🍂 *More information: [Fune wo Amu](https://myanimelist.net/anime/32948/Fune_wo_Amu)*
     
