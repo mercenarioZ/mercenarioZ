@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fune wo Amu
+  <strong>🥭 <u>Title:</u></strong> Initial D Battle Stage
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Great Passage</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/81624.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/13168.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Award Winning, Drama, Romance</h4>
+<h4>🌵 Genres: Action, Drama</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Fune wo Amu](https://myanimelist.net/anime/32948/Fune_wo_Amu)*
+🍂 *More information: [Initial D Battle Stage](https://myanimelist.net/anime/821/Initial_D_Battle_Stage)*
     
