@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Initial D Battle Stage 3
+  <strong>🥭 <u>Title:</u></strong> Mushishi Zoku Shou: Odoro no Michi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Initial D Battle Stage 3</h4>
+<h4>🌿 <u>English Title:</u> Mushi-shi Path of Thorns</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1236/113306.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/63539.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 8.43/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Adventure, Mystery, Slice of Life, Supernatural</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Initial D Battle Stage 3](https://myanimelist.net/anime/47410/Initial_D_Battle_Stage_3)*
+🍂 *More information: [Mushishi Zoku Shou: Odoro no Michi](https://myanimelist.net/anime/24687/Mushishi_Zoku_Shou__Odoro_no_Michi)*
     
