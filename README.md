@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Initial D Battle Stage
+  <strong>🥭 <u>Title:</u></strong> Initial D Battle Stage 3
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Initial D Battle Stage 3</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/13168.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1236/113306.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
 <h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Drama</h4>
+<h4>🌵 Genres: Action</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Initial D Battle Stage](https://myanimelist.net/anime/821/Initial_D_Battle_Stage)*
+🍂 *More information: [Initial D Battle Stage 3](https://myanimelist.net/anime/47410/Initial_D_Battle_Stage_3)*
     
