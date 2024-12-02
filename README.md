@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Boku no Kokoro no Yabai Yatsu: Twi-Yaba
+  <strong>🥭 <u>Title:</u></strong> Zhan Shen: Fanchen Shenyu
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Dangers in My Heart: Twi-Yaba</h4>
+<h4>🌿 <u>English Title:</u> Slay The God</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1869/140298.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1514/144274.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 8.02/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Fantasy, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 15</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Boku no Kokoro no Yabai Yatsu: Twi-Yaba](https://myanimelist.net/anime/56948/Boku_no_Kokoro_no_Yabai_Yatsu__Twi-Yaba)*
+🍂 *More information: [Zhan Shen: Fanchen Shenyu](https://myanimelist.net/anime/59306/Zhan_Shen__Fanchen_Shenyu)*
     
