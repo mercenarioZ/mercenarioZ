@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Zhan Shen: Fanchen Shenyu
+  <strong>🥭 <u>Title:</u></strong> Persona 3 the Movie 4: Winter of Rebirth
 </h4>
 
-<h4>🌿 <u>English Title:</u> Slay The God</h4>
+<h4>🌿 <u>English Title:</u> Persona 3 the Movie: #4 Winter of Rebirth</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1514/144274.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/77828.jpg />
 
-<h4>🌱 Score: 8.02/10</h4>
+<h4>🌱 Score: 8.04/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Suspense</h4>
+<h4>🌵 Genres: Action, Supernatural</h4>
 
-<h4>🥑 Episodes: 15</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Zhan Shen: Fanchen Shenyu](https://myanimelist.net/anime/59306/Zhan_Shen__Fanchen_Shenyu)*
+🍂 *More information: [Persona 3 the Movie 4: Winter of Rebirth](https://myanimelist.net/anime/31149/Persona_3_the_Movie_4__Winter_of_Rebirth)*
     
