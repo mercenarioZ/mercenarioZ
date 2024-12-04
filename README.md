@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wu Liuqi: Zui Qiang Fa Xing Shi
+  <strong>🥭 <u>Title:</u></strong> Konjiki no Gash Bell!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Scissor Seven (2019)</h4>
+<h4>🌿 <u>English Title:</u> Zatch Bell!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1756/104551.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1151/125951.jpg />
 
-<h4>🌱 Score: 8.22/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Action, Comedy, Drama, Mystery</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Wu Liuqi: Zui Qiang Fa Xing Shi](https://myanimelist.net/anime/40784/Wu_Liuqi__Zui_Qiang_Fa_Xing_Shi)*
+🍂 *More information: [Konjiki no Gash Bell!!](https://myanimelist.net/anime/250/Konjiki_no_Gash_Bell)*
     
