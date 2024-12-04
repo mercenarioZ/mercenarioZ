@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Konjiki no Gash Bell!!
+  <strong>🥭 <u>Title:</u></strong> 3D Kanojo: Real Girl 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Zatch Bell!</h4>
+<h4>🌿 <u>English Title:</u> Real Girl Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1151/125951.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1237/113435.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Supernatural</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Konjiki no Gash Bell!!](https://myanimelist.net/anime/250/Konjiki_no_Gash_Bell)*
+🍂 *More information: [3D Kanojo: Real Girl 2nd Season](https://myanimelist.net/anime/37956/3D_Kanojo__Real_Girl_2nd_Season)*
     
