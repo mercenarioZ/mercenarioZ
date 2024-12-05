@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> 3D Kanojo: Real Girl 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Haikyuu!! To the Top Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Real Girl Season 2</h4>
+<h4>🌿 <u>English Title:</u> Haikyu!! To the Top 2nd-cour</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1237/113435.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1453/106768.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 8.55/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Sports</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [3D Kanojo: Real Girl 2nd Season](https://myanimelist.net/anime/37956/3D_Kanojo__Real_Girl_2nd_Season)*
+🍂 *More information: [Haikyuu!! To the Top Part 2](https://myanimelist.net/anime/40776/Haikyuu_To_the_Top_Part_2)*
     
