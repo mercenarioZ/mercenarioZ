@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hakuouki: Sekkaroku
+  <strong>🥭 <u>Title:</u></strong> Karakai Jouzu no Takagi-san Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hakuoki: Demon of the Fleeting Blossom - A Memory of Snow Flowers</h4>
+<h4>🌿 <u>English Title:</u> Teasing Master Takagi-san: The Movie</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/71799.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1376/123398.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 8.44/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Drama, Fantasy</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hakuouki: Sekkaroku](https://myanimelist.net/anime/10350/Hakuouki__Sekkaroku)*
+🍂 *More information: [Karakai Jouzu no Takagi-san Movie](https://myanimelist.net/anime/49722/Karakai_Jouzu_no_Takagi-san_Movie)*
     
