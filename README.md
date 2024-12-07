@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Eizouken ni wa Te wo Dasu na!
+  <strong>🥭 <u>Title:</u></strong> Yuu☆Yuu☆Hakusho
 </h4>
 
-<h4>🌿 <u>English Title:</u> Keep Your Hands Off Eizouken!</h4>
+<h4>🌿 <u>English Title:</u> Yu Yu Hakusho: Ghost Files</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1680/110451.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1228/111372.jpg />
 
-<h4>🌱 Score: 8.13/10</h4>
+<h4>🌱 Score: 8.46/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 1992</h4>
 
-<h4>🌵 Genres: Adventure, Award Winning, Comedy</h4>
+<h4>🌵 Genres: Action, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Eizouken ni wa Te wo Dasu na!](https://myanimelist.net/anime/39792/Eizouken_ni_wa_Te_wo_Dasu_na)*
+🍂 *More information: [Yuu☆Yuu☆Hakusho](https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho)*
     
