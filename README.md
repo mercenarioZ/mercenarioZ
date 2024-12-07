@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Karakai Jouzu no Takagi-san Movie
+  <strong>🥭 <u>Title:</u></strong> Eizouken ni wa Te wo Dasu na!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Teasing Master Takagi-san: The Movie</h4>
+<h4>🌿 <u>English Title:</u> Keep Your Hands Off Eizouken!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1376/123398.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1680/110451.jpg />
 
-<h4>🌱 Score: 8.44/10</h4>
+<h4>🌱 Score: 8.13/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Adventure, Award Winning, Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Karakai Jouzu no Takagi-san Movie](https://myanimelist.net/anime/49722/Karakai_Jouzu_no_Takagi-san_Movie)*
+🍂 *More information: [Eizouken ni wa Te wo Dasu na!](https://myanimelist.net/anime/39792/Eizouken_ni_wa_Te_wo_Dasu_na)*
     
