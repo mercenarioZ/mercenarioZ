@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuu☆Yuu☆Hakusho
+  <strong>🥭 <u>Title:</u></strong> Ashita no Nadja
 </h4>
 
-<h4>🌿 <u>English Title:</u> Yu Yu Hakusho: Ghost Files</h4>
+<h4>🌿 <u>English Title:</u> Tomorrow's Nadja</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1228/111372.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/75381.jpg />
 
-<h4>🌱 Score: 8.46/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1992</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Drama, Romance</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 50</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Yuu☆Yuu☆Hakusho](https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho)*
+🍂 *More information: [Ashita no Nadja](https://myanimelist.net/anime/1946/Ashita_no_Nadja)*
     
