@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ashita no Nadja
+  <strong>🥭 <u>Title:</u></strong> xxxHOLiC
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tomorrow's Nadja</h4>
+<h4>🌿 <u>English Title:</u> xxxHOLiC</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/75381.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/21858.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.97/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Romance</h4>
+<h4>🌵 Genres: Comedy, Drama, Mystery, Supernatural</h4>
 
-<h4>🥑 Episodes: 50</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ashita no Nadja](https://myanimelist.net/anime/1946/Ashita_no_Nadja)*
+🍂 *More information: [xxxHOLiC](https://myanimelist.net/anime/861/xxxHOLiC)*
     
