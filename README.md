@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jujutsu Kaisen 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Id:Invaded
 </h4>
 
-<h4>🌿 <u>English Title:</u> Jujutsu Kaisen Season 2</h4>
+<h4>🌿 <u>English Title:</u> ID: INVADED</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1792/138022.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1889/105337.jpg />
 
-<h4>🌱 Score: 8.78/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Mystery, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 23</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Jujutsu Kaisen 2nd Season](https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season)*
+🍂 *More information: [Id:Invaded](https://myanimelist.net/anime/40046/Id_Invaded)*
     
