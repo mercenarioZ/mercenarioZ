@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> K-On!!
+  <strong>🥭 <u>Title:</u></strong> Bounen no Xamdou
 </h4>
 
-<h4>🌿 <u>English Title:</u> K-ON! Season 2</h4>
+<h4>🌿 <u>English Title:</u> Xam'd: Lost Memories</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/76121.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/23189.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy</h4>
+<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 26</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [K-On!!](https://myanimelist.net/anime/7791/K-On)*
+🍂 *More information: [Bounen no Xamdou](https://myanimelist.net/anime/4177/Bounen_no_Xamdou)*
     
