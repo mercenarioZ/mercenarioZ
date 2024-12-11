@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Koutetsujou no Kabaneri Movie 3: Unato Kessen
+  <strong>🥭 <u>Title:</u></strong> K-On!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kabaneri of the Iron Fortress: The Battle of Unato</h4>
+<h4>🌿 <u>English Title:</u> K-ON! Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1749/99713.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/76121.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Horror, Suspense</h4>
+<h4>🌵 Genres: Award Winning, Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Koutetsujou no Kabaneri Movie 3: Unato Kessen](https://myanimelist.net/anime/34544/Koutetsujou_no_Kabaneri_Movie_3__Unato_Kessen)*
+🍂 *More information: [K-On!!](https://myanimelist.net/anime/7791/K-On)*
     
