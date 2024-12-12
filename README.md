@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari
+  <strong>🥭 <u>Title:</u></strong> Yuanshen: Jinzhong Ge
 </h4>
 
-<h4>🌿 <u>English Title:</u> Winter Cup Highlights Episode 1 – Winter Cup Highlights -Shadow and Light-</h4>
+<h4>🌿 <u>English Title:</u> Genshin Impact: The Song Burning in the Embers</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/82691.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1229/142648.jpg />
 
-<h4>🌱 Score: 7.74/10</h4>
+<h4>🌱 Score: 8.06/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari](https://myanimelist.net/anime/32869/Kuroko_no_Basket_Movie_1__Winter_Cup_-_Kage_to_Hikari)*
+🍂 *More information: [Yuanshen: Jinzhong Ge](https://myanimelist.net/anime/58689/Yuanshen__Jinzhong_Ge)*
     
