@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuanshen: Jinzhong Ge
+  <strong>🥭 <u>Title:</u></strong> Youjo Senki
 </h4>
 
-<h4>🌿 <u>English Title:</u> Genshin Impact: The Song Burning in the Embers</h4>
+<h4>🌿 <u>English Title:</u> Saga of Tanya the Evil</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1229/142648.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/82890.jpg />
 
-<h4>🌱 Score: 8.06/10</h4>
+<h4>🌱 Score: 7.96/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Action, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Yuanshen: Jinzhong Ge](https://myanimelist.net/anime/58689/Yuanshen__Jinzhong_Ge)*
+🍂 *More information: [Youjo Senki](https://myanimelist.net/anime/32615/Youjo_Senki)*
     
