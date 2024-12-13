@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Youjo Senki
+  <strong>🥭 <u>Title:</u></strong> Free! Dive to the Future
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saga of Tanya the Evil</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/82890.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1243/95025.jpg />
 
-<h4>🌱 Score: 7.96/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Sports</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Youjo Senki](https://myanimelist.net/anime/32615/Youjo_Senki)*
+🍂 *More information: [Free! Dive to the Future](https://myanimelist.net/anime/36704/Free_Dive_to_the_Future)*
     
