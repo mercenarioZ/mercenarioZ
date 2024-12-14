@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoubushi Densetsu Tetsuya
+  <strong>🥭 <u>Title:</u></strong> Yao Shen Ji 8th Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Tales of Demons and Gods Season 8</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1165/145095.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1939/142733.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 20</h4>
+<h4>🥑 Episodes: 52</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shoubushi Densetsu Tetsuya](https://myanimelist.net/anime/3369/Shoubushi_Densetsu_Tetsuya)*
+🍂 *More information: [Yao Shen Ji 8th Season](https://myanimelist.net/anime/58744/Yao_Shen_Ji_8th_Season)*
     
