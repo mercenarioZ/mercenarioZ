@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yao Shen Ji 8th Season
+  <strong>🥭 <u>Title:</u></strong> Sen to Chihiro no Kamikakushi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tales of Demons and Gods Season 8</h4>
+<h4>🌿 <u>English Title:</u> Spirited Away</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1939/142733.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/79597.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 8.77/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy, Romance</h4>
+<h4>🌵 Genres: Adventure, Award Winning, Fantasy</h4>
 
-<h4>🥑 Episodes: 52</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Yao Shen Ji 8th Season](https://myanimelist.net/anime/58744/Yao_Shen_Ji_8th_Season)*
+🍂 *More information: [Sen to Chihiro no Kamikakushi](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)*
     
