@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sen to Chihiro no Kamikakushi
+  <strong>🥭 <u>Title:</u></strong> One Piece
 </h4>
 
-<h4>🌿 <u>English Title:</u> Spirited Away</h4>
+<h4>🌿 <u>English Title:</u> One Piece</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/79597.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1244/138851.jpg />
 
-<h4>🌱 Score: 8.77/10</h4>
+<h4>🌱 Score: 8.72/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Adventure, Award Winning, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: null</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sen to Chihiro no Kamikakushi](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)*
+🍂 *More information: [One Piece](https://myanimelist.net/anime/21/One_Piece)*
     
