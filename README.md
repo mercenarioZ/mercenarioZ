@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tensei shitara Ken deshita
+  <strong>🥭 <u>Title:</u></strong> Sakasama no Patema
 </h4>
 
-<h4>🌿 <u>English Title:</u> Reincarnated as a Sword</h4>
+<h4>🌿 <u>English Title:</u> Patema Inverted</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1191/127909.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/52415.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.94/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Award Winning, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tensei shitara Ken deshita](https://myanimelist.net/anime/49891/Tensei_shitara_Ken_deshita)*
+🍂 *More information: [Sakasama no Patema](https://myanimelist.net/anime/12477/Sakasama_no_Patema)*
     
