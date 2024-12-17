@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Star☆Twinkle Precure: Hoshi no Uta ni Omoi wo Komete
+  <strong>🥭 <u>Title:</u></strong> Isshuukan Friends.
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> One Week Friends</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1324/101596.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/61891.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Star☆Twinkle Precure: Hoshi no Uta ni Omoi wo Komete](https://myanimelist.net/anime/38850/Star☆Twinkle_Precure__Hoshi_no_Uta_ni_Omoi_wo_Komete)*
+🍂 *More information: [Isshuukan Friends.](https://myanimelist.net/anime/21327/Isshuukan_Friends)*
     
