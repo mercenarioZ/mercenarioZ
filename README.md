@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta
+  <strong>🥭 <u>Title:</u></strong> Bocchi the Rock!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dragon Ball Z: Fusion Reborn</h4>
+<h4>🌿 <u>English Title:</u> Bocchi the Rock!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1015/93675.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1448/127956.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 8.76/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1995</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta](https://myanimelist.net/anime/905/Dragon_Ball_Z_Movie_12__Fukkatsu_no_Fusion_Gokuu_to_Vegeta)*
+🍂 *More information: [Bocchi the Rock!](https://myanimelist.net/anime/47917/Bocchi_the_Rock)*
     
