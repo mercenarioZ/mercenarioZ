@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Love Me: Kaede to Suzu The Animation
+  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Love Me: Kaede and Suzu The Animation</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1881/120300.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1824/94859.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 7.89/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Hentai</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: Rx - Hentai</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Love Me: Kaede to Suzu The Animation](https://myanimelist.net/anime/50634/Love_Me__Kaede_to_Suzu_The_Animation)*
+🍂 *More information: [Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu](https://myanimelist.net/anime/2450/Crayon_Shin-chan_Movie_09__Arashi_wo_Yobu_Mouretsu_Otona_Teikoku_no_Gyakushuu)*
     
