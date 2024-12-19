@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bocchi the Rock!
+  <strong>🥭 <u>Title:</u></strong> Love Me: Kaede to Suzu The Animation
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bocchi the Rock!</h4>
+<h4>🌿 <u>English Title:</u> Love Me: Kaede and Suzu The Animation</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1448/127956.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1881/120300.jpg />
 
-<h4>🌱 Score: 8.76/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
 <h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Hentai</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: Rx - Hentai</h4>
 
 <br />
 
-🍂 *More information: [Bocchi the Rock!](https://myanimelist.net/anime/47917/Bocchi_the_Rock)*
+🍂 *More information: [Love Me: Kaede to Suzu The Animation](https://myanimelist.net/anime/50634/Love_Me__Kaede_to_Suzu_The_Animation)*
     
