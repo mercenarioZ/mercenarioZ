@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Chuan Shu Zijiu Zhinan
+  <strong>🥭 <u>Title:</u></strong> Koukaku Kidoutai: Stand Alone Complex - The Laughing Man
 </h4>
 
-<h4>🌿 <u>English Title:</u> Scumbag System</h4>
+<h4>🌿 <u>English Title:</u> Ghost in the Shell: Stand Alone Complex - The Laughing Man</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1367/109171.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1127/141116.jpg />
 
-<h4>🌱 Score: 7.78/10</h4>
+<h4>🌱 Score: 8.06/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Mystery, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Chuan Shu Zijiu Zhinan](https://myanimelist.net/anime/38990/Chuan_Shu_Zijiu_Zhinan)*
+🍂 *More information: [Koukaku Kidoutai: Stand Alone Complex - The Laughing Man](https://myanimelist.net/anime/2449/Koukaku_Kidoutai__Stand_Alone_Complex_-_The_Laughing_Man)*
     
