@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu
+  <strong>🥭 <u>Title:</u></strong> Chuan Shu Zijiu Zhinan
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Scumbag System</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1824/94859.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1367/109171.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2001</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 10</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu](https://myanimelist.net/anime/2450/Crayon_Shin-chan_Movie_09__Arashi_wo_Yobu_Mouretsu_Otona_Teikoku_no_Gyakushuu)*
+🍂 *More information: [Chuan Shu Zijiu Zhinan](https://myanimelist.net/anime/38990/Chuan_Shu_Zijiu_Zhinan)*
     
