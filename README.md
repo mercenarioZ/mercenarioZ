@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Koukaku Kidoutai: Stand Alone Complex - The Laughing Man
+  <strong>🥭 <u>Title:</u></strong> JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ghost in the Shell: Stand Alone Complex - The Laughing Man</h4>
+<h4>🌿 <u>English Title:</u> JoJo's Bizarre Adventure: Diamond Is Unbreakable</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1127/141116.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/79156.jpg />
 
-<h4>🌱 Score: 8.06/10</h4>
+<h4>🌱 Score: 8.5/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Mystery, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 39</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Koukaku Kidoutai: Stand Alone Complex - The Laughing Man](https://myanimelist.net/anime/2449/Koukaku_Kidoutai__Stand_Alone_Complex_-_The_Laughing_Man)*
+🍂 *More information: [JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai](https://myanimelist.net/anime/31933/JoJo_no_Kimyou_na_Bouken_Part_4__Diamond_wa_Kudakenai)*
     
