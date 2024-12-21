@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+  <strong>🥭 <u>Title:</u></strong> Ranma ½
 </h4>
 
-<h4>🌿 <u>English Title:</u> JoJo's Bizarre Adventure: Diamond Is Unbreakable</h4>
+<h4>🌿 <u>English Title:</u> Ranma ½</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/79156.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/6441.jpg />
 
-<h4>🌱 Score: 8.5/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 1989</h4>
 
-<h4>🌵 Genres: Action, Adventure</h4>
+<h4>🌵 Genres: Action, Comedy, Romance, Ecchi</h4>
 
-<h4>🥑 Episodes: 39</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai](https://myanimelist.net/anime/31933/JoJo_no_Kimyou_na_Bouken_Part_4__Diamond_wa_Kudakenai)*
+🍂 *More information: [Ranma ½](https://myanimelist.net/anime/210/Ranma_½)*
     
