@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ranma ½
+  <strong>🥭 <u>Title:</u></strong> Sennen Joyuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ranma ½</h4>
+<h4>🌿 <u>English Title:</u> Millennium Actress</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/6441.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1648/93626.jpg />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: 8.24/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1989</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Action, Comedy, Romance, Ecchi</h4>
+<h4>🌵 Genres: Action, Adventure, Award Winning, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ranma ½](https://myanimelist.net/anime/210/Ranma_½)*
+🍂 *More information: [Sennen Joyuu](https://myanimelist.net/anime/1033/Sennen_Joyuu)*
     
