@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sennen Joyuu
+  <strong>🥭 <u>Title:</u></strong> Cool Doji Danshi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Millennium Actress</h4>
+<h4>🌿 <u>English Title:</u> Play It Cool, Guys</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1648/93626.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1123/134677.jpg />
 
-<h4>🌱 Score: 8.24/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Drama, Fantasy, Romance</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sennen Joyuu](https://myanimelist.net/anime/1033/Sennen_Joyuu)*
+🍂 *More information: [Cool Doji Danshi](https://myanimelist.net/anime/51680/Cool_Doji_Danshi)*
     
