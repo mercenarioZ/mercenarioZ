@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tsurune: Tsunagari no Issha
+  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon R: The Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tsurune - The Linking Shot -</h4>
+<h4>🌿 <u>English Title:</u> Sailor Moon R: The Movie - The Promise of the Rose</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1803/132337.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/18897.jpg />
 
-<h4>🌱 Score: 8.09/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 1993</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tsurune: Tsunagari no Issha](https://myanimelist.net/anime/52826/Tsurune__Tsunagari_no_Issha)*
+🍂 *More information: [Bishoujo Senshi Sailor Moon R: The Movie](https://myanimelist.net/anime/531/Bishoujo_Senshi_Sailor_Moon_R__The_Movie)*
     
