@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cool Doji Danshi
+  <strong>🥭 <u>Title:</u></strong> Tsurune: Tsunagari no Issha
 </h4>
 
-<h4>🌿 <u>English Title:</u> Play It Cool, Guys</h4>
+<h4>🌿 <u>English Title:</u> Tsurune - The Linking Shot -</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1123/134677.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1803/132337.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 8.09/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Cool Doji Danshi](https://myanimelist.net/anime/51680/Cool_Doji_Danshi)*
+🍂 *More information: [Tsurune: Tsunagari no Issha](https://myanimelist.net/anime/52826/Tsurune__Tsunagari_no_Issha)*
     
