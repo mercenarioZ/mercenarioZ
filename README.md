@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon R: The Movie
+  <strong>🥭 <u>Title:</u></strong> Yuusha-Ou GaoGaiGar Final
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sailor Moon R: The Movie - The Promise of the Rose</h4>
+<h4>🌿 <u>English Title:</u> GaoGaiGar Final</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/18897.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1187/132740.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 8.08/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1993</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Adventure, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 8</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bishoujo Senshi Sailor Moon R: The Movie](https://myanimelist.net/anime/531/Bishoujo_Senshi_Sailor_Moon_R__The_Movie)*
+🍂 *More information: [Yuusha-Ou GaoGaiGar Final](https://myanimelist.net/anime/1382/Yuusha-Ou_GaoGaiGar_Final)*
     
