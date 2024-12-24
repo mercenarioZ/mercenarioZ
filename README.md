@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuusha-Ou GaoGaiGar Final
+  <strong>🥭 <u>Title:</u></strong> Touch
 </h4>
 
-<h4>🌿 <u>English Title:</u> GaoGaiGar Final</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1187/132740.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/53087.jpg />
 
-<h4>🌱 Score: 8.08/10</h4>
+<h4>🌱 Score: 7.98/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 1985</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Drama, Romance, Sports</h4>
 
-<h4>🥑 Episodes: 8</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuusha-Ou GaoGaiGar Final](https://myanimelist.net/anime/1382/Yuusha-Ou_GaoGaiGar_Final)*
+🍂 *More information: [Touch](https://myanimelist.net/anime/1065/Touch)*
     
