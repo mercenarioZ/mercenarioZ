@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Touch
+  <strong>🥭 <u>Title:</u></strong> Piano no Mori
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Piano Forest</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/53087.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/45012.jpg />
 
-<h4>🌱 Score: 7.98/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1985</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Drama, Romance, Sports</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Touch](https://myanimelist.net/anime/1065/Touch)*
+🍂 *More information: [Piano no Mori](https://myanimelist.net/anime/2594/Piano_no_Mori)*
     
