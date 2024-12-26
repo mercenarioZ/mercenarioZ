@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Pokemon: Mezase Pokemon Master
+  <strong>🥭 <u>Title:</u></strong> Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Pokémon: To Be a Pokémon Master</h4>
+<h4>🌿 <u>English Title:</u> The 100 Girlfriends Who Really, Really, Really, Really, Really Love You</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1246/134209.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1812/136764.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.74/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Pokemon: Mezase Pokemon Master](https://myanimelist.net/anime/53874/Pokemon__Mezase_Pokemon_Master)*
+🍂 *More information: [Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo](https://myanimelist.net/anime/54714/Kimi_no_Koto_ga_Daidaidaidaidaisuki_na_100-nin_no_Kanojo)*
     
