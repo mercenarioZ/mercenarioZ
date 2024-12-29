@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mawaru Penguindrum
+  <strong>🥭 <u>Title:</u></strong> Kengan Ashura Season 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Penguindrum</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/30238.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1513/134619.jpg />
 
-<h4>🌱 Score: 7.93/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Avant Garde, Drama, Mystery, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Mawaru Penguindrum](https://myanimelist.net/anime/10721/Mawaru_Penguindrum)*
+🍂 *More information: [Kengan Ashura Season 2](https://myanimelist.net/anime/51369/Kengan_Ashura_Season_2)*
     
