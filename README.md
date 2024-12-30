@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Un-Go: Inga-ron
+  <strong>🥭 <u>Title:</u></strong> Kidou Keisatsu Patlabor: On Television
 </h4>
 
-<h4>🌿 <u>English Title:</u> Un-Go: Chapter of Inga</h4>
+<h4>🌿 <u>English Title:</u> Patlabor: The Mobile Police - The TV Series</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/35071.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1739/144310.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 1989</h4>
 
-<h4>🌵 Genres: Mystery, Supernatural</h4>
+<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 47</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Un-Go: Inga-ron](https://myanimelist.net/anime/11531/Un-Go__Inga-ron)*
+🍂 *More information: [Kidou Keisatsu Patlabor: On Television](https://myanimelist.net/anime/324/Kidou_Keisatsu_Patlabor__On_Television)*
     
