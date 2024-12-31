@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Diamond no Ace OVA
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 15: Chinmoku no Quarter
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ace of Diamond OVA</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 15: Quarter of Silence</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/71263.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/32035.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 8/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Diamond no Ace OVA](https://myanimelist.net/anime/25341/Diamond_no_Ace_OVA)*
+🍂 *More information: [Meitantei Conan Movie 15: Chinmoku no Quarter](https://myanimelist.net/anime/9963/Meitantei_Conan_Movie_15__Chinmoku_no_Quarter)*
     
