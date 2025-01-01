@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 15: Chinmoku no Quarter
+  <strong>🥭 <u>Title:</u></strong> Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 15: Quarter of Silence</h4>
+<h4>🌿 <u>English Title:</u> Inu X Boku Secret Service Episode 13</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/32035.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/41927.jpg />
 
-<h4>🌱 Score: 8/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 15: Chinmoku no Quarter](https://myanimelist.net/anime/9963/Meitantei_Conan_Movie_15__Chinmoku_no_Quarter)*
+🍂 *More information: [Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto](https://myanimelist.net/anime/13403/Inu_x_Boku_SS__Miketsukami-kun_Henka_Switch_Omamagoto)*
     
