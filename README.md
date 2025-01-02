@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ghost (Music)
+  <strong>🥭 <u>Title:</u></strong> MF Ghost 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> MF Ghost Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1220/118565.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1037/145338.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2024</h4>
 
 <h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ghost (Music)](https://myanimelist.net/anime/50030/Ghost_Music)*
+🍂 *More information: [MF Ghost 2nd Season](https://myanimelist.net/anime/57559/MF_Ghost_2nd_Season)*
     
