@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kono Oto Tomare!
+  <strong>🥭 <u>Title:</u></strong> Yuu☆Yuu☆Hakusho
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kono Oto Tomare!: Sounds of Life</h4>
+<h4>🌿 <u>English Title:</u> Yu Yu Hakusho: Ghost Files</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1464/99881.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1228/111372.jpg />
 
-<h4>🌱 Score: 7.93/10</h4>
+<h4>🌱 Score: 8.46/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 1992</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kono Oto Tomare!](https://myanimelist.net/anime/38080/Kono_Oto_Tomare)*
+🍂 *More information: [Yuu☆Yuu☆Hakusho](https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho)*
     
