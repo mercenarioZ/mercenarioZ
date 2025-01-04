@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Magi: The Kingdom of Magic
+  <strong>🥭 <u>Title:</u></strong> Monster
 </h4>
 
-<h4>🌿 <u>English Title:</u> Magi: The Kingdom of Magic</h4>
+<h4>🌿 <u>English Title:</u> Monster</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/55039.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/18793.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 8.88/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Drama, Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 74</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Magi: The Kingdom of Magic](https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic)*
+🍂 *More information: [Monster](https://myanimelist.net/anime/19/Monster)*
     
