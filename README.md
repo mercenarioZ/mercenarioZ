@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fight Song
+  <strong>🥭 <u>Title:</u></strong> Bokura wa Minna Kawai-sou: Hajimete no
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Kawai Complex Guide to Manors and Hostel Behavior OVA: First Time</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1730/132170.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/71613.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fight Song](https://myanimelist.net/anime/54026/Fight_Song)*
+🍂 *More information: [Bokura wa Minna Kawai-sou: Hajimete no](https://myanimelist.net/anime/24913/Bokura_wa_Minna_Kawai-sou__Hajimete_no)*
     
