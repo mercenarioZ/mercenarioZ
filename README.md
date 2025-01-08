@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kurenai no Buta
+  <strong>🥭 <u>Title:</u></strong> Sakura-sou no Pet na Kanojo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Porco Rosso</h4>
+<h4>🌿 <u>English Title:</u> The Pet Girl of Sakurasou</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1728/138709.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/43643.jpg />
 
-<h4>🌱 Score: 7.95/10</h4>
+<h4>🌱 Score: 8.06/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1992</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Comedy, Drama, Romance</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kurenai no Buta](https://myanimelist.net/anime/416/Kurenai_no_Buta)*
+🍂 *More information: [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo)*
     
