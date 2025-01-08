@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> School Rumble: Ichi Gakki Hoshuu
+  <strong>🥭 <u>Title:</u></strong> Kurenai no Buta
 </h4>
 
-<h4>🌿 <u>English Title:</u> School Rumble: Extra Class</h4>
+<h4>🌿 <u>English Title:</u> Porco Rosso</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/75489.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1728/138709.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.95/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 1992</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Award Winning, Comedy, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [School Rumble: Ichi Gakki Hoshuu](https://myanimelist.net/anime/517/School_Rumble__Ichi_Gakki_Hoshuu)*
+🍂 *More information: [Kurenai no Buta](https://myanimelist.net/anime/416/Kurenai_no_Buta)*
     
