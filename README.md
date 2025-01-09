@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ushio to Tora (TV) 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Fruits Basket: The Final
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ushio & Tora (2016)</h4>
+<h4>🌿 <u>English Title:</u> Fruits Basket: The Final Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1092/117404.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1085/114792.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 8.96/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
+<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
 
 <h4>🥑 Episodes: 13</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Ushio to Tora (TV) 2nd Season](https://myanimelist.net/anime/31098/Ushio_to_Tora_TV_2nd_Season)*
+🍂 *More information: [Fruits Basket: The Final](https://myanimelist.net/anime/42938/Fruits_Basket__The_Final)*
     
