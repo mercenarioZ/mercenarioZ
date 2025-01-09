@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sakura-sou no Pet na Kanojo
+  <strong>🥭 <u>Title:</u></strong> Ushio to Tora (TV) 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Pet Girl of Sakurasou</h4>
+<h4>🌿 <u>English Title:</u> Ushio & Tora (2016)</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/43643.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1092/117404.jpg />
 
-<h4>🌱 Score: 8.06/10</h4>
+<h4>🌱 Score: 7.89/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo)*
+🍂 *More information: [Ushio to Tora (TV) 2nd Season](https://myanimelist.net/anime/31098/Ushio_to_Tora_TV_2nd_Season)*
     
