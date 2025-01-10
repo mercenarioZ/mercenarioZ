@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Iribitari Gal ni Ma〇ko Tsukawasete Morau Hanashi
+  <strong>🥭 <u>Title:</u></strong> Hellsing Ultimate
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Hellsing Ultimate</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1931/144503.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1012/143965.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 8.35/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Hentai</h4>
+<h4>🌵 Genres: Action, Horror, Supernatural</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 10</h4>
 
-<h4>🍏 Rating: Rx - Hentai</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Iribitari Gal ni Ma〇ko Tsukawasete Morau Hanashi](https://myanimelist.net/anime/59407/Iribitari_Gal_ni_Ma〇ko_Tsukawasete_Morau_Hanashi)*
+🍂 *More information: [Hellsing Ultimate](https://myanimelist.net/anime/777/Hellsing_Ultimate)*
     
