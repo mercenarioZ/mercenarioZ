@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hellsing Ultimate
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 20: Junkoku no Nightmare
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hellsing Ultimate</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 20: The Darkest Nightmare</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1012/143965.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/78894.jpg />
 
-<h4>🌱 Score: 8.35/10</h4>
+<h4>🌱 Score: 8.18/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Horror, Supernatural</h4>
+<h4>🌵 Genres: Action, Mystery</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Hellsing Ultimate](https://myanimelist.net/anime/777/Hellsing_Ultimate)*
+🍂 *More information: [Meitantei Conan Movie 20: Junkoku no Nightmare](https://myanimelist.net/anime/32005/Meitantei_Conan_Movie_20__Junkoku_no_Nightmare)*
     
