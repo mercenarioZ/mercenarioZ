@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 20: Junkoku no Nightmare
+  <strong>🥭 <u>Title:</u></strong> Shixiong A Shixiong
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 20: The Darkest Nightmare</h4>
+<h4>🌿 <u>English Title:</u> My Senior Brother Is Too Steady</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/78894.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1209/132496.jpg />
 
-<h4>🌱 Score: 8.18/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Mystery</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 20: Junkoku no Nightmare](https://myanimelist.net/anime/32005/Meitantei_Conan_Movie_20__Junkoku_no_Nightmare)*
+🍂 *More information: [Shixiong A Shixiong](https://myanimelist.net/anime/54123/Shixiong_A_Shixiong)*
     
