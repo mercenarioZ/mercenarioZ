@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shixiong A Shixiong
+  <strong>🥭 <u>Title:</u></strong> Tanaka-kun wa Itsumo Kedaruge
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Senior Brother Is Too Steady</h4>
+<h4>🌿 <u>English Title:</u> Tanaka-kun is Always Listless</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1209/132496.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1189/111994.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shixiong A Shixiong](https://myanimelist.net/anime/54123/Shixiong_A_Shixiong)*
+🍂 *More information: [Tanaka-kun wa Itsumo Kedaruge](https://myanimelist.net/anime/32093/Tanaka-kun_wa_Itsumo_Kedaruge)*
     
