@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tanaka-kun wa Itsumo Kedaruge
+  <strong>🥭 <u>Title:</u></strong> Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tanaka-kun is Always Listless</h4>
+<h4>🌿 <u>English Title:</u> Kaguya-sama: Love is War OVA</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1189/111994.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1027/115055.jpg />
 
-<h4>🌱 Score: 7.81/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Comedy, Romance, Ecchi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tanaka-kun wa Itsumo Kedaruge](https://myanimelist.net/anime/32093/Tanaka-kun_wa_Itsumo_Kedaruge)*
+🍂 *More information: [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA](https://myanimelist.net/anime/43609/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen_OVA)*
     
