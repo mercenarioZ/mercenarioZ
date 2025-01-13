@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA
+  <strong>🥭 <u>Title:</u></strong> Rurouni Kenshin DVD-BOX Special Ending
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kaguya-sama: Love is War OVA</h4>
+<h4>🌿 <u>English Title:</u> Samurai X DVD-BOX Special Ending</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1027/115055.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/25808.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Ecchi</h4>
+<h4>🌵 Genres: Romance</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA](https://myanimelist.net/anime/43609/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen_OVA)*
+🍂 *More information: [Rurouni Kenshin DVD-BOX Special Ending](https://myanimelist.net/anime/6591/Rurouni_Kenshin_DVD-BOX_Special_Ending)*
     
