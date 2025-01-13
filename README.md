@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rurouni Kenshin DVD-BOX Special Ending
+  <strong>🥭 <u>Title:</u></strong> K: Seven Stories Movie 5 - Memory of Red - Burn
 </h4>
 
-<h4>🌿 <u>English Title:</u> Samurai X DVD-BOX Special Ending</h4>
+<h4>🌿 <u>English Title:</u> K: SEVEN STORIES "Memory of RED - BURN -"</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/25808.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1790/91851.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Action</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Rurouni Kenshin DVD-BOX Special Ending](https://myanimelist.net/anime/6591/Rurouni_Kenshin_DVD-BOX_Special_Ending)*
+🍂 *More information: [K: Seven Stories Movie 5 - Memory of Red - Burn](https://myanimelist.net/anime/37306/K__Seven_Stories_Movie_5_-_Memory_of_Red_-_Burn)*
     
