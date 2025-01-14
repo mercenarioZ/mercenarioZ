@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> K: Seven Stories Movie 5 - Memory of Red - Burn
+  <strong>🥭 <u>Title:</u></strong> Perfect Blue
 </h4>
 
-<h4>🌿 <u>English Title:</u> K: SEVEN STORIES "Memory of RED - BURN -"</h4>
+<h4>🌿 <u>English Title:</u> Perfect Blue</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1790/91851.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1254/134212.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 8.55/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 1998</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Avant Garde, Award Winning, Drama, Horror, Suspense</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [K: Seven Stories Movie 5 - Memory of Red - Burn](https://myanimelist.net/anime/37306/K__Seven_Stories_Movie_5_-_Memory_of_Red_-_Burn)*
+🍂 *More information: [Perfect Blue](https://myanimelist.net/anime/437/Perfect_Blue)*
     
