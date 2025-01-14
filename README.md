@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Perfect Blue
+  <strong>🥭 <u>Title:</u></strong> Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime
 </h4>
 
-<h4>🌿 <u>English Title:</u> Perfect Blue</h4>
+<h4>🌿 <u>English Title:</u> Monogatari Series: Off & Monster Season - A Cruel Fairy Tale: The Beautiful Princess</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1254/134212.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1887/144936.jpg />
 
-<h4>🌱 Score: 8.55/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 1998</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Avant Garde, Award Winning, Drama, Horror, Suspense</h4>
+<h4>🌵 Genres: Mystery, Supernatural, Suspense</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Perfect Blue](https://myanimelist.net/anime/437/Perfect_Blue)*
+🍂 *More information: [Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime](https://myanimelist.net/anime/59612/Monogatari_Series__Off___Monster_Season_-_Zankoku_Douwa__Utsukushi-hime)*
     
