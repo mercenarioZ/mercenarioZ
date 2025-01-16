@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Maoujou de Oyasumi
+  <strong>🥭 <u>Title:</u></strong> Oomuro-ke: Dear Sisters
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sleepy Princess in the Demon Castle</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1448/108514.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1401/140053.jpg />
 
-<h4>🌱 Score: 7.96/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Girls Love</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Maoujou de Oyasumi](https://myanimelist.net/anime/40397/Maoujou_de_Oyasumi)*
+🍂 *More information: [Oomuro-ke: Dear Sisters](https://myanimelist.net/anime/56175/Oomuro-ke__Dear_Sisters)*
     
