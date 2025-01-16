@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ao no Exorcist: Yosuga-hen
+  <strong>🥭 <u>Title:</u></strong> Maoujou de Oyasumi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Blue Exorcist: The Blue Night Saga</h4>
+<h4>🌿 <u>English Title:</u> Sleepy Princess in the Demon Castle</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1390/147040.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1448/108514.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.96/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Ao no Exorcist: Yosuga-hen](https://myanimelist.net/anime/59226/Ao_no_Exorcist__Yosuga-hen)*
+🍂 *More information: [Maoujou de Oyasumi](https://myanimelist.net/anime/40397/Maoujou_de_Oyasumi)*
     
