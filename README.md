@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Oomuro-ke: Dear Sisters
+  <strong>🥭 <u>Title:</u></strong> K-On!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> K-ON! Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1401/140053.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/76121.jpg />
 
-<h4>🌱 Score: 7.81/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Comedy, Girls Love</h4>
+<h4>🌵 Genres: Award Winning, Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Oomuro-ke: Dear Sisters](https://myanimelist.net/anime/56175/Oomuro-ke__Dear_Sisters)*
+🍂 *More information: [K-On!!](https://myanimelist.net/anime/7791/K-On)*
     
