@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> K-On!!
+  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket 3rd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> K-ON! Season 2</h4>
+<h4>🌿 <u>English Title:</u> Kuroko's Basketball 3</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/76121.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/68299.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 8.29/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Award Winning, Comedy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [K-On!!](https://myanimelist.net/anime/7791/K-On)*
+🍂 *More information: [Kuroko no Basket 3rd Season](https://myanimelist.net/anime/24415/Kuroko_no_Basket_3rd_Season)*
     
