@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Natsume Yuujinchou: Itsuka Yuki no Hi ni
+  <strong>🥭 <u>Title:</u></strong> Koukaku Kidoutai: Stand Alone Complex - The Laughing Man
 </h4>
 
-<h4>🌿 <u>English Title:</u> Natsume’s Book of Friends: On a Certain Snowy Day</h4>
+<h4>🌿 <u>English Title:</u> Ghost in the Shell: Stand Alone Complex - The Laughing Man</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/79742.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1127/141116.jpg />
 
-<h4>🌱 Score: 8.33/10</h4>
+<h4>🌱 Score: 8.06/10</h4>
 
 <h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Action, Mystery, Sci-Fi, Suspense</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Natsume Yuujinchou: Itsuka Yuki no Hi ni](https://myanimelist.net/anime/20651/Natsume_Yuujinchou__Itsuka_Yuki_no_Hi_ni)*
+🍂 *More information: [Koukaku Kidoutai: Stand Alone Complex - The Laughing Man](https://myanimelist.net/anime/2449/Koukaku_Kidoutai__Stand_Alone_Complex_-_The_Laughing_Man)*
     
