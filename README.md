@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Koukaku Kidoutai: Stand Alone Complex - The Laughing Man
+  <strong>🥭 <u>Title:</u></strong> Tanaka-kun wa Itsumo Kedaruge
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ghost in the Shell: Stand Alone Complex - The Laughing Man</h4>
+<h4>🌿 <u>English Title:</u> Tanaka-kun is Always Listless</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1127/141116.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1189/111994.jpg />
 
-<h4>🌱 Score: 8.06/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Mystery, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Koukaku Kidoutai: Stand Alone Complex - The Laughing Man](https://myanimelist.net/anime/2449/Koukaku_Kidoutai__Stand_Alone_Complex_-_The_Laughing_Man)*
+🍂 *More information: [Tanaka-kun wa Itsumo Kedaruge](https://myanimelist.net/anime/32093/Tanaka-kun_wa_Itsumo_Kedaruge)*
     
