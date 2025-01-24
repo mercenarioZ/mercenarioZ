@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yao Shen Ji 8th Season
+  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii: SNS
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tales of Demons and Gods Season 8</h4>
+<h4>🌿 <u>English Title:</u> Tonikawa: Over The Moon For You - SNS</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1939/142733.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1765/122768.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 8.02/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy, Romance</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 52</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yao Shen Ji 8th Season](https://myanimelist.net/anime/58744/Yao_Shen_Ji_8th_Season)*
+🍂 *More information: [Tonikaku Kawaii: SNS](https://myanimelist.net/anime/44931/Tonikaku_Kawaii__SNS)*
     
