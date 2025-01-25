@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Date A Live V
+  <strong>🥭 <u>Title:</u></strong> Nurarihyon no Mago
 </h4>
 
-<h4>🌿 <u>English Title:</u> Date A Live V</h4>
+<h4>🌿 <u>English Title:</u> Nura: Rise of the Yokai Clan</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1659/141438.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/75631.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Date A Live V](https://myanimelist.net/anime/52196/Date_A_Live_V)*
+🍂 *More information: [Nurarihyon no Mago](https://myanimelist.net/anime/7592/Nurarihyon_no_Mago)*
     
