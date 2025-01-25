@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii: SNS
+  <strong>🥭 <u>Title:</u></strong> Date A Live V
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tonikawa: Over The Moon For You - SNS</h4>
+<h4>🌿 <u>English Title:</u> Date A Live V</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1765/122768.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1659/141438.jpg />
 
-<h4>🌱 Score: 8.02/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action, Fantasy, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Tonikaku Kawaii: SNS](https://myanimelist.net/anime/44931/Tonikaku_Kawaii__SNS)*
+🍂 *More information: [Date A Live V](https://myanimelist.net/anime/52196/Date_A_Live_V)*
     
