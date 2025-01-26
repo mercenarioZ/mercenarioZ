@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimi to Boku.
+  <strong>🥭 <u>Title:</u></strong> Dr. Stone
 </h4>
 
-<h4>🌿 <u>English Title:</u> You and Me.</h4>
+<h4>🌿 <u>English Title:</u> Dr. Stone</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/34949.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1613/102576.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 8.27/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kimi to Boku.](https://myanimelist.net/anime/10460/Kimi_to_Boku)*
+🍂 *More information: [Dr. Stone](https://myanimelist.net/anime/38691/Dr_Stone)*
     
