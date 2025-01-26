@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nurarihyon no Mago
+  <strong>🥭 <u>Title:</u></strong> Kimi to Boku.
 </h4>
 
-<h4>🌿 <u>English Title:</u> Nura: Rise of the Yokai Clan</h4>
+<h4>🌿 <u>English Title:</u> You and Me.</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/75631.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/34949.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Nurarihyon no Mago](https://myanimelist.net/anime/7592/Nurarihyon_no_Mago)*
+🍂 *More information: [Kimi to Boku.](https://myanimelist.net/anime/10460/Kimi_to_Boku)*
     
