@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doraemon Movie 07: Nobita to Tetsujin Heidan
+  <strong>🥭 <u>Title:</u></strong> Space Cobra
 </h4>
 
-<h4>🌿 <u>English Title:</u> Doraemon the Movie: Nobita and the Steel Troops</h4>
+<h4>🌿 <u>English Title:</u> Space Adventure Cobra</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/72412.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/41437.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1986</h4>
+<h4>🌴 Aired: 1982</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 31</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Doraemon Movie 07: Nobita to Tetsujin Heidan](https://myanimelist.net/anime/2665/Doraemon_Movie_07__Nobita_to_Tetsujin_Heidan)*
+🍂 *More information: [Space Cobra](https://myanimelist.net/anime/2451/Space_Cobra)*
     
