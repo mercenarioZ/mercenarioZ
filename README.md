@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dr. Stone
+  <strong>🥭 <u>Title:</u></strong> Doraemon Movie 07: Nobita to Tetsujin Heidan
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dr. Stone</h4>
+<h4>🌿 <u>English Title:</u> Doraemon the Movie: Nobita and the Steel Troops</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1613/102576.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/72412.jpg />
 
-<h4>🌱 Score: 8.27/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 1986</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Dr. Stone](https://myanimelist.net/anime/38691/Dr_Stone)*
+🍂 *More information: [Doraemon Movie 07: Nobita to Tetsujin Heidan](https://myanimelist.net/anime/2665/Doraemon_Movie_07__Nobita_to_Tetsujin_Heidan)*
     
