@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Space Cobra
+  <strong>🥭 <u>Title:</u></strong> Given Movie 3: Umi e
 </h4>
 
-<h4>🌿 <u>English Title:</u> Space Adventure Cobra</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/41437.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1663/144261.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1982</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Boys Love, Drama</h4>
 
-<h4>🥑 Episodes: 31</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Space Cobra](https://myanimelist.net/anime/2451/Space_Cobra)*
+🍂 *More information: [Given Movie 3: Umi e](https://myanimelist.net/anime/58222/Given_Movie_3__Umi_e)*
     
