@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Given Movie 3: Umi e
+  <strong>🥭 <u>Title:</u></strong> Tomo-chan wa Onnanoko!
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Tomo-chan Is a Girl!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1663/144261.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1444/131828.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Boys Love, Drama</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Given Movie 3: Umi e](https://myanimelist.net/anime/58222/Given_Movie_3__Umi_e)*
+🍂 *More information: [Tomo-chan wa Onnanoko!](https://myanimelist.net/anime/52305/Tomo-chan_wa_Onnanoko)*
     
