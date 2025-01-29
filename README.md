@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mob Psycho 100 III
+  <strong>🥭 <u>Title:</u></strong> Boku no Hero Academia 6th Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mob Psycho 100 III</h4>
+<h4>🌿 <u>English Title:</u> My Hero Academia Season 6</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1228/125011.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1483/126005.jpg />
 
-<h4>🌱 Score: 8.71/10</h4>
+<h4>🌱 Score: 8.24/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mob Psycho 100 III](https://myanimelist.net/anime/50172/Mob_Psycho_100_III)*
+🍂 *More information: [Boku no Hero Academia 6th Season](https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season)*
     
