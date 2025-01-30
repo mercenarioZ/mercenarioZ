@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Naruto: Shippuuden Movie 6 - Road to Ninja
+  <strong>🥭 <u>Title:</u></strong> Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Naruto Shippuden the Movie 6: Road to Ninja</h4>
+<h4>🌿 <u>English Title:</u> As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1620/94336.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1280/143705.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Naruto: Shippuuden Movie 6 - Road to Ninja](https://myanimelist.net/anime/13667/Naruto__Shippuuden_Movie_6_-_Road_to_Ninja)*
+🍂 *More information: [Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season](https://myanimelist.net/anime/59131/Tensei_Kizoku_Kantei_Skill_de_Nariagaru_2nd_Season)*
     
