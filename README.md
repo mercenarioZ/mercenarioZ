@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Full Metal Panic!
 </h4>
 
-<h4>🌿 <u>English Title:</u> As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2</h4>
+<h4>🌿 <u>English Title:</u> Full Metal Panic!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1280/143705.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/75259.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season](https://myanimelist.net/anime/59131/Tensei_Kizoku_Kantei_Skill_de_Nariagaru_2nd_Season)*
+🍂 *More information: [Full Metal Panic!](https://myanimelist.net/anime/71/Full_Metal_Panic)*
     
