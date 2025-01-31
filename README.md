@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Full Metal Panic!
+  <strong>🥭 <u>Title:</u></strong> Ojamajo Doremi Na-i-sho
 </h4>
 
-<h4>🌿 <u>English Title:</u> Full Metal Panic!</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/75259.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1986/99238.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Full Metal Panic!](https://myanimelist.net/anime/71/Full_Metal_Panic)*
+🍂 *More information: [Ojamajo Doremi Na-i-sho](https://myanimelist.net/anime/1376/Ojamajo_Doremi_Na-i-sho)*
     
