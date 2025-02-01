@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Akatsuki no Yona
+  <strong>🥭 <u>Title:</u></strong> Zipang
 </h4>
 
-<h4>🌿 <u>English Title:</u> Yona of the Dawn</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/64225.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/75740.jpg />
 
-<h4>🌱 Score: 8.03/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Akatsuki no Yona](https://myanimelist.net/anime/25013/Akatsuki_no_Yona)*
+🍂 *More information: [Zipang](https://myanimelist.net/anime/29/Zipang)*
     
