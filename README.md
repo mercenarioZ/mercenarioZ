@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ojamajo Doremi Na-i-sho
+  <strong>🥭 <u>Title:</u></strong> Akatsuki no Yona
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Yona of the Dawn</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1986/99238.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/64225.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 8.03/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ojamajo Doremi Na-i-sho](https://myanimelist.net/anime/1376/Ojamajo_Doremi_Na-i-sho)*
+🍂 *More information: [Akatsuki no Yona](https://myanimelist.net/anime/25013/Akatsuki_no_Yona)*
     
