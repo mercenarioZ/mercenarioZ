@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yu☆Gi☆Oh! Duel Monsters
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 10: Tantei-tachi no Requiem Recap
 </h4>
 
-<h4>🌿 <u>English Title:</u> Yu-Gi-Oh!</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 10: Requiem of the Detectives Recap</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/77055.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/17584.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yu☆Gi☆Oh! Duel Monsters](https://myanimelist.net/anime/481/Yu☆Gi☆Oh_Duel_Monsters)*
+🍂 *More information: [Meitantei Conan Movie 10: Tantei-tachi no Requiem Recap](https://myanimelist.net/anime/7305/Meitantei_Conan_Movie_10__Tantei-tachi_no_Requiem_Recap)*
     
