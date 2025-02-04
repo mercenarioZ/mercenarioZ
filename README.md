@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece Movie 14: Stampede
+  <strong>🥭 <u>Title:</u></strong> Gekkan Shoujo Nozaki-kun
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece: Stampede</h4>
+<h4>🌿 <u>English Title:</u> Monthly Girls' Nozaki-kun</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1221/100550.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/66083.jpg />
 
-<h4>🌱 Score: 8.19/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [One Piece Movie 14: Stampede](https://myanimelist.net/anime/38234/One_Piece_Movie_14__Stampede)*
+🍂 *More information: [Gekkan Shoujo Nozaki-kun](https://myanimelist.net/anime/23289/Gekkan_Shoujo_Nozaki-kun)*
     
