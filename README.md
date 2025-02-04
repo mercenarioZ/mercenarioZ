@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> New Initial D Movie: Legend 2 - Tousou
+  <strong>🥭 <u>Title:</u></strong> One Piece Movie 14: Stampede
 </h4>
 
-<h4>🌿 <u>English Title:</u> Initial D Legend 2 Racer</h4>
+<h4>🌿 <u>English Title:</u> One Piece: Stampede</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/72246.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1221/100550.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 8.19/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [New Initial D Movie: Legend 2 - Tousou](https://myanimelist.net/anime/28881/New_Initial_D_Movie__Legend_2_-_Tousou)*
+🍂 *More information: [One Piece Movie 14: Stampede](https://myanimelist.net/anime/38234/One_Piece_Movie_14__Stampede)*
     
