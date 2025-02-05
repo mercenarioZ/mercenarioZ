@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gekkan Shoujo Nozaki-kun
+  <strong>🥭 <u>Title:</u></strong> Doraemon (2005)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Monthly Girls' Nozaki-kun</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/66083.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/23935.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: null</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Gekkan Shoujo Nozaki-kun](https://myanimelist.net/anime/23289/Gekkan_Shoujo_Nozaki-kun)*
+🍂 *More information: [Doraemon (2005)](https://myanimelist.net/anime/8687/Doraemon_2005)*
     
