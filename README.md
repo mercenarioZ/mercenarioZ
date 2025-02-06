@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Angel Beats! Specials
+  <strong>🥭 <u>Title:</u></strong> Arslan Senki (TV)
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Heroic Legend of Arslan</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/25073.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/73588.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Angel Beats! Specials](https://myanimelist.net/anime/9062/Angel_Beats_Specials)*
+🍂 *More information: [Arslan Senki (TV)](https://myanimelist.net/anime/28249/Arslan_Senki_TV)*
     
