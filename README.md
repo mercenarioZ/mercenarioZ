@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: The Final Season - Kanketsu-hen
+  <strong>🥭 <u>Title:</u></strong> Angel Beats! Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan: Final Season - The Final Chapters</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1279/131078.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/25073.jpg />
 
-<h4>🌱 Score: 8.87/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
 <h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin: The Final Season - Kanketsu-hen](https://myanimelist.net/anime/51535/Shingeki_no_Kyojin__The_Final_Season_-_Kanketsu-hen)*
+🍂 *More information: [Angel Beats! Specials](https://myanimelist.net/anime/9062/Angel_Beats_Specials)*
     
