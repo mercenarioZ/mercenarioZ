@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Arslan Senki (TV)
+  <strong>🥭 <u>Title:</u></strong> Eikoku Koi Monogatari Emma
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Heroic Legend of Arslan</h4>
+<h4>🌿 <u>English Title:</u> Emma: A Victorian Romance</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/73588.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/80117.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Arslan Senki (TV)](https://myanimelist.net/anime/28249/Arslan_Senki_TV)*
+🍂 *More information: [Eikoku Koi Monogatari Emma](https://myanimelist.net/anime/345/Eikoku_Koi_Monogatari_Emma)*
     
