@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saraiya Goyou
+  <strong>🥭 <u>Title:</u></strong> Sakamichi no Apollon
 </h4>
 
-<h4>🌿 <u>English Title:</u> House of Five Leaves</h4>
+<h4>🌿 <u>English Title:</u> Kids on the Slope</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/75203.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1604/98654.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 8.29/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Saraiya Goyou](https://myanimelist.net/anime/7588/Saraiya_Goyou)*
+🍂 *More information: [Sakamichi no Apollon](https://myanimelist.net/anime/12531/Sakamichi_no_Apollon)*
     
