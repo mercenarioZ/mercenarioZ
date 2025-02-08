@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sakamichi no Apollon
+  <strong>🥭 <u>Title:</u></strong> Dr. Stone: New World
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kids on the Slope</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1604/98654.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1316/136268.jpg />
 
-<h4>🌱 Score: 8.29/10</h4>
+<h4>🌱 Score: 8.15/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sakamichi no Apollon](https://myanimelist.net/anime/12531/Sakamichi_no_Apollon)*
+🍂 *More information: [Dr. Stone: New World](https://myanimelist.net/anime/48549/Dr_Stone__New_World)*
     
