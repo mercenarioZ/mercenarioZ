@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mahoujin Guruguru (2017)
+  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium: Ensemble Contest-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Magical Circle</h4>
+<h4>🌿 <u>English Title:</u> Sound! Euphonium: Ensemble Contest Arc</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1880/103168.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1952/135162.jpg />
 
-<h4>🌱 Score: 7.8/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mahoujin Guruguru (2017)](https://myanimelist.net/anime/34745/Mahoujin_Guruguru_2017)*
+🍂 *More information: [Hibike! Euphonium: Ensemble Contest-hen](https://myanimelist.net/anime/51995/Hibike_Euphonium__Ensemble_Contest-hen)*
     
