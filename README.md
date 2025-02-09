@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dr. Stone: New World
+  <strong>🥭 <u>Title:</u></strong> Mahoujin Guruguru (2017)
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Magical Circle</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1316/136268.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1880/103168.jpg />
 
-<h4>🌱 Score: 8.15/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Dr. Stone: New World](https://myanimelist.net/anime/48549/Dr_Stone__New_World)*
+🍂 *More information: [Mahoujin Guruguru (2017)](https://myanimelist.net/anime/34745/Mahoujin_Guruguru_2017)*
     
