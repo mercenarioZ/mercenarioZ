@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium: Ensemble Contest-hen
+  <strong>🥭 <u>Title:</u></strong> Kageki Shoujo!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sound! Euphonium: Ensemble Contest Arc</h4>
+<h4>🌿 <u>English Title:</u> Kageki Shojo!!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1952/135162.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1944/114427.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2021</h4>
 
 <h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hibike! Euphonium: Ensemble Contest-hen](https://myanimelist.net/anime/51995/Hibike_Euphonium__Ensemble_Contest-hen)*
+🍂 *More information: [Kageki Shoujo!!](https://myanimelist.net/anime/43691/Kageki_Shoujo)*
     
