@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> 91 Days
+  <strong>🥭 <u>Title:</u></strong> Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set
 </h4>
 
-<h4>🌿 <u>English Title:</u> 91 Days</h4>
+<h4>🌿 <u>English Title:</u> ORESUKI Are you the only one who loves me? - Our Playball / Our End Run / Our Game</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/80515.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1155/106799.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [91 Days](https://myanimelist.net/anime/32998/91_Days)*
+🍂 *More information: [Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set](https://myanimelist.net/anime/40936/Ore_wo_Suki_nano_wa_Omae_dake_ka_yo__Oretachi_no_Game_Set)*
     
