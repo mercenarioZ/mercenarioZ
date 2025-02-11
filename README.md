@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Isekai Shokudou 2
+  <strong>🥭 <u>Title:</u></strong> 91 Days
 </h4>
 
-<h4>🌿 <u>English Title:</u> Restaurant to Another World 2</h4>
+<h4>🌿 <u>English Title:</u> 91 Days</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1777/117885.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/80515.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Fantasy, Gourmet, Slice of Life</h4>
+<h4>🌵 Genres: Action, Drama, Suspense</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Isekai Shokudou 2](https://myanimelist.net/anime/48804/Isekai_Shokudou_2)*
+🍂 *More information: [91 Days](https://myanimelist.net/anime/32998/91_Days)*
     
