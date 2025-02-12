@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set
+  <strong>🥭 <u>Title:</u></strong> Ichigo Mashimaro OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> ORESUKI Are you the only one who loves me? - Our Playball / Our End Run / Our Game</h4>
+<h4>🌿 <u>English Title:</u> Strawberry Marshmallow OVA</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1155/106799.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/4325.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.66/10</h4>
 
 <h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Comedy, Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 3</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set](https://myanimelist.net/anime/40936/Ore_wo_Suki_nano_wa_Omae_dake_ka_yo__Oretachi_no_Game_Set)*
+🍂 *More information: [Ichigo Mashimaro OVA](https://myanimelist.net/anime/1888/Ichigo_Mashimaro_OVA)*
     
