@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece Film: Strong World
+  <strong>🥭 <u>Title:</u></strong> Liang Bu Yi 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece Film: Strong World</h4>
+<h4>🌿 <u>English Title:</u> No Doubt In Us 2nd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1192/116784.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1385/119524.jpg />
 
-<h4>🌱 Score: 8.05/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [One Piece Film: Strong World](https://myanimelist.net/anime/4155/One_Piece_Film__Strong_World)*
+🍂 *More information: [Liang Bu Yi 2nd Season](https://myanimelist.net/anime/50403/Liang_Bu_Yi_2nd_Season)*
     
