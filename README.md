@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Overlord
+  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba: Yuukaku-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Overlord</h4>
+<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba Entertainment District Arc</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1945/136600.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1908/120036.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 8.72/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Overlord](https://myanimelist.net/anime/29803/Overlord)*
+🍂 *More information: [Kimetsu no Yaiba: Yuukaku-hen](https://myanimelist.net/anime/47778/Kimetsu_no_Yaiba__Yuukaku-hen)*
     
