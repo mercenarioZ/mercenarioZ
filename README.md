@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Made in Abyss Movie 2: Hourou Suru Tasogare
+  <strong>🥭 <u>Title:</u></strong> Overlord
 </h4>
 
-<h4>🌿 <u>English Title:</u> Made in Abyss: Wandering Twilight</h4>
+<h4>🌿 <u>English Title:</u> Overlord</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1336/95168.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1945/136600.jpg />
 
-<h4>🌱 Score: 8.38/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Fantasy, Mystery, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Made in Abyss Movie 2: Hourou Suru Tasogare](https://myanimelist.net/anime/37515/Made_in_Abyss_Movie_2__Hourou_Suru_Tasogare)*
+🍂 *More information: [Overlord](https://myanimelist.net/anime/29803/Overlord)*
     
