@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimetsu no Yaiba: Yuukaku-hen
+  <strong>🥭 <u>Title:</u></strong> Benghuai: Xing Qiong Tiedao - Xuanhuang
 </h4>
 
-<h4>🌿 <u>English Title:</u> Demon Slayer: Kimetsu no Yaiba Entertainment District Arc</h4>
+<h4>🌿 <u>English Title:</u> Honkai: Star Rail - Ichor of Two Dragons</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1908/120036.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1783/138114.jpg />
 
-<h4>🌱 Score: 8.72/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kimetsu no Yaiba: Yuukaku-hen](https://myanimelist.net/anime/47778/Kimetsu_no_Yaiba__Yuukaku-hen)*
+🍂 *More information: [Benghuai: Xing Qiong Tiedao - Xuanhuang](https://myanimelist.net/anime/56471/Benghuai__Xing_Qiong_Tiedao_-_Xuanhuang)*
     
