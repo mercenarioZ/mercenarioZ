@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kekkai Sensen
+  <strong>🥭 <u>Title:</u></strong> Hajime no Ippo: New Challenger
 </h4>
 
-<h4>🌿 <u>English Title:</u> Blood Blockade Battlefront</h4>
+<h4>🌿 <u>English Title:</u> Fighting Spirit: New Challenger</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1449/142053.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/56617.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 8.67/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kekkai Sensen](https://myanimelist.net/anime/24439/Kekkai_Sensen)*
+🍂 *More information: [Hajime no Ippo: New Challenger](https://myanimelist.net/anime/5258/Hajime_no_Ippo__New_Challenger)*
     
