@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hajime no Ippo: New Challenger
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Dai 08 MS Shoutai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fighting Spirit: New Challenger</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: The 08th MS Team</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/56617.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/75618.jpg />
 
-<h4>🌱 Score: 8.67/10</h4>
+<h4>🌱 Score: 8/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 1996</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Adventure, Drama, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hajime no Ippo: New Challenger](https://myanimelist.net/anime/5258/Hajime_no_Ippo__New_Challenger)*
+🍂 *More information: [Kidou Senshi Gundam: Dai 08 MS Shoutai](https://myanimelist.net/anime/81/Kidou_Senshi_Gundam__Dai_08_MS_Shoutai)*
     
