@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Dai 08 MS Shoutai
+  <strong>🥭 <u>Title:</u></strong> Hidamari Sketch x 365 Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: The 08th MS Team</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/75618.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/17727.jpg />
 
-<h4>🌱 Score: 8/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 3</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam: Dai 08 MS Shoutai](https://myanimelist.net/anime/81/Kidou_Senshi_Gundam__Dai_08_MS_Shoutai)*
+🍂 *More information: [Hidamari Sketch x 365 Specials](https://myanimelist.net/anime/6984/Hidamari_Sketch_x_365_Specials)*
     
