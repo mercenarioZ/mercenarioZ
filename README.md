@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> ReLIFE
+  <strong>🥭 <u>Title:</u></strong> Shin Mazinger Shougeki! Z-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> ReLIFE</h4>
+<h4>🌿 <u>English Title:</u> Mazinger Edition Z: The Impact!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/82149.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1022/92865.jpg />
 
-<h4>🌱 Score: 7.96/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Action, Drama</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [ReLIFE](https://myanimelist.net/anime/30015/ReLIFE)*
+🍂 *More information: [Shin Mazinger Shougeki! Z-hen](https://myanimelist.net/anime/5485/Shin_Mazinger_Shougeki_Z-hen)*
     
