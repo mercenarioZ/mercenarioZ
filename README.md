@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tsubasa: Shunraiki
+  <strong>🥭 <u>Title:</u></strong> Magic Knight Rayearth II
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tsubasa RESERVoir CHRoNiCLE: Spring Thunder Chronicle</h4>
+<h4>🌿 <u>English Title:</u> Magic Knight Rayearth II</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/33841.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1336/135527.jpg />
 
-<h4>🌱 Score: 8.08/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 1995</h4>
 
 <h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 29</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tsubasa: Shunraiki](https://myanimelist.net/anime/4938/Tsubasa__Shunraiki)*
+🍂 *More information: [Magic Knight Rayearth II](https://myanimelist.net/anime/1563/Magic_Knight_Rayearth_II)*
     
