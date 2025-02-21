@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bleach
+  <strong>🥭 <u>Title:</u></strong> Noein: Mou Hitori no Kimi e
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bleach</h4>
+<h4>🌿 <u>English Title:</u> Noein: To Your Other Self</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/40451.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1/584.jpg />
 
-<h4>🌱 Score: 7.96/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2005</h4>
 
-<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bleach](https://myanimelist.net/anime/269/Bleach)*
+🍂 *More information: [Noein: Mou Hitori no Kimi e](https://myanimelist.net/anime/584/Noein__Mou_Hitori_no_Kimi_e)*
     
