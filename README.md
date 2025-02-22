@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam 00 Special Edition
+  <strong>🥭 <u>Title:</u></strong> Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam 00 Special Edition</h4>
+<h4>🌿 <u>English Title:</u> Anohana: The Flower We Saw That Day The Movie</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/17217.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/49993.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam 00 Special Edition](https://myanimelist.net/anime/7270/Kidou_Senshi_Gundam_00_Special_Edition)*
+🍂 *More information: [Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie](https://myanimelist.net/anime/15039/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Movie)*
     
