@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Noein: Mou Hitori no Kimi e
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam 00 Special Edition
 </h4>
 
-<h4>🌿 <u>English Title:</u> Noein: To Your Other Self</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam 00 Special Edition</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1/584.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/17217.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 3</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Noein: Mou Hitori no Kimi e](https://myanimelist.net/anime/584/Noein__Mou_Hitori_no_Kimi_e)*
+🍂 *More information: [Kidou Senshi Gundam 00 Special Edition](https://myanimelist.net/anime/7270/Kidou_Senshi_Gundam_00_Special_Edition)*
     
