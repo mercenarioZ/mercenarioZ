@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nisekoi
+  <strong>🥭 <u>Title:</u></strong> Akachan to Boku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Nisekoi: False Love</h4>
+<h4>🌿 <u>English Title:</u> Baby and Me</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/75587.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/49693.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 1996</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 20</h4>
+<h4>🥑 Episodes: 35</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Nisekoi](https://myanimelist.net/anime/18897/Nisekoi)*
+🍂 *More information: [Akachan to Boku](https://myanimelist.net/anime/1485/Akachan_to_Boku)*
     
