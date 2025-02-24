@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Akachan to Boku
+  <strong>🥭 <u>Title:</u></strong> Chainsaw Man
 </h4>
 
-<h4>🌿 <u>English Title:</u> Baby and Me</h4>
+<h4>🌿 <u>English Title:</u> Chainsaw Man</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/49693.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1806/126216.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 8.46/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Drama</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 35</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Akachan to Boku](https://myanimelist.net/anime/1485/Akachan_to_Boku)*
+🍂 *More information: [Chainsaw Man](https://myanimelist.net/anime/44511/Chainsaw_Man)*
     
