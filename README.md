@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Chainsaw Man
+  <strong>🥭 <u>Title:</u></strong> JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Chainsaw Man</h4>
+<h4>🌿 <u>English Title:</u> JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1806/126216.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/75045.jpg />
 
-<h4>🌱 Score: 8.46/10</h4>
+<h4>🌱 Score: 8.44/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Chainsaw Man](https://myanimelist.net/anime/44511/Chainsaw_Man)*
+🍂 *More information: [JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen](https://myanimelist.net/anime/26055/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders_-_Egypt-hen)*
     
