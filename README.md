@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen
+  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/75045.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1824/94859.jpg />
 
-<h4>🌱 Score: 8.44/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2001</h4>
 
-<h4>🌵 Genres: Action, Adventure</h4>
+<h4>🌵 Genres: Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen](https://myanimelist.net/anime/26055/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders_-_Egypt-hen)*
+🍂 *More information: [Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu](https://myanimelist.net/anime/2450/Crayon_Shin-chan_Movie_09__Arashi_wo_Yobu_Mouretsu_Otona_Teikoku_no_Gyakushuu)*
     
