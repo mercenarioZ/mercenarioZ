@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gakuen Babysitters Special
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Senkou no Hathaway
 </h4>
 
-<h4>🌿 <u>English Title:</u> School Babysitters Episode 13</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: Hathaway</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1925/100826.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1195/115685.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Gakuen Babysitters Special](https://myanimelist.net/anime/37959/Gakuen_Babysitters_Special)*
+🍂 *More information: [Kidou Senshi Gundam: Senkou no Hathaway](https://myanimelist.net/anime/37765/Kidou_Senshi_Gundam__Senkou_no_Hathaway)*
     
