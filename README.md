@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece
+  <strong>🥭 <u>Title:</u></strong> Yuuseiboushi
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece</h4>
+<h4>🌿 <u>English Title:</u> Living Idly and Dying as if Dreaming</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1244/138851.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1606/117753.jpg />
 
-<h4>🌱 Score: 8.73/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 1999</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [One Piece](https://myanimelist.net/anime/21/One_Piece)*
+🍂 *More information: [Yuuseiboushi](https://myanimelist.net/anime/49838/Yuuseiboushi)*
     
