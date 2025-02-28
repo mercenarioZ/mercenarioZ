@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kiniro Mosaic: Pretty Days
+  <strong>🥭 <u>Title:</u></strong> One Piece
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> One Piece</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/81607.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1244/138851.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 8.73/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: null</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kiniro Mosaic: Pretty Days](https://myanimelist.net/anime/33034/Kiniro_Mosaic__Pretty_Days)*
+🍂 *More information: [One Piece](https://myanimelist.net/anime/21/One_Piece)*
     
