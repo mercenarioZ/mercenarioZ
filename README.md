@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Toaru Kagaku no Railgun
+  <strong>🥭 <u>Title:</u></strong> School Rumble
 </h4>
 
-<h4>🌿 <u>English Title:</u> A Certain Scientific Railgun</h4>
+<h4>🌿 <u>English Title:</u> School Rumble</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/53581.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1465/142014.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Toaru Kagaku no Railgun](https://myanimelist.net/anime/6213/Toaru_Kagaku_no_Railgun)*
+🍂 *More information: [School Rumble](https://myanimelist.net/anime/24/School_Rumble)*
     
