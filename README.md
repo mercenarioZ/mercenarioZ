@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuuseiboushi
+  <strong>🥭 <u>Title:</u></strong> Toaru Kagaku no Railgun
 </h4>
 
-<h4>🌿 <u>English Title:</u> Living Idly and Dying as if Dreaming</h4>
+<h4>🌿 <u>English Title:</u> A Certain Scientific Railgun</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1606/117753.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/53581.jpg />
 
 <h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuuseiboushi](https://myanimelist.net/anime/49838/Yuuseiboushi)*
+🍂 *More information: [Toaru Kagaku no Railgun](https://myanimelist.net/anime/6213/Toaru_Kagaku_no_Railgun)*
     
