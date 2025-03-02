@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> School Rumble
+  <strong>🥭 <u>Title:</u></strong> Kokoro Connect: Michi Random
 </h4>
 
-<h4>🌿 <u>English Title:</u> School Rumble</h4>
+<h4>🌿 <u>English Title:</u> Kokoro Connect OVA</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1465/142014.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/45526.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 4</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [School Rumble](https://myanimelist.net/anime/24/School_Rumble)*
+🍂 *More information: [Kokoro Connect: Michi Random](https://myanimelist.net/anime/16001/Kokoro_Connect__Michi_Random)*
     
