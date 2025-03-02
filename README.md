@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kokoro Connect: Michi Random
+  <strong>🥭 <u>Title:</u></strong> Fairy Tail (2014)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kokoro Connect OVA</h4>
+<h4>🌿 <u>English Title:</u> Fairy Tail Series 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/45526.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/60551.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kokoro Connect: Michi Random](https://myanimelist.net/anime/16001/Kokoro_Connect__Michi_Random)*
+🍂 *More information: [Fairy Tail (2014)](https://myanimelist.net/anime/22043/Fairy_Tail_2014)*
     
