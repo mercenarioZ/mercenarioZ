@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Snow Halation
+  <strong>🥭 <u>Title:</u></strong> 5-toubun no Hanayome ∬
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Quintessential Quintuplets 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/60873.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1775/109514.jpg />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: 8.02/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Snow Halation](https://myanimelist.net/anime/9930/Snow_Halation)*
+🍂 *More information: [5-toubun no Hanayome ∬](https://myanimelist.net/anime/39783/5-toubun_no_Hanayome_∬)*
     
