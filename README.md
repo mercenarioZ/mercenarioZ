@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> 5-toubun no Hanayome ∬
+  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon Eternal Movie 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Quintessential Quintuplets 2</h4>
+<h4>🌿 <u>English Title:</u> Pretty Guardian Sailor Moon Eternal The Movie Part 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1775/109514.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1710/111094.jpg />
 
-<h4>🌱 Score: 8.02/10</h4>
+<h4>🌱 Score: 7.74/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
 <h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [5-toubun no Hanayome ∬](https://myanimelist.net/anime/39783/5-toubun_no_Hanayome_∬)*
+🍂 *More information: [Bishoujo Senshi Sailor Moon Eternal Movie 2](https://myanimelist.net/anime/40429/Bishoujo_Senshi_Sailor_Moon_Eternal_Movie_2)*
     
