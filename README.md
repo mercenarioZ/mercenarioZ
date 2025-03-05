@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mo Dao Zu Shi: Wanjie Pian
+  <strong>🥭 <u>Title:</u></strong> Yuanshen: Tiwate Pian Mu Jian PV - Dong Ye Yu Xi
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Master of Diabolism 3</h4>
+<h4>🌿 <u>English Title:</u> Genshin Impact: Teyvat Chapter Interlude Teaser - A Winter Night's Lazzo</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1634/116782.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1695/142650.jpg />
 
-<h4>🌱 Score: 8.68/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: PV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Mystery</h4>
+<h4>🌵 Genres: Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Mo Dao Zu Shi: Wanjie Pian](https://myanimelist.net/anime/40434/Mo_Dao_Zu_Shi__Wanjie_Pian)*
+🍂 *More information: [Yuanshen: Tiwate Pian Mu Jian PV - Dong Ye Yu Xi](https://myanimelist.net/anime/58537/Yuanshen__Tiwate_Pian_Mu_Jian_PV_-_Dong_Ye_Yu_Xi)*
     
