@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuanshen: Tiwate Pian Mu Jian PV - Dong Ye Yu Xi
+  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji Movie: Book of the Atlantic
 </h4>
 
-<h4>🌿 <u>English Title:</u> Genshin Impact: Teyvat Chapter Interlude Teaser - A Winter Night's Lazzo</h4>
+<h4>🌿 <u>English Title:</u> Black Butler: Book of the Atlantic</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1695/142650.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/85792.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 8.24/10</h4>
 
-<h4>🌲 Type: PV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Fantasy</h4>
+<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Yuanshen: Tiwate Pian Mu Jian PV - Dong Ye Yu Xi](https://myanimelist.net/anime/58537/Yuanshen__Tiwate_Pian_Mu_Jian_PV_-_Dong_Ye_Yu_Xi)*
+🍂 *More information: [Kuroshitsuji Movie: Book of the Atlantic](https://myanimelist.net/anime/31812/Kuroshitsuji_Movie__Book_of_the_Atlantic)*
     
