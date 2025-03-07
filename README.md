@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shelter (Music)
+  <strong>🥭 <u>Title:</u></strong> Kingdom 5th Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Shelter</h4>
+<h4>🌿 <u>English Title:</u> Kingdom: Season 5</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/82388.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1050/139641.jpg />
 
-<h4>🌱 Score: 8.31/10</h4>
+<h4>🌱 Score: 8.72/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Sci-Fi</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Shelter (Music)](https://myanimelist.net/anime/34240/Shelter_Music)*
+🍂 *More information: [Kingdom 5th Season](https://myanimelist.net/anime/53223/Kingdom_5th_Season)*
     
