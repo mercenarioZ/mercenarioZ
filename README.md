@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kingdom 5th Season
+  <strong>🥭 <u>Title:</u></strong> Hakumei to Mikochi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kingdom: Season 5</h4>
+<h4>🌿 <u>English Title:</u> Hakumei and Mikochi</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1050/139641.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1250/91694.jpg />
 
-<h4>🌱 Score: 8.72/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Fantasy, Slice of Life</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kingdom 5th Season](https://myanimelist.net/anime/53223/Kingdom_5th_Season)*
+🍂 *More information: [Hakumei to Mikochi](https://myanimelist.net/anime/36094/Hakumei_to_Mikochi)*
     
