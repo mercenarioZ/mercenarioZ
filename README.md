@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Uma Musume: Pretty Derby Season 3
+  <strong>🥭 <u>Title:</u></strong> One Piece Movie 04: Dead End no Bouken
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> One Piece: Dead End Adventure</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1475/138948.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1100/116767.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Uma Musume: Pretty Derby Season 3](https://myanimelist.net/anime/53526/Uma_Musume__Pretty_Derby_Season_3)*
+🍂 *More information: [One Piece Movie 04: Dead End no Bouken](https://myanimelist.net/anime/462/One_Piece_Movie_04__Dead_End_no_Bouken)*
     
