@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nodame Cantabile Finale OVA
+  <strong>🥭 <u>Title:</u></strong> Doraemon Movie 28: Nobita to Midori no Kyojin Den
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Doraemon the Movie: Nobita and the Green Giant Legend</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1492/119100.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/72433.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: PG - Children</h4>
 
 <br />
 
-🍂 *More information: [Nodame Cantabile Finale OVA](https://myanimelist.net/anime/8190/Nodame_Cantabile_Finale_OVA)*
+🍂 *More information: [Doraemon Movie 28: Nobita to Midori no Kyojin Den](https://myanimelist.net/anime/5096/Doraemon_Movie_28__Nobita_to_Midori_no_Kyojin_Den)*
     
