@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doraemon Movie 28: Nobita to Midori no Kyojin Den
+  <strong>🥭 <u>Title:</u></strong> Jibaku Shounen Hanako-kun
 </h4>
 
-<h4>🌿 <u>English Title:</u> Doraemon the Movie: Nobita and the Green Giant Legend</h4>
+<h4>🌿 <u>English Title:</u> Toilet-Bound Hanako-kun</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/72433.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1050/111687.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Doraemon Movie 28: Nobita to Midori no Kyojin Den](https://myanimelist.net/anime/5096/Doraemon_Movie_28__Nobita_to_Midori_no_Kyojin_Den)*
+🍂 *More information: [Jibaku Shounen Hanako-kun](https://myanimelist.net/anime/39534/Jibaku_Shounen_Hanako-kun)*
     
