@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jibaku Shounen Hanako-kun
+  <strong>🥭 <u>Title:</u></strong> Zhen Hun Jie
 </h4>
 
-<h4>🌿 <u>English Title:</u> Toilet-Bound Hanako-kun</h4>
+<h4>🌿 <u>English Title:</u> Rakshasa Street</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1050/111687.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/81969.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Supernatural</h4>
+<h4>🌵 Genres: Action, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Jibaku Shounen Hanako-kun](https://myanimelist.net/anime/39534/Jibaku_Shounen_Hanako-kun)*
+🍂 *More information: [Zhen Hun Jie](https://myanimelist.net/anime/33350/Zhen_Hun_Jie)*
     
