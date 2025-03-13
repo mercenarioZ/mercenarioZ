@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Daicon Opening Animations
+  <strong>🥭 <u>Title:</u></strong> Heion Sedai no Idaten-tachi
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Idaten Deities Know Only Peace</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/3673.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1293/115173.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1981</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Daicon Opening Animations](https://myanimelist.net/anime/2724/Daicon_Opening_Animations)*
+🍂 *More information: [Heion Sedai no Idaten-tachi](https://myanimelist.net/anime/42625/Heion_Sedai_no_Idaten-tachi)*
     
