@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Puparia
+  <strong>🥭 <u>Title:</u></strong> Cang Yuan Tu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Puparia</h4>
+<h4>🌿 <u>English Title:</u> The Demon Hunter</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1308/110285.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1785/136462.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 8.2/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Avant Garde</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Puparia](https://myanimelist.net/anime/44059/Puparia)*
+🍂 *More information: [Cang Yuan Tu](https://myanimelist.net/anime/55655/Cang_Yuan_Tu)*
     
