@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cang Yuan Tu
+  <strong>🥭 <u>Title:</u></strong> Dekiru Neko wa Kyou mo Yuuutsu
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Demon Hunter</h4>
+<h4>🌿 <u>English Title:</u> The Masterful Cat Is Depressed Again Today</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1785/136462.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1074/136720.jpg />
 
-<h4>🌱 Score: 8.2/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Cang Yuan Tu](https://myanimelist.net/anime/55655/Cang_Yuan_Tu)*
+🍂 *More information: [Dekiru Neko wa Kyou mo Yuuutsu](https://myanimelist.net/anime/51916/Dekiru_Neko_wa_Kyou_mo_Yuuutsu)*
     
