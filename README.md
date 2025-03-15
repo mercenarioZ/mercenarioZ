@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dekiru Neko wa Kyou mo Yuuutsu
+  <strong>🥭 <u>Title:</u></strong> Totsukuni no Shoujo (2022)
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Masterful Cat Is Depressed Again Today</h4>
+<h4>🌿 <u>English Title:</u> The Girl From the Other Side</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1074/136720.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1957/113267.jpg />
 
-<h4>🌱 Score: 7.65/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Dekiru Neko wa Kyou mo Yuuutsu](https://myanimelist.net/anime/51916/Dekiru_Neko_wa_Kyou_mo_Yuuutsu)*
+🍂 *More information: [Totsukuni no Shoujo (2022)](https://myanimelist.net/anime/48405/Totsukuni_no_Shoujo_2022)*
     
