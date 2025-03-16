@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Aa! Megami-sama! Sorezore no Tsubasa Specials
+  <strong>🥭 <u>Title:</u></strong> Fairy Tail (2014)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ah! My Goddess: Flights of Fancy Specials</h4>
+<h4>🌿 <u>English Title:</u> Fairy Tail Series 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/13530.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/60551.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Aa! Megami-sama! Sorezore no Tsubasa Specials](https://myanimelist.net/anime/2198/Aa_Megami-sama_Sorezore_no_Tsubasa_Specials)*
+🍂 *More information: [Fairy Tail (2014)](https://myanimelist.net/anime/22043/Fairy_Tail_2014)*
     
