@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Blood+
+  <strong>🥭 <u>Title:</u></strong> Panty & Stocking with Garterbelt
 </h4>
 
-<h4>🌿 <u>English Title:</u> Blood+</h4>
+<h4>🌿 <u>English Title:</u> Panty & Stocking with Garterbelt</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/10183.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1296/142674.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.73/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Drama, Horror, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Action, Comedy, Fantasy, Ecchi</h4>
 
-<h4>🥑 Episodes: 50</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Blood+](https://myanimelist.net/anime/150/Blood_)*
+🍂 *More information: [Panty & Stocking with Garterbelt](https://myanimelist.net/anime/8795/Panty___Stocking_with_Garterbelt)*
     
