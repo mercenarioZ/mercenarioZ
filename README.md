@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Neko no Ongaeshi
+  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Cat Returns</h4>
+<h4>🌿 <u>English Title:</u> Attack on Titan</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1176/138720.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/47347.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 8.56/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Adventure, Award Winning, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Award Winning, Drama, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Neko no Ongaeshi](https://myanimelist.net/anime/597/Neko_no_Ongaeshi)*
+🍂 *More information: [Shingeki no Kyojin](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)*
     
