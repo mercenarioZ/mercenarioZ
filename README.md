@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Panty & Stocking with Garterbelt
+  <strong>🥭 <u>Title:</u></strong> Neko no Ongaeshi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Panty & Stocking with Garterbelt</h4>
+<h4>🌿 <u>English Title:</u> The Cat Returns</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1296/142674.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1176/138720.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Action, Comedy, Fantasy, Ecchi</h4>
+<h4>🌵 Genres: Adventure, Award Winning, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Panty & Stocking with Garterbelt](https://myanimelist.net/anime/8795/Panty___Stocking_with_Garterbelt)*
+🍂 *More information: [Neko no Ongaeshi](https://myanimelist.net/anime/597/Neko_no_Ongaeshi)*
     
