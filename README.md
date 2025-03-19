@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin
+  <strong>🥭 <u>Title:</u></strong> Sora no Otoshimono: Tokeijikake no Angeloid
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan</h4>
+<h4>🌿 <u>English Title:</u> Heaven's Lost Property the Movie: The Angeloid of Clockwork</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/47347.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1551/112732.jpg />
 
-<h4>🌱 Score: 8.56/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Award Winning, Drama, Suspense</h4>
+<h4>🌵 Genres: Comedy, Romance, Sci-Fi, Supernatural, Ecchi</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)*
+🍂 *More information: [Sora no Otoshimono: Tokeijikake no Angeloid](https://myanimelist.net/anime/9790/Sora_no_Otoshimono__Tokeijikake_no_Angeloid)*
     
