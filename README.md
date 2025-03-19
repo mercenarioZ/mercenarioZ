@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sora no Otoshimono: Tokeijikake no Angeloid
+  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji Movie: Book of the Atlantic
 </h4>
 
-<h4>🌿 <u>English Title:</u> Heaven's Lost Property the Movie: The Angeloid of Clockwork</h4>
+<h4>🌿 <u>English Title:</u> Black Butler: Book of the Atlantic</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1551/112732.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/85792.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 8.24/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Sci-Fi, Supernatural, Ecchi</h4>
+<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Sora no Otoshimono: Tokeijikake no Angeloid](https://myanimelist.net/anime/9790/Sora_no_Otoshimono__Tokeijikake_no_Angeloid)*
+🍂 *More information: [Kuroshitsuji Movie: Book of the Atlantic](https://myanimelist.net/anime/31812/Kuroshitsuji_Movie__Book_of_the_Atlantic)*
     
