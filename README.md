@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji Movie: Book of the Atlantic
+  <strong>🥭 <u>Title:</u></strong> Saiunkoku Monogatari
 </h4>
 
-<h4>🌿 <u>English Title:</u> Black Butler: Book of the Atlantic</h4>
+<h4>🌿 <u>English Title:</u> The Story of Saiunkoku</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/85792.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1976/139963.jpg />
 
-<h4>🌱 Score: 8.24/10</h4>
+<h4>🌱 Score: 7.87/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 39</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuroshitsuji Movie: Book of the Atlantic](https://myanimelist.net/anime/31812/Kuroshitsuji_Movie__Book_of_the_Atlantic)*
+🍂 *More information: [Saiunkoku Monogatari](https://myanimelist.net/anime/957/Saiunkoku_Monogatari)*
     
