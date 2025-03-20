@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saiunkoku Monogatari
+  <strong>🥭 <u>Title:</u></strong> Kingdom 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Story of Saiunkoku</h4>
+<h4>🌿 <u>English Title:</u> Kingdom: Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1976/139963.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/53589.jpg />
 
-<h4>🌱 Score: 7.87/10</h4>
+<h4>🌱 Score: 8.3/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action</h4>
 
 <h4>🥑 Episodes: 39</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Saiunkoku Monogatari](https://myanimelist.net/anime/957/Saiunkoku_Monogatari)*
+🍂 *More information: [Kingdom 2nd Season](https://myanimelist.net/anime/17389/Kingdom_2nd_Season)*
     
