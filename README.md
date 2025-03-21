@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kingdom 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Serial Experiments Lain
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kingdom: Season 2</h4>
+<h4>🌿 <u>English Title:</u> Serial Experiments Lain</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/53589.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1718/91550.jpg />
 
-<h4>🌱 Score: 8.3/10</h4>
+<h4>🌱 Score: 8.09/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 1998</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Avant Garde, Award Winning, Drama, Mystery, Sci-Fi, Supernatural, Suspense</h4>
 
-<h4>🥑 Episodes: 39</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kingdom 2nd Season](https://myanimelist.net/anime/17389/Kingdom_2nd_Season)*
+🍂 *More information: [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)*
     
