@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuragehime
+  <strong>🥭 <u>Title:</u></strong> Sayonara no Asa ni Yakusoku no Hana wo Kazarou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Princess Jellyfish</h4>
+<h4>🌿 <u>English Title:</u> Maquia: When the Promised Flower Blooms</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1764/133575.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/89556.jpg />
 
-<h4>🌱 Score: 8.11/10</h4>
+<h4>🌱 Score: 8.39/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuragehime](https://myanimelist.net/anime/8129/Kuragehime)*
+🍂 *More information: [Sayonara no Asa ni Yakusoku no Hana wo Kazarou](https://myanimelist.net/anime/35851/Sayonara_no_Asa_ni_Yakusoku_no_Hana_wo_Kazarou)*
     
