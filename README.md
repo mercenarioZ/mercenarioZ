@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sayonara no Asa ni Yakusoku no Hana wo Kazarou
+  <strong>🥭 <u>Title:</u></strong> Iribitari Gal ni Ma〇ko Tsukawasete Morau Hanashi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Maquia: When the Promised Flower Blooms</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/89556.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1931/144503.jpg />
 
-<h4>🌱 Score: 8.39/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Drama, Fantasy</h4>
+<h4>🌵 Genres: Hentai</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: null</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: Rx - Hentai</h4>
 
 <br />
 
-🍂 *More information: [Sayonara no Asa ni Yakusoku no Hana wo Kazarou](https://myanimelist.net/anime/35851/Sayonara_no_Asa_ni_Yakusoku_no_Hana_wo_Kazarou)*
+🍂 *More information: [Iribitari Gal ni Ma〇ko Tsukawasete Morau Hanashi](https://myanimelist.net/anime/59407/Iribitari_Gal_ni_Ma〇ko_Tsukawasete_Morau_Hanashi)*
     
