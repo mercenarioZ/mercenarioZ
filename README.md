@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Iribitari Gal ni Ma〇ko Tsukawasete Morau Hanashi
+  <strong>🥭 <u>Title:</u></strong> Komi-san wa, Comyushou desu.
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Komi Can't Communicate</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1931/144503.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1899/117237.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Hentai</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: Rx - Hentai</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Iribitari Gal ni Ma〇ko Tsukawasete Morau Hanashi](https://myanimelist.net/anime/59407/Iribitari_Gal_ni_Ma〇ko_Tsukawasete_Morau_Hanashi)*
+🍂 *More information: [Komi-san wa, Comyushou desu.](https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu)*
     
