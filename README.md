@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Komi-san wa, Comyushou desu.
+  <strong>🥭 <u>Title:</u></strong> Inazuma Eleven
 </h4>
 
-<h4>🌿 <u>English Title:</u> Komi Can't Communicate</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1899/117237.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1854/94704.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.74/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Komi-san wa, Comyushou desu.](https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu)*
+🍂 *More information: [Inazuma Eleven](https://myanimelist.net/anime/5231/Inazuma_Eleven)*
     
