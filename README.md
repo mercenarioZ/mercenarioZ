@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Inazuma Eleven
+  <strong>🥭 <u>Title:</u></strong> Shadows House
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Shadows House</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1854/94704.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1424/113342.jpg />
 
-<h4>🌱 Score: 7.74/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Fantasy, Mystery</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Inazuma Eleven](https://myanimelist.net/anime/5231/Inazuma_Eleven)*
+🍂 *More information: [Shadows House](https://myanimelist.net/anime/43439/Shadows_House)*
     
