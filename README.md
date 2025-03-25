@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Chiyu Mahou no Machigatta Tsukaikata
+  <strong>🥭 <u>Title:</u></strong> Uchuu Senkan Yamato 2199
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Wrong Way to Use Healing Magic</h4>
+<h4>🌿 <u>English Title:</u> Star Blazers: Space Battleship Yamato 2199</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1733/140802.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/36607.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 8.31/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Chiyu Mahou no Machigatta Tsukaikata](https://myanimelist.net/anime/49613/Chiyu_Mahou_no_Machigatta_Tsukaikata)*
+🍂 *More information: [Uchuu Senkan Yamato 2199](https://myanimelist.net/anime/12029/Uchuu_Senkan_Yamato_2199)*
     
