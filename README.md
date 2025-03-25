@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gugure! Kokkuri-san
+  <strong>🥭 <u>Title:</u></strong> Chiyu Mahou no Machigatta Tsukaikata
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Wrong Way to Use Healing Magic</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/65665.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1733/140802.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gugure! Kokkuri-san](https://myanimelist.net/anime/23251/Gugure_Kokkuri-san)*
+🍂 *More information: [Chiyu Mahou no Machigatta Tsukaikata](https://myanimelist.net/anime/49613/Chiyu_Mahou_no_Machigatta_Tsukaikata)*
     
