@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Uchuu Senkan Yamato 2199
+  <strong>🥭 <u>Title:</u></strong> Bleach Movie 4: Jigoku-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Star Blazers: Space Battleship Yamato 2199</h4>
+<h4>🌿 <u>English Title:</u> Bleach the Movie: Hell Verse</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/36607.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1554/134492.jpg />
 
-<h4>🌱 Score: 8.31/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Uchuu Senkan Yamato 2199](https://myanimelist.net/anime/12029/Uchuu_Senkan_Yamato_2199)*
+🍂 *More information: [Bleach Movie 4: Jigoku-hen](https://myanimelist.net/anime/8247/Bleach_Movie_4__Jigoku-hen)*
     
