@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bleach Movie 4: Jigoku-hen
+  <strong>🥭 <u>Title:</u></strong> Xiehou Ta de Shaonu Shidai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Bleach the Movie: Hell Verse</h4>
+<h4>🌿 <u>English Title:</u> Mom, I'm Sorry</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1554/134492.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1876/143338.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
+<h4>🌵 Genres: Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 18</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bleach Movie 4: Jigoku-hen](https://myanimelist.net/anime/8247/Bleach_Movie_4__Jigoku-hen)*
+🍂 *More information: [Xiehou Ta de Shaonu Shidai](https://myanimelist.net/anime/56960/Xiehou_Ta_de_Shaonu_Shidai)*
     
