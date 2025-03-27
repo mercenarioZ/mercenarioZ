@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuru Yuri,
+  <strong>🥭 <u>Title:</u></strong> Dr. Stone: Ryuusui
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Dr. Stone: Ryusui</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1138/99547.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1071/124921.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 8.14/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Girls Love</h4>
+<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Yuru Yuri,](https://myanimelist.net/anime/37773/Yuru_Yuri)*
+🍂 *More information: [Dr. Stone: Ryuusui](https://myanimelist.net/anime/50612/Dr_Stone__Ryuusui)*
     
