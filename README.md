@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Xiehou Ta de Shaonu Shidai
+  <strong>🥭 <u>Title:</u></strong> Yuru Yuri,
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mom, I'm Sorry</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1876/143338.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1138/99547.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Drama, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Girls Love</h4>
 
-<h4>🥑 Episodes: 18</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Xiehou Ta de Shaonu Shidai](https://myanimelist.net/anime/56960/Xiehou_Ta_de_Shaonu_Shidai)*
+🍂 *More information: [Yuru Yuri,](https://myanimelist.net/anime/37773/Yuru_Yuri)*
     
