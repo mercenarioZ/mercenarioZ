@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dr. Stone: Ryuusui
+  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dr. Stone: Ryusui</h4>
+<h4>🌿 <u>English Title:</u> Shin Chan</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1071/124921.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/59897.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 1992</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Ecchi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: null</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Dr. Stone: Ryuusui](https://myanimelist.net/anime/50612/Dr_Stone__Ryuusui)*
+🍂 *More information: [Crayon Shin-chan](https://myanimelist.net/anime/966/Crayon_Shin-chan)*
     
