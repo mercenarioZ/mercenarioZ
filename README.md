@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan
+  <strong>🥭 <u>Title:</u></strong> Shiguang Dailiren
 </h4>
 
-<h4>🌿 <u>English Title:</u> Shin Chan</h4>
+<h4>🌿 <u>English Title:</u> Link Click</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/59897.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1135/114867.jpg />
 
-<h4>🌱 Score: 7.8/10</h4>
+<h4>🌱 Score: 8.73/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 1992</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Comedy, Ecchi</h4>
+<h4>🌵 Genres: Drama, Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Crayon Shin-chan](https://myanimelist.net/anime/966/Crayon_Shin-chan)*
+🍂 *More information: [Shiguang Dailiren](https://myanimelist.net/anime/44074/Shiguang_Dailiren)*
     
