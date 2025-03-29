@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon: Sailor Stars
+  <strong>🥭 <u>Title:</u></strong> Top wo Nerae! Gunbuster
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sailor Moon Sailor Stars</h4>
+<h4>🌿 <u>English Title:</u> Gunbuster</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1645/105992.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1303/92309.jpg />
 
-<h4>🌱 Score: 7.95/10</h4>
+<h4>🌱 Score: 7.85/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 1988</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Drama, Romance</h4>
+<h4>🌵 Genres: Action, Award Winning, Comedy, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 34</h4>
+<h4>🥑 Episodes: 6</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Bishoujo Senshi Sailor Moon: Sailor Stars](https://myanimelist.net/anime/996/Bishoujo_Senshi_Sailor_Moon__Sailor_Stars)*
+🍂 *More information: [Top wo Nerae! Gunbuster](https://myanimelist.net/anime/949/Top_wo_Nerae_Gunbuster)*
     
