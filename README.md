@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shiguang Dailiren
+  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon: Sailor Stars
 </h4>
 
-<h4>🌿 <u>English Title:</u> Link Click</h4>
+<h4>🌿 <u>English Title:</u> Sailor Moon Sailor Stars</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1135/114867.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1645/105992.jpg />
 
-<h4>🌱 Score: 8.73/10</h4>
+<h4>🌱 Score: 7.95/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 1996</h4>
 
-<h4>🌵 Genres: Drama, Mystery, Suspense</h4>
+<h4>🌵 Genres: Adventure, Comedy, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 34</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shiguang Dailiren](https://myanimelist.net/anime/44074/Shiguang_Dailiren)*
+🍂 *More information: [Bishoujo Senshi Sailor Moon: Sailor Stars](https://myanimelist.net/anime/996/Bishoujo_Senshi_Sailor_Moon__Sailor_Stars)*
     
