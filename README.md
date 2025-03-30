@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Top wo Nerae! Gunbuster
+  <strong>🥭 <u>Title:</u></strong> Macross F Movie 1: Itsuwari no Utahime
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gunbuster</h4>
+<h4>🌿 <u>English Title:</u> Macross Frontier: The False Songstress</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1303/92309.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/76397.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 7.78/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1988</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Award Winning, Comedy, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Top wo Nerae! Gunbuster](https://myanimelist.net/anime/949/Top_wo_Nerae_Gunbuster)*
+🍂 *More information: [Macross F Movie 1: Itsuwari no Utahime](https://myanimelist.net/anime/5310/Macross_F_Movie_1__Itsuwari_no_Utahime)*
     
