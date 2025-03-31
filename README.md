@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Major S1
+  <strong>🥭 <u>Title:</u></strong> Yoku
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/73973.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1807/121603.jpg />
 
-<h4>🌱 Score: 8.2/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Major S1](https://myanimelist.net/anime/627/Major_S1)*
+🍂 *More information: [Yoku](https://myanimelist.net/anime/51308/Yoku)*
     
