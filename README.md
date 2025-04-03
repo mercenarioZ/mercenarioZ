@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Stand By Me Doraemon
+  <strong>🥭 <u>Title:</u></strong> Doukyonin wa Hiza, Tokidoki, Atama no Ue.
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> My Roommate is a Cat</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/65571.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1251/99191.jpg />
 
-<h4>🌱 Score: 8.11/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Stand By Me Doraemon](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon)*
+🍂 *More information: [Doukyonin wa Hiza, Tokidoki, Atama no Ue.](https://myanimelist.net/anime/38145/Doukyonin_wa_Hiza_Tokidoki_Atama_no_Ue)*
     
