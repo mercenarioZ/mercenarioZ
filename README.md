@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ranma ½ OVA
+  <strong>🥭 <u>Title:</u></strong> Gintama.
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ranma ½ OVA</h4>
+<h4>🌿 <u>English Title:</u> Gintama Season 5</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/63459.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/83528.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 8.98/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1993</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Action, Comedy, Romance, Ecchi</h4>
+<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Ranma ½ OVA](https://myanimelist.net/anime/1007/Ranma_½_OVA)*
+🍂 *More information: [Gintama.](https://myanimelist.net/anime/34096/Gintama)*
     
