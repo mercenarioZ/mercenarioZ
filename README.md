@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gintama.
+  <strong>🥭 <u>Title:</u></strong> Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gintama Season 5</h4>
+<h4>🌿 <u>English Title:</u> Is It Wrong to Try to Pick Up Girls in a Dungeon?</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/83528.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1172/148981.jpg />
 
-<h4>🌱 Score: 8.98/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gintama.](https://myanimelist.net/anime/34096/Gintama)*
+🍂 *More information: [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka](https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka)*
     
