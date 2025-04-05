@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
+  <strong>🥭 <u>Title:</u></strong> Michiko to Hatchin
 </h4>
 
-<h4>🌿 <u>English Title:</u> Is It Wrong to Try to Pick Up Girls in a Dungeon?</h4>
+<h4>🌿 <u>English Title:</u> Michiko & Hatchin</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1172/148981.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/59535.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 22</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka](https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka)*
+🍂 *More information: [Michiko to Hatchin](https://myanimelist.net/anime/4087/Michiko_to_Hatchin)*
     
