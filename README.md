@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Michiko to Hatchin
+  <strong>🥭 <u>Title:</u></strong> Wu Dong Qian Kun 3rd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Michiko & Hatchin</h4>
+<h4>🌿 <u>English Title:</u> Martial Universe 3rd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/59535.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1282/123462.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.87/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Adventure</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 22</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Michiko to Hatchin](https://myanimelist.net/anime/4087/Michiko_to_Hatchin)*
+🍂 *More information: [Wu Dong Qian Kun 3rd Season](https://myanimelist.net/anime/49570/Wu_Dong_Qian_Kun_3rd_Season)*
     
