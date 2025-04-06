@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wu Dong Qian Kun 3rd Season
+  <strong>🥭 <u>Title:</u></strong> Joshikousei no Mudazukai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Martial Universe 3rd Season</h4>
+<h4>🌿 <u>English Title:</u> Wasteful Days of High School Girls</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1282/123462.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1343/111356.jpg />
 
-<h4>🌱 Score: 7.87/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Wu Dong Qian Kun 3rd Season](https://myanimelist.net/anime/49570/Wu_Dong_Qian_Kun_3rd_Season)*
+🍂 *More information: [Joshikousei no Mudazukai](https://myanimelist.net/anime/38619/Joshikousei_no_Mudazukai)*
     
