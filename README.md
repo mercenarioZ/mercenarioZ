@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Uchouten Kazoku
+  <strong>🥭 <u>Title:</u></strong> Free! Eternal Summer: Kindan no All Hard!
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Eccentric Family</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/85433.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/73125.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Award Winning, Drama, Supernatural</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Uchouten Kazoku](https://myanimelist.net/anime/17909/Uchouten_Kazoku)*
+🍂 *More information: [Free! Eternal Summer: Kindan no All Hard!](https://myanimelist.net/anime/26213/Free_Eternal_Summer__Kindan_no_All_Hard)*
     
