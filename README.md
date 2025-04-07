@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Joshikousei no Mudazukai
+  <strong>🥭 <u>Title:</u></strong> Uchouten Kazoku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Wasteful Days of High School Girls</h4>
+<h4>🌿 <u>English Title:</u> The Eccentric Family</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1343/111356.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/85433.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Award Winning, Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Joshikousei no Mudazukai](https://myanimelist.net/anime/38619/Joshikousei_no_Mudazukai)*
+🍂 *More information: [Uchouten Kazoku](https://myanimelist.net/anime/17909/Uchouten_Kazoku)*
     
