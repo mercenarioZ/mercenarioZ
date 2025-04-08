@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Naruto: Shippuuden Movie 6 - Road to Ninja
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 13: Shikkoku no Chaser
 </h4>
 
-<h4>🌿 <u>English Title:</u> Naruto Shippuden the Movie 6: Road to Ninja</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 13: The Raven Chaser</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1620/94336.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/22558.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 8.2/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Mystery</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Naruto: Shippuuden Movie 6 - Road to Ninja](https://myanimelist.net/anime/13667/Naruto__Shippuuden_Movie_6_-_Road_to_Ninja)*
+🍂 *More information: [Meitantei Conan Movie 13: Shikkoku no Chaser](https://myanimelist.net/anime/5460/Meitantei_Conan_Movie_13__Shikkoku_no_Chaser)*
     
