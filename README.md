@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 13: Shikkoku no Chaser
+  <strong>🥭 <u>Title:</u></strong> Danshi Koukousei no Nichijou Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 13: The Raven Chaser</h4>
+<h4>🌿 <u>English Title:</u> Daily Lives of High School Boys Specials</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/22558.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/38527.jpg />
 
-<h4>🌱 Score: 8.2/10</h4>
+<h4>🌱 Score: 7.82/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Mystery</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 6</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 13: Shikkoku no Chaser](https://myanimelist.net/anime/5460/Meitantei_Conan_Movie_13__Shikkoku_no_Chaser)*
+🍂 *More information: [Danshi Koukousei no Nichijou Specials](https://myanimelist.net/anime/12893/Danshi_Koukousei_no_Nichijou_Specials)*
     
