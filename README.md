@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Danshi Koukousei no Nichijou Specials
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: GQuuuuuuX - Beginning
 </h4>
 
-<h4>🌿 <u>English Title:</u> Daily Lives of High School Boys Specials</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam GQuuuuuuX -Beginning-</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/38527.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1836/148748.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Danshi Koukousei no Nichijou Specials](https://myanimelist.net/anime/12893/Danshi_Koukousei_no_Nichijou_Specials)*
+🍂 *More information: [Kidou Senshi Gundam: GQuuuuuuX - Beginning](https://myanimelist.net/anime/61295/Kidou_Senshi_Gundam__GQuuuuuuX_-_Beginning)*
     
