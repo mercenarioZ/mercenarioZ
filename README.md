@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shoubushi Densetsu Tetsuya
+  <strong>🥭 <u>Title:</u></strong> Vigilante: Boku no Hero Academia Illegals
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> My Hero Academia: Vigilantes</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1165/145095.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1538/148604.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 20</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shoubushi Densetsu Tetsuya](https://myanimelist.net/anime/3369/Shoubushi_Densetsu_Tetsuya)*
+🍂 *More information: [Vigilante: Boku no Hero Academia Illegals](https://myanimelist.net/anime/60593/Vigilante__Boku_no_Hero_Academia_Illegals)*
     
