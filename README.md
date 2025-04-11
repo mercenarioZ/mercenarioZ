@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Koe no Katachi
+  <strong>🥭 <u>Title:</u></strong> Omoide no Marnie
 </h4>
 
-<h4>🌿 <u>English Title:</u> A Silent Voice</h4>
+<h4>🌿 <u>English Title:</u> When Marnie Was There</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1122/96435.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/64293.jpg />
 
-<h4>🌱 Score: 8.93/10</h4>
+<h4>🌱 Score: 8.04/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Award Winning, Drama</h4>
+<h4>🌵 Genres: Drama, Mystery, Suspense</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Koe no Katachi](https://myanimelist.net/anime/28851/Koe_no_Katachi)*
+🍂 *More information: [Omoide no Marnie](https://myanimelist.net/anime/21557/Omoide_no_Marnie)*
     
