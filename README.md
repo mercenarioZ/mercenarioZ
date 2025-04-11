@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Vigilante: Boku no Hero Academia Illegals
+  <strong>🥭 <u>Title:</u></strong> Koe no Katachi
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Hero Academia: Vigilantes</h4>
+<h4>🌿 <u>English Title:</u> A Silent Voice</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1538/148604.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1122/96435.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 8.93/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Award Winning, Drama</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Vigilante: Boku no Hero Academia Illegals](https://myanimelist.net/anime/60593/Vigilante__Boku_no_Hero_Academia_Illegals)*
+🍂 *More information: [Koe no Katachi](https://myanimelist.net/anime/28851/Koe_no_Katachi)*
     
