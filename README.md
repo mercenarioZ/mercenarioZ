@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Omoide no Marnie
+  <strong>🥭 <u>Title:</u></strong> Make Heroine ga Oosugiru!
 </h4>
 
-<h4>🌿 <u>English Title:</u> When Marnie Was There</h4>
+<h4>🌿 <u>English Title:</u> Makeine: Too Many Losing Heroines!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/64293.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1332/143513.jpg />
 
-<h4>🌱 Score: 8.04/10</h4>
+<h4>🌱 Score: 8.13/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Drama, Mystery, Suspense</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Omoide no Marnie](https://myanimelist.net/anime/21557/Omoide_no_Marnie)*
+🍂 *More information: [Make Heroine ga Oosugiru!](https://myanimelist.net/anime/57524/Make_Heroine_ga_Oosugiru)*
     
