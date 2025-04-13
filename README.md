@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Boku no Hero Academia 7th Season
+  <strong>🥭 <u>Title:</u></strong> Bounen no Xamdou
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Hero Academia Season 7</h4>
+<h4>🌿 <u>English Title:</u> Xam'd: Lost Memories</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1529/140306.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/23189.jpg />
 
-<h4>🌱 Score: 8.07/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 21</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Boku no Hero Academia 7th Season](https://myanimelist.net/anime/54789/Boku_no_Hero_Academia_7th_Season)*
+🍂 *More information: [Bounen no Xamdou](https://myanimelist.net/anime/4177/Bounen_no_Xamdou)*
     
