@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: The Origin - Zenya Akai Suisei
+  <strong>🥭 <u>Title:</u></strong> Boku no Hero Academia 7th Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: The Origin - Advent of the Red Comet</h4>
+<h4>🌿 <u>English Title:</u> My Hero Academia Season 7</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1897/100015.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1529/140306.jpg />
 
-<h4>🌱 Score: 8.13/10</h4>
+<h4>🌱 Score: 8.07/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 21</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam: The Origin - Zenya Akai Suisei](https://myanimelist.net/anime/39592/Kidou_Senshi_Gundam__The_Origin_-_Zenya_Akai_Suisei)*
+🍂 *More information: [Boku no Hero Academia 7th Season](https://myanimelist.net/anime/54789/Boku_no_Hero_Academia_7th_Season)*
     
