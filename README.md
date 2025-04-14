@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen
+  <strong>🥭 <u>Title:</u></strong> Lycoris Recoil
 </h4>
 
-<h4>🌿 <u>English Title:</u> DAKAICHI -I'm being harassed by the sexiest man of the year- the Movie: Spain Arc</h4>
+<h4>🌿 <u>English Title:</u> Lycoris Recoil</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1062/116821.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1261/127311.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 8.15/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Boys Love, Comedy, Drama</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen](https://myanimelist.net/anime/48780/Dakaretai_Otoko_1-i_ni_Odosarete_Imasu_Movie__Spain-hen)*
+🍂 *More information: [Lycoris Recoil](https://myanimelist.net/anime/50709/Lycoris_Recoil)*
     
