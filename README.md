@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Haikyuu!! To the Top
+  <strong>🥭 <u>Title:</u></strong> Gensou Mangekyou: The Memories of Phantasm
 </h4>
 
-<h4>🌿 <u>English Title:</u> Haikyu!! To the Top</h4>
+<h4>🌿 <u>English Title:</u> Touhou Fantasy Kaleidoscope: The Memories of Phantasm</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1813/105367.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1729/135900.jpg />
 
-<h4>🌱 Score: 8.37/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 18</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Haikyuu!! To the Top](https://myanimelist.net/anime/38883/Haikyuu_To_the_Top)*
+🍂 *More information: [Gensou Mangekyou: The Memories of Phantasm](https://myanimelist.net/anime/55315/Gensou_Mangekyou__The_Memories_of_Phantasm)*
     
