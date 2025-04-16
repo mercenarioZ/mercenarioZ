@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gensou Mangekyou: The Memories of Phantasm
+  <strong>🥭 <u>Title:</u></strong> Mushoku Tensei: Isekai Ittara Honki Dasu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Touhou Fantasy Kaleidoscope: The Memories of Phantasm</h4>
+<h4>🌿 <u>English Title:</u> Mushoku Tensei: Jobless Reincarnation</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1729/135900.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1530/117776.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 8.35/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Fantasy</h4>
+<h4>🌵 Genres: Adventure, Drama, Fantasy, Ecchi</h4>
 
-<h4>🥑 Episodes: 18</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Gensou Mangekyou: The Memories of Phantasm](https://myanimelist.net/anime/55315/Gensou_Mangekyou__The_Memories_of_Phantasm)*
+🍂 *More information: [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)*
     
