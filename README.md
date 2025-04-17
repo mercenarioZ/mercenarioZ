@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mushoku Tensei: Isekai Ittara Honki Dasu
+  <strong>🥭 <u>Title:</u></strong> Tokyo Revengers: Seiya Kessen-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mushoku Tensei: Jobless Reincarnation</h4>
+<h4>🌿 <u>English Title:</u> Tokyo Revengers: Christmas Showdown</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1530/117776.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1773/132313.jpg />
 
-<h4>🌱 Score: 8.35/10</h4>
+<h4>🌱 Score: 7.63/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Fantasy, Ecchi</h4>
+<h4>🌵 Genres: Action, Drama</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)*
+🍂 *More information: [Tokyo Revengers: Seiya Kessen-hen](https://myanimelist.net/anime/50608/Tokyo_Revengers__Seiya_Kessen-hen)*
     
