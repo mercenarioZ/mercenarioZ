@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mashiro no Oto
+  <strong>🥭 <u>Title:</u></strong> Tengen Toppa Gurren Lagann
 </h4>
 
-<h4>🌿 <u>English Title:</u> Those Snow White Notes</h4>
+<h4>🌿 <u>English Title:</u> Gurren Lagann</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1841/111554.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/5123.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 8.64/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Adventure, Award Winning, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 27</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mashiro no Oto](https://myanimelist.net/anime/42590/Mashiro_no_Oto)*
+🍂 *More information: [Tengen Toppa Gurren Lagann](https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann)*
     
