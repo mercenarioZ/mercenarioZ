@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Baccano!
+  <strong>🥭 <u>Title:</u></strong> Mashiro no Oto
 </h4>
 
-<h4>🌿 <u>English Title:</u> Baccano!</h4>
+<h4>🌿 <u>English Title:</u> Those Snow White Notes</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/14547.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1841/111554.jpg />
 
-<h4>🌱 Score: 8.35/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Baccano!](https://myanimelist.net/anime/2251/Baccano)*
+🍂 *More information: [Mashiro no Oto](https://myanimelist.net/anime/42590/Mashiro_no_Oto)*
     
