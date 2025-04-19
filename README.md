@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tengen Toppa Gurren Lagann
+  <strong>🥭 <u>Title:</u></strong> Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gurren Lagann</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/5123.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1327/110925.jpg />
 
-<h4>🌱 Score: 8.64/10</h4>
+<h4>🌱 Score: 8.12/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 27</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tengen Toppa Gurren Lagann](https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann)*
+🍂 *More information: [Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru](https://myanimelist.net/anime/25313/Gintama__Futon_ni_Haitte_kara_Buki_Nokoshi_ni_Kizuite_Neru_ni_Nerenai_Toki_mo_Aru)*
     
