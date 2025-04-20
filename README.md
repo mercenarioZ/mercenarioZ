@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken
+  <strong>🥭 <u>Title:</u></strong> Rising Impact Season 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Doraemon the Movie 2017: Great Adventure in the Antarctic Kachi Kochi</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/84521.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1161/144669.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.96/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 14</h4>
 
-<h4>🍏 Rating: PG - Children</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken](https://myanimelist.net/anime/33672/Doraemon_Movie_37__Nobita_no_Nankyoku_Kachikochi_Daibouken)*
+🍂 *More information: [Rising Impact Season 2](https://myanimelist.net/anime/59497/Rising_Impact_Season_2)*
     
