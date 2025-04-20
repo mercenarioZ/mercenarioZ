@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rising Impact Season 2
+  <strong>🥭 <u>Title:</u></strong> The iDOLM@STER
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> THE IDOLM@STER</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1161/144669.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1682/142758.jpg />
 
-<h4>🌱 Score: 7.96/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Comedy, Drama</h4>
 
-<h4>🥑 Episodes: 14</h4>
+<h4>🥑 Episodes: 25</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Rising Impact Season 2](https://myanimelist.net/anime/59497/Rising_Impact_Season_2)*
+🍂 *More information: [The iDOLM@STER](https://myanimelist.net/anime/10278/The_iDOLMSTER)*
     
