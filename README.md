@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Project Sekai Movie: Kowareta Sekai to Utaenai Miku
+  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket 2nd Season NG-shuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Colorful Stage! The Movie: A Miku Who Can't Sing</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1883/144526.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/59027.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Comedy, Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 9</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Project Sekai Movie: Kowareta Sekai to Utaenai Miku](https://myanimelist.net/anime/59419/Project_Sekai_Movie__Kowareta_Sekai_to_Utaenai_Miku)*
+🍂 *More information: [Kuroko no Basket 2nd Season NG-shuu](https://myanimelist.net/anime/22673/Kuroko_no_Basket_2nd_Season_NG-shuu)*
     
