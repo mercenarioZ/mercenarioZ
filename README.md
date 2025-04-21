@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> The iDOLM@STER
+  <strong>🥭 <u>Title:</u></strong> Project Sekai Movie: Kowareta Sekai to Utaenai Miku
 </h4>
 
-<h4>🌿 <u>English Title:</u> THE IDOLM@STER</h4>
+<h4>🌿 <u>English Title:</u> Colorful Stage! The Movie: A Miku Who Can't Sing</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1682/142758.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1883/144526.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Comedy, Drama</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [The iDOLM@STER](https://myanimelist.net/anime/10278/The_iDOLMSTER)*
+🍂 *More information: [Project Sekai Movie: Kowareta Sekai to Utaenai Miku](https://myanimelist.net/anime/59419/Project_Sekai_Movie__Kowareta_Sekai_to_Utaenai_Miku)*
     
