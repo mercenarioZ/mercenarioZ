@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Punch Man: Road to Hero
+  <strong>🥭 <u>Title:</u></strong> Chi's Sweet Home: Atarashii Ouchi
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Chi's New Address</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1802/124744.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/14095.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [One Punch Man: Road to Hero](https://myanimelist.net/anime/31704/One_Punch_Man__Road_to_Hero)*
+🍂 *More information: [Chi's Sweet Home: Atarashii Ouchi](https://myanimelist.net/anime/6024/Chis_Sweet_Home__Atarashii_Ouchi)*
     
