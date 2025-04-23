@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tteotda Keunyeo!!
+  <strong>🥭 <u>Title:</u></strong> Natsume Yuujinchou Movie: Utsusemi ni Musubu
 </h4>
 
-<h4>🌿 <u>English Title:</u> There She Is!!</h4>
+<h4>🌿 <u>English Title:</u> Natsume's Book of Friends Movie: Ephemeral Bond</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/29995.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1250/94846.jpg />
 
-<h4>🌱 Score: 7.84/10</h4>
+<h4>🌱 Score: 8.41/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Slice of Life, Supernatural</h4>
 
-<h4>🥑 Episodes: 5</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tteotda Keunyeo!!](https://myanimelist.net/anime/6505/Tteotda_Keunyeo)*
+🍂 *More information: [Natsume Yuujinchou Movie: Utsusemi ni Musubu](https://myanimelist.net/anime/36538/Natsume_Yuujinchou_Movie__Utsusemi_ni_Musubu)*
     
