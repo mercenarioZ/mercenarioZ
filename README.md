@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Chi's Sweet Home: Atarashii Ouchi
+  <strong>🥭 <u>Title:</u></strong> Tteotda Keunyeo!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Chi's New Address</h4>
+<h4>🌿 <u>English Title:</u> There She Is!!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/14095.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/29995.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 5</h4>
 
 <h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Chi's Sweet Home: Atarashii Ouchi](https://myanimelist.net/anime/6024/Chis_Sweet_Home__Atarashii_Ouchi)*
+🍂 *More information: [Tteotda Keunyeo!!](https://myanimelist.net/anime/6505/Tteotda_Keunyeo)*
     
