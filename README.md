@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Natsume Yuujinchou Movie: Utsusemi ni Musubu
+  <strong>🥭 <u>Title:</u></strong> One Piece Fan Letter
 </h4>
 
-<h4>🌿 <u>English Title:</u> Natsume's Book of Friends Movie: Ephemeral Bond</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1250/94846.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1455/146229.jpg />
 
-<h4>🌱 Score: 8.41/10</h4>
+<h4>🌱 Score: 9.05/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Natsume Yuujinchou Movie: Utsusemi ni Musubu](https://myanimelist.net/anime/36538/Natsume_Yuujinchou_Movie__Utsusemi_ni_Musubu)*
+🍂 *More information: [One Piece Fan Letter](https://myanimelist.net/anime/60022/One_Piece_Fan_Letter)*
     
