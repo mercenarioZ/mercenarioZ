@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece Fan Letter
+  <strong>🥭 <u>Title:</u></strong> Heroic Age
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Heroic Age</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1455/146229.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/50435.jpg />
 
-<h4>🌱 Score: 9.05/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [One Piece Fan Letter](https://myanimelist.net/anime/60022/One_Piece_Fan_Letter)*
+🍂 *More information: [Heroic Age](https://myanimelist.net/anime/2002/Heroic_Age)*
     
