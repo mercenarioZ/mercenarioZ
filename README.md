@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Durarara!!x2 Ketsu
+  <strong>🥭 <u>Title:</u></strong> Given Movie 1
 </h4>
 
-<h4>🌿 <u>English Title:</u> Durarara!! x2 Ketsu</h4>
+<h4>🌿 <u>English Title:</u> given The Movie</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/77838.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1648/111422.jpg />
 
-<h4>🌱 Score: 8.05/10</h4>
+<h4>🌱 Score: 8.12/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Boys Love, Drama</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Durarara!!x2 Ketsu](https://myanimelist.net/anime/27833/Durararax2_Ketsu)*
+🍂 *More information: [Given Movie 1](https://myanimelist.net/anime/40421/Given_Movie_1)*
     
