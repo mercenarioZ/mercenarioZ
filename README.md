@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Chuunibyou demo Koi ga Shitai! Movie: Take On Me
+  <strong>🥭 <u>Title:</u></strong> Saint Seiya: The Lost Canvas - Meiou Shinwa
 </h4>
 
-<h4>🌿 <u>English Title:</u> Love, Chunibyo & Other Delusions!: Take On Me</h4>
+<h4>🌿 <u>English Title:</u> Saint Seiya: The Lost Canvas</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/89974.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/75546.jpg />
 
-<h4>🌱 Score: 8.1/10</h4>
+<h4>🌱 Score: 7.99/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2009</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Chuunibyou demo Koi ga Shitai! Movie: Take On Me](https://myanimelist.net/anime/35608/Chuunibyou_demo_Koi_ga_Shitai_Movie__Take_On_Me)*
+🍂 *More information: [Saint Seiya: The Lost Canvas - Meiou Shinwa](https://myanimelist.net/anime/6171/Saint_Seiya__The_Lost_Canvas_-_Meiou_Shinwa)*
     
