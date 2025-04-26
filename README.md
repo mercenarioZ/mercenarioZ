@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Given Movie 1
+  <strong>🥭 <u>Title:</u></strong> Chuunibyou demo Koi ga Shitai! Movie: Take On Me
 </h4>
 
-<h4>🌿 <u>English Title:</u> given The Movie</h4>
+<h4>🌿 <u>English Title:</u> Love, Chunibyo & Other Delusions!: Take On Me</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1648/111422.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/89974.jpg />
 
-<h4>🌱 Score: 8.12/10</h4>
+<h4>🌱 Score: 8.1/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Boys Love, Drama</h4>
+<h4>🌵 Genres: Comedy, Drama, Romance</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Given Movie 1](https://myanimelist.net/anime/40421/Given_Movie_1)*
+🍂 *More information: [Chuunibyou demo Koi ga Shitai! Movie: Take On Me](https://myanimelist.net/anime/35608/Chuunibyou_demo_Koi_ga_Shitai_Movie__Take_On_Me)*
     
