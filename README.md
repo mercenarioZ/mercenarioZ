@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saint Seiya: The Lost Canvas - Meiou Shinwa
+  <strong>🥭 <u>Title:</u></strong> Nodame Cantabile: Finale - Mine to Kiyora no Saikai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saint Seiya: The Lost Canvas</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/75546.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/19590.jpg />
 
-<h4>🌱 Score: 7.99/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Saint Seiya: The Lost Canvas - Meiou Shinwa](https://myanimelist.net/anime/6171/Saint_Seiya__The_Lost_Canvas_-_Meiou_Shinwa)*
+🍂 *More information: [Nodame Cantabile: Finale - Mine to Kiyora no Saikai](https://myanimelist.net/anime/8038/Nodame_Cantabile__Finale_-_Mine_to_Kiyora_no_Saikai)*
     
