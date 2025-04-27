@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nodame Cantabile: Finale - Mine to Kiyora no Saikai
+  <strong>🥭 <u>Title:</u></strong> Hanada Shounen-shi
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/19590.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/87319.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 7.98/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Comedy, Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Nodame Cantabile: Finale - Mine to Kiyora no Saikai](https://myanimelist.net/anime/8038/Nodame_Cantabile__Finale_-_Mine_to_Kiyora_no_Saikai)*
+🍂 *More information: [Hanada Shounen-shi](https://myanimelist.net/anime/2004/Hanada_Shounen-shi)*
     
