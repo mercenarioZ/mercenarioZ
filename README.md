@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hanada Shounen-shi
+  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Shin Chan</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/87319.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/59897.jpg />
 
-<h4>🌱 Score: 7.98/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 1992</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Ecchi</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: null</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Hanada Shounen-shi](https://myanimelist.net/anime/2004/Hanada_Shounen-shi)*
+🍂 *More information: [Crayon Shin-chan](https://myanimelist.net/anime/966/Crayon_Shin-chan)*
     
