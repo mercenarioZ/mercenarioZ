@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Crayon Shin-chan
+  <strong>🥭 <u>Title:</u></strong> Junjou Romantica 3
 </h4>
 
-<h4>🌿 <u>English Title:</u> Shin Chan</h4>
+<h4>🌿 <u>English Title:</u> Junjo Romantica 3</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/59897.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/74170.jpg />
 
-<h4>🌱 Score: 7.81/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1992</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy, Ecchi</h4>
+<h4>🌵 Genres: Boys Love, Comedy, Drama</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Crayon Shin-chan](https://myanimelist.net/anime/966/Crayon_Shin-chan)*
+🍂 *More information: [Junjou Romantica 3](https://myanimelist.net/anime/25649/Junjou_Romantica_3)*
     
