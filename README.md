@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Junjou Romantica 3
+  <strong>🥭 <u>Title:</u></strong> Macross
 </h4>
 
-<h4>🌿 <u>English Title:</u> Junjo Romantica 3</h4>
+<h4>🌿 <u>English Title:</u> Super Dimension Fortress Macross</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/74170.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1553/137717.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 1982</h4>
 
-<h4>🌵 Genres: Boys Love, Comedy, Drama</h4>
+<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 36</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Junjou Romantica 3](https://myanimelist.net/anime/25649/Junjou_Romantica_3)*
+🍂 *More information: [Macross](https://myanimelist.net/anime/1088/Macross)*
     
