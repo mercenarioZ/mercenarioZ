@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Macross
+  <strong>🥭 <u>Title:</u></strong> Fanren Xiu Xian Chuan: Xinghai Feichi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Super Dimension Fortress Macross</h4>
+<h4>🌿 <u>English Title:</u> A Record of Mortal's Journey to Immortality Season 3</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1553/137717.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1119/139470.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 8.21/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 1982</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 36</h4>
+<h4>🥑 Episodes: 48</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Macross](https://myanimelist.net/anime/1088/Macross)*
+🍂 *More information: [Fanren Xiu Xian Chuan: Xinghai Feichi](https://myanimelist.net/anime/57067/Fanren_Xiu_Xian_Chuan__Xinghai_Feichi)*
     
