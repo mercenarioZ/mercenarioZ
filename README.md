@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: The Final Season Specials
+  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon Eternal Movie 1
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan: Chibi Theater - Survey Corps, The Final!</h4>
+<h4>🌿 <u>English Title:</u> Pretty Guardian Sailor Moon Eternal The Movie Part 1</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1470/117265.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1312/110461.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
 <h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin: The Final Season Specials](https://myanimelist.net/anime/49627/Shingeki_no_Kyojin__The_Final_Season_Specials)*
+🍂 *More information: [Bishoujo Senshi Sailor Moon Eternal Movie 1](https://myanimelist.net/anime/40024/Bishoujo_Senshi_Sailor_Moon_Eternal_Movie_1)*
     
