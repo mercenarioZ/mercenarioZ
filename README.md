@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fanren Xiu Xian Chuan: Xinghai Feichi
+  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: The Final Season Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> A Record of Mortal's Journey to Immortality Season 3</h4>
+<h4>🌿 <u>English Title:</u> Attack on Titan: Chibi Theater - Survey Corps, The Final!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1119/139470.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1470/117265.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 48</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Fanren Xiu Xian Chuan: Xinghai Feichi](https://myanimelist.net/anime/57067/Fanren_Xiu_Xian_Chuan__Xinghai_Feichi)*
+🍂 *More information: [Shingeki no Kyojin: The Final Season Specials](https://myanimelist.net/anime/49627/Shingeki_no_Kyojin__The_Final_Season_Specials)*
     
