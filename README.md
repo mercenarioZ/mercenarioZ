@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bishoujo Senshi Sailor Moon Eternal Movie 1
+  <strong>🥭 <u>Title:</u></strong> Fate/stay night: Unlimited Blade Works 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Pretty Guardian Sailor Moon Eternal The Movie Part 1</h4>
+<h4>🌿 <u>English Title:</u> Fate/stay night [Unlimited Blade Works] Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1312/110461.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1881/124810.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 8.32/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Bishoujo Senshi Sailor Moon Eternal Movie 1](https://myanimelist.net/anime/40024/Bishoujo_Senshi_Sailor_Moon_Eternal_Movie_1)*
+🍂 *More information: [Fate/stay night: Unlimited Blade Works 2nd Season](https://myanimelist.net/anime/28701/Fate_stay_night__Unlimited_Blade_Works_2nd_Season)*
     
