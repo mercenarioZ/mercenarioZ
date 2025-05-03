@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Berserk: Ougon Jidai-hen II - Doldrey Kouryaku
+  <strong>🥭 <u>Title:</u></strong> Rising Impact
 </h4>
 
-<h4>🌿 <u>English Title:</u> Berserk: The Golden Age Arc II - The Battle for Doldrey</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/37193.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1002/142134.jpg />
 
-<h4>🌱 Score: 7.87/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Drama, Fantasy, Horror</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Berserk: Ougon Jidai-hen II - Doldrey Kouryaku](https://myanimelist.net/anime/12113/Berserk__Ougon_Jidai-hen_II_-_Doldrey_Kouryaku)*
+🍂 *More information: [Rising Impact](https://myanimelist.net/anime/57487/Rising_Impact)*
     
