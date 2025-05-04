@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rising Impact
+  <strong>🥭 <u>Title:</u></strong> Haikyuu!! (OVA)
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1002/142134.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1618/102929.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2020</h4>
 
 <h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 10</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Rising Impact](https://myanimelist.net/anime/57487/Rising_Impact)*
+🍂 *More information: [Haikyuu!! (OVA)](https://myanimelist.net/anime/40372/Haikyuu_OVA)*
     
