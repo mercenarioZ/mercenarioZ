@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage
+  <strong>🥭 <u>Title:</u></strong> Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi
 </h4>
 
-<h4>🌿 <u>English Title:</u> KonoSuba: God's Blessing on This Wonderful World! 3 OVA</h4>
+<h4>🌿 <u>English Title:</u> Mob Psycho 100 II: The Spirits and Such Consultation Office's First Company Outing ~A Healing Trip That Warms the Heart~</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1482/146928.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1605/119301.jpg />
 
-<h4>🌱 Score: 8.21/10</h4>
+<h4>🌱 Score: 7.65/10</h4>
 
 <h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage](https://myanimelist.net/anime/59833/Kono_Subarashii_Sekai_ni_Shukufuku_wo_3__Bonus_Stage)*
+🍂 *More information: [Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi](https://myanimelist.net/anime/39651/Mob_Psycho_100__Dai_Ikkai_Rei_toka_Soudansho_Ian_Ryokou_-_Kokoro_Mitasu_Iyashi_no_Tabi)*
     
