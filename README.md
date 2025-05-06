@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: GQuuuuuuX
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saint Seiya: The Hades Chapter - Recaps</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: GQuuuuuuX</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/13518.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1052/148743.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2003</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: null</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa](https://myanimelist.net/anime/6154/Saint_Seiya__Meiou_Hades_Juuni_Kyuu-hen_-_Yomigaerishi_Gold_Saint-tachi_no_Shinwa)*
+🍂 *More information: [Kidou Senshi Gundam: GQuuuuuuX](https://myanimelist.net/anime/60449/Kidou_Senshi_Gundam__GQuuuuuuX)*
     
