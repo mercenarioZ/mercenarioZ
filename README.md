@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> To LOVE-Ru Darkness OVA
+  <strong>🥭 <u>Title:</u></strong> Carnival Phantasm
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/41251.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1018/92921.jpg />
 
-<h4>🌱 Score: 7.52/10</h4>
+<h4>🌱 Score: 7.87/10</h4>
 
 <h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Sci-Fi, Ecchi</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [To LOVE-Ru Darkness OVA](https://myanimelist.net/anime/13851/To_LOVE-Ru_Darkness_OVA)*
+🍂 *More information: [Carnival Phantasm](https://myanimelist.net/anime/10012/Carnival_Phantasm)*
     
