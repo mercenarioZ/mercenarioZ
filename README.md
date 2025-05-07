@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: GQuuuuuuX
+  <strong>🥭 <u>Title:</u></strong> To LOVE-Ru Darkness OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: GQuuuuuuX</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1052/148743.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/41251.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Romance, Sci-Fi, Ecchi</h4>
 
-<h4>🥑 Episodes: null</h4>
+<h4>🥑 Episodes: 6</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam: GQuuuuuuX](https://myanimelist.net/anime/60449/Kidou_Senshi_Gundam__GQuuuuuuX)*
+🍂 *More information: [To LOVE-Ru Darkness OVA](https://myanimelist.net/anime/13851/To_LOVE-Ru_Darkness_OVA)*
     
