@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jian Lai
+  <strong>🥭 <u>Title:</u></strong> Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sword of Coming</h4>
+<h4>🌿 <u>English Title:</u> Beyond the Boundary: I'll Be Here - Future</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1740/144466.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/72614.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 8.14/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Jian Lai](https://myanimelist.net/anime/59389/Jian_Lai)*
+🍂 *More information: [Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen](https://myanimelist.net/anime/28675/Kyoukai_no_Kanata_Movie_2__Ill_Be_Here_-_Mirai-hen)*
     
