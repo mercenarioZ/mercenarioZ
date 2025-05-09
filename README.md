@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen
+  <strong>🥭 <u>Title:</u></strong> Nezha Zhi Mo Tong Nao Hai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Beyond the Boundary: I'll Be Here - Future</h4>
+<h4>🌿 <u>English Title:</u> Ne Zha 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/72614.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1616/147002.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 8.46/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Action, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Comedy, Drama, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen](https://myanimelist.net/anime/28675/Kyoukai_no_Kanata_Movie_2__Ill_Be_Here_-_Mirai-hen)*
+🍂 *More information: [Nezha Zhi Mo Tong Nao Hai](https://myanimelist.net/anime/60544/Nezha_Zhi_Mo_Tong_Nao_Hai)*
     
