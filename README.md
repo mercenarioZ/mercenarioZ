@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimi ni Todoke 3rd Season
+  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: The Final Season Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kimi ni Todoke: From Me to You Season 3</h4>
+<h4>🌿 <u>English Title:</u> Attack on Titan: Final Season Part 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1617/142448.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1948/120625.jpg />
 
-<h4>🌱 Score: 8.48/10</h4>
+<h4>🌱 Score: 8.76/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Action, Drama, Suspense</h4>
 
-<h4>🥑 Episodes: 5</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kimi ni Todoke 3rd Season](https://myanimelist.net/anime/56538/Kimi_ni_Todoke_3rd_Season)*
+🍂 *More information: [Shingeki no Kyojin: The Final Season Part 2](https://myanimelist.net/anime/48583/Shingeki_no_Kyojin__The_Final_Season_Part_2)*
     
