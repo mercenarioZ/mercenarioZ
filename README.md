@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Runway de Waratte
+  <strong>🥭 <u>Title:</u></strong> Tensei shitara Slime Datta Ken 2nd Season Part 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Smile Down the Runway</h4>
+<h4>🌿 <u>English Title:</u> That Time I Got Reincarnated as a Slime Season 2 Part 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1544/104540.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1033/118296.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 8.31/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Comedy, Fantasy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Runway de Waratte](https://myanimelist.net/anime/40392/Runway_de_Waratte)*
+🍂 *More information: [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime/41487/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2)*
     
