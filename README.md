@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: The Final Season Part 2
+  <strong>🥭 <u>Title:</u></strong> Runway de Waratte
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan: Final Season Part 2</h4>
+<h4>🌿 <u>English Title:</u> Smile Down the Runway</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1948/120625.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1544/104540.jpg />
 
-<h4>🌱 Score: 8.76/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Drama</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin: The Final Season Part 2](https://myanimelist.net/anime/48583/Shingeki_no_Kyojin__The_Final_Season_Part_2)*
+🍂 *More information: [Runway de Waratte](https://myanimelist.net/anime/40392/Runway_de_Waratte)*
     
