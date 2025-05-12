@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tensei shitara Slime Datta Ken 2nd Season Part 2
+  <strong>🥭 <u>Title:</u></strong> Nezha Zhi Mo Tong Nao Hai
 </h4>
 
-<h4>🌿 <u>English Title:</u> That Time I Got Reincarnated as a Slime Season 2 Part 2</h4>
+<h4>🌿 <u>English Title:</u> Ne Zha 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1033/118296.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1616/147002.jpg />
 
-<h4>🌱 Score: 8.31/10</h4>
+<h4>🌱 Score: 8.46/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Action, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime/41487/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2)*
+🍂 *More information: [Nezha Zhi Mo Tong Nao Hai](https://myanimelist.net/anime/60544/Nezha_Zhi_Mo_Tong_Nao_Hai)*
     
