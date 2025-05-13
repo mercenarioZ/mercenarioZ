@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sword Art Online: Alicization - War of Underworld 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Vampire Hunter D (2000)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sword Art Online: Alicization - War of Underworld Part 2</h4>
+<h4>🌿 <u>English Title:</u> Vampire Hunter D: Bloodlust</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1438/105106.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1571/135153.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.95/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Drama, Fantasy, Horror, Romance, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Sword Art Online: Alicization - War of Underworld 2nd Season](https://myanimelist.net/anime/40540/Sword_Art_Online__Alicization_-_War_of_Underworld_2nd_Season)*
+🍂 *More information: [Vampire Hunter D (2000)](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000)*
     
