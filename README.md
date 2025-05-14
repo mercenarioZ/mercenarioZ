@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu
+  <strong>🥭 <u>Title:</u></strong> New Game!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Slam Dunk: Roar!! Basket Man Spirit</h4>
+<h4>🌿 <u>English Title:</u> New Game!!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1931/94408.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/86790.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1995</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu](https://myanimelist.net/anime/2499/Slam_Dunk__Hoero_Basketman-damashii_Hanamichi_to_Rukawa_no_Atsuki_Natsu)*
+🍂 *More information: [New Game!!](https://myanimelist.net/anime/34914/New_Game)*
     
