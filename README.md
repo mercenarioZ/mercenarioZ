@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru
+  <strong>🥭 <u>Title:</u></strong> Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Most Notorious "Talker" Runs the World's Greatest Clan</h4>
+<h4>🌿 <u>English Title:</u> Slam Dunk: Roar!! Basket Man Spirit</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1683/145446.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1931/94408.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 1995</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru](https://myanimelist.net/anime/58714/Saikyou_no_Shienshoku_Wajutsushi_de_Aru_Ore_wa_Sekai_Saikyou_Clan_wo_Shitagaeru)*
+🍂 *More information: [Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu](https://myanimelist.net/anime/2499/Slam_Dunk__Hoero_Basketman-damashii_Hanamichi_to_Rukawa_no_Atsuki_Natsu)*
     
