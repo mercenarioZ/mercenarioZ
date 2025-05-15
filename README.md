@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> New Game!!
+  <strong>🥭 <u>Title:</u></strong> Bobobo-bo Bo-bobo
 </h4>
 
-<h4>🌿 <u>English Title:</u> New Game!!</h4>
+<h4>🌿 <u>English Title:</u> Bobobo-bo Bo-bobo</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/86790.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1293/136965.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2003</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Adventure, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 76</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [New Game!!](https://myanimelist.net/anime/34914/New_Game)*
+🍂 *More information: [Bobobo-bo Bo-bobo](https://myanimelist.net/anime/1050/Bobobo-bo_Bo-bobo)*
     
