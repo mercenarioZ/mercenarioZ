@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Vigilante: Boku no Hero Academia Illegals
+  <strong>🥭 <u>Title:</u></strong> Mob Psycho 100
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Hero Academia: Vigilantes</h4>
+<h4>🌿 <u>English Title:</u> Mob Psycho 100</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1538/148604.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/80356.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 8.49/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Vigilante: Boku no Hero Academia Illegals](https://myanimelist.net/anime/60593/Vigilante__Boku_no_Hero_Academia_Illegals)*
+🍂 *More information: [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)*
     
