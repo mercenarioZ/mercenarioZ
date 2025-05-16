@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mob Psycho 100
+  <strong>🥭 <u>Title:</u></strong> Date A Bullet: Dead or Bullet
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mob Psycho 100</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/80356.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1984/108425.jpg />
 
-<h4>🌱 Score: 8.49/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action, Comedy, Supernatural</h4>
+<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)*
+🍂 *More information: [Date A Bullet: Dead or Bullet](https://myanimelist.net/anime/40416/Date_A_Bullet__Dead_or_Bullet)*
     
