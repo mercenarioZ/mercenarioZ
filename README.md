@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saraiya Goyou
+  <strong>🥭 <u>Title:</u></strong> Garden: Takamine-ke no Nirinka - The Animation
 </h4>
 
-<h4>🌿 <u>English Title:</u> House of Five Leaves</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/75203.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1593/119817.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Hentai</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: Rx - Hentai</h4>
 
 <br />
 
-🍂 *More information: [Saraiya Goyou](https://myanimelist.net/anime/7588/Saraiya_Goyou)*
+🍂 *More information: [Garden: Takamine-ke no Nirinka - The Animation](https://myanimelist.net/anime/50488/Garden__Takamine-ke_no_Nirinka_-_The_Animation)*
     
