@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Date A Bullet: Dead or Bullet
+  <strong>🥭 <u>Title:</u></strong> Saraiya Goyou
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> House of Five Leaves</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1984/108425.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/75203.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Date A Bullet: Dead or Bullet](https://myanimelist.net/anime/40416/Date_A_Bullet__Dead_or_Bullet)*
+🍂 *More information: [Saraiya Goyou](https://myanimelist.net/anime/7588/Saraiya_Goyou)*
     
