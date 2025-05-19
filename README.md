@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kimitachi wa Dou Ikiru ka
+  <strong>🥭 <u>Title:</u></strong> Kagami no Kojou
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Boy and the Heron</h4>
+<h4>🌿 <u>English Title:</u> Lonely Castle in the Mirror</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1126/139654.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1954/129158.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Adventure, Award Winning, Drama, Fantasy</h4>
+<h4>🌵 Genres: Drama, Fantasy, Mystery</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Kimitachi wa Dou Ikiru ka](https://myanimelist.net/anime/36699/Kimitachi_wa_Dou_Ikiru_ka)*
+🍂 *More information: [Kagami no Kojou](https://myanimelist.net/anime/51116/Kagami_no_Kojou)*
     
