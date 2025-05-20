@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen
+  <strong>🥭 <u>Title:</u></strong> Tamayura: Sotsugyou Shashin Part 3 - Akogare
 </h4>
 
-<h4>🌿 <u>English Title:</u> Dragon Ball Z: Bardock, The Father of Goku</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1978/138488.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/76022.jpg />
 
-<h4>🌱 Score: 7.58/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 1990</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy, Sci-Fi</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen](https://myanimelist.net/anime/986/Dragon_Ball_Z_Special_1__Tatta_Hitori_no_Saishuu_Kessen)*
+🍂 *More information: [Tamayura: Sotsugyou Shashin Part 3 - Akogare](https://myanimelist.net/anime/29830/Tamayura__Sotsugyou_Shashin_Part_3_-_Akogare)*
     
