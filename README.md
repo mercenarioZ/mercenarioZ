@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wonder Egg Priority
+  <strong>🥭 <u>Title:</u></strong> Fumetsu no Anata e
 </h4>
 
-<h4>🌿 <u>English Title:</u> Wonder Egg Priority</h4>
+<h4>🌿 <u>English Title:</u> To Your Eternity</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1079/110751.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1880/118484.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.34/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Adventure, Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 20</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Wonder Egg Priority](https://myanimelist.net/anime/43299/Wonder_Egg_Priority)*
+🍂 *More information: [Fumetsu no Anata e](https://myanimelist.net/anime/41025/Fumetsu_no_Anata_e)*
     
