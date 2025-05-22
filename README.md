@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fumetsu no Anata e
+  <strong>🥭 <u>Title:</u></strong> JoJo no Kimyou na Bouken Part 6: Stone Ocean
 </h4>
 
-<h4>🌿 <u>English Title:</u> To Your Eternity</h4>
+<h4>🌿 <u>English Title:</u> JoJo's Bizarre Adventure: Stone Ocean</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1880/118484.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1896/119844.jpg />
 
-<h4>🌱 Score: 8.34/10</h4>
+<h4>🌱 Score: 8.09/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
 <h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure</h4>
 
-<h4>🥑 Episodes: 20</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Fumetsu no Anata e](https://myanimelist.net/anime/41025/Fumetsu_no_Anata_e)*
+🍂 *More information: [JoJo no Kimyou na Bouken Part 6: Stone Ocean](https://myanimelist.net/anime/48661/JoJo_no_Kimyou_na_Bouken_Part_6__Stone_Ocean)*
     
