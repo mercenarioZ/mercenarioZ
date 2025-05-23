@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yakitate!! Japan
+  <strong>🥭 <u>Title:</u></strong> Meng Qi Shi Shen: Huanxi Zhui Hun
 </h4>
 
-<h4>🌿 <u>English Title:</u> Yakitate!! Japan</h4>
+<h4>🌿 <u>English Title:</u> Cinderella Chef 3rd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/76432.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1511/125055.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Gourmet</h4>
+<h4>🌵 Genres: Comedy, Drama, Gourmet, Romance</h4>
 
-<h4>🥑 Episodes: 69</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yakitate!! Japan](https://myanimelist.net/anime/28/Yakitate_Japan)*
+🍂 *More information: [Meng Qi Shi Shen: Huanxi Zhui Hun](https://myanimelist.net/anime/51203/Meng_Qi_Shi_Shen__Huanxi_Zhui_Hun)*
     
