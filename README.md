@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meng Qi Shi Shen: Huanxi Zhui Hun
+  <strong>🥭 <u>Title:</u></strong> Amagami-san Chi no Enmusubi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Cinderella Chef 3rd Season</h4>
+<h4>🌿 <u>English Title:</u> Tying the Knot with an Amagami Sister</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1511/125055.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1303/147193.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Gourmet, Romance</h4>
+<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meng Qi Shi Shen: Huanxi Zhui Hun](https://myanimelist.net/anime/51203/Meng_Qi_Shi_Shen__Huanxi_Zhui_Hun)*
+🍂 *More information: [Amagami-san Chi no Enmusubi](https://myanimelist.net/anime/55071/Amagami-san_Chi_no_Enmusubi)*
     
