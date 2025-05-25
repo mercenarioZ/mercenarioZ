@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Final Fantasy VII: Advent Children
+  <strong>🥭 <u>Title:</u></strong> Lycoris Recoil: Friends Are Thieves of Time.
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Lycoris Recoil: Friends are thieves of time.</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1/317.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1314/147593.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 6</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Final Fantasy VII: Advent Children](https://myanimelist.net/anime/317/Final_Fantasy_VII__Advent_Children)*
+🍂 *More information: [Lycoris Recoil: Friends Are Thieves of Time.](https://myanimelist.net/anime/59369/Lycoris_Recoil__Friends_Are_Thieves_of_Time)*
     
