@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kageki Shoujo!!
+  <strong>🥭 <u>Title:</u></strong> Gakkou no Kaidan
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kageki Shojo!!</h4>
+<h4>🌿 <u>English Title:</u> Ghost Stories</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1944/114427.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1414/112029.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2000</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Horror, Mystery, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 19</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kageki Shoujo!!](https://myanimelist.net/anime/43691/Kageki_Shoujo)*
+🍂 *More information: [Gakkou no Kaidan](https://myanimelist.net/anime/1281/Gakkou_no_Kaidan)*
     
