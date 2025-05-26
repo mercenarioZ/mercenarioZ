@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gakkou no Kaidan
+  <strong>🥭 <u>Title:</u></strong> Fumetsu no Anata e Season 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ghost Stories</h4>
+<h4>🌿 <u>English Title:</u> To Your Eternity Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1414/112029.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1271/127700.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 8.09/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2000</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Horror, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Adventure, Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 19</h4>
+<h4>🥑 Episodes: 20</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Gakkou no Kaidan](https://myanimelist.net/anime/1281/Gakkou_no_Kaidan)*
+🍂 *More information: [Fumetsu no Anata e Season 2](https://myanimelist.net/anime/49709/Fumetsu_no_Anata_e_Season_2)*
     
