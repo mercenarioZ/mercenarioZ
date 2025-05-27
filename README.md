@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni
+  <strong>🥭 <u>Title:</u></strong> Hoozuki no Reitetsu OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> Neon Genesis Evangelion: The End of Evangelion</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1404/98182.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1531/138993.jpg />
 
-<h4>🌱 Score: 8.56/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1997</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Avant Garde, Drama, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 4</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni](https://myanimelist.net/anime/32/Shinseiki_Evangelion_Movie__Air_Magokoro_wo_Kimi_ni)*
+🍂 *More information: [Hoozuki no Reitetsu OVA](https://myanimelist.net/anime/24471/Hoozuki_no_Reitetsu_OVA)*
     
