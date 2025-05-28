@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Over Drive
+  <strong>🥭 <u>Title:</u></strong> Shirokuma Cafe
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Polar Bear Cafe</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/89534.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/75649.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.89/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 50</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Over Drive](https://myanimelist.net/anime/2112/Over_Drive)*
+🍂 *More information: [Shirokuma Cafe](https://myanimelist.net/anime/12815/Shirokuma_Cafe)*
     
