@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shirokuma Cafe
+  <strong>🥭 <u>Title:</u></strong> Kingdom 4th Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Polar Bear Cafe</h4>
+<h4>🌿 <u>English Title:</u> Kingdom: Season 4</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/75649.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1566/122794.jpg />
 
-<h4>🌱 Score: 7.89/10</h4>
+<h4>🌱 Score: 8.73/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 50</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Shirokuma Cafe](https://myanimelist.net/anime/12815/Shirokuma_Cafe)*
+🍂 *More information: [Kingdom 4th Season](https://myanimelist.net/anime/50160/Kingdom_4th_Season)*
     
