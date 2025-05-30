@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack
+  <strong>🥭 <u>Title:</u></strong> Kami nomi zo Shiru Sekai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan: The Last Attack</h4>
+<h4>🌿 <u>English Title:</u> The World God Only Knows</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1379/145452.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/43361.jpg />
 
-<h4>🌱 Score: 8.82/10</h4>
+<h4>🌱 Score: 7.64/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Drama, Suspense</h4>
+<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack](https://myanimelist.net/anime/59571/Shingeki_no_Kyojin_Movie__Kanketsu-hen_-_The_Last_Attack)*
+🍂 *More information: [Kami nomi zo Shiru Sekai](https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai)*
     
