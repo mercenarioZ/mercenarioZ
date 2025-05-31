@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kami nomi zo Shiru Sekai
+  <strong>🥭 <u>Title:</u></strong> Girls & Panzer: Saishuushou Part 4
 </h4>
 
-<h4>🌿 <u>English Title:</u> The World God Only Knows</h4>
+<h4>🌿 <u>English Title:</u> Girls und Panzer das Finale – Part 4</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/43361.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1652/138188.jpg />
 
-<h4>🌱 Score: 7.64/10</h4>
+<h4>🌱 Score: 8.36/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kami nomi zo Shiru Sekai](https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai)*
+🍂 *More information: [Girls & Panzer: Saishuushou Part 4](https://myanimelist.net/anime/39167/Girls___Panzer__Saishuushou_Part_4)*
     
