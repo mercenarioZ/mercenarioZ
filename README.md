@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Girls & Panzer: Saishuushou Part 4
+  <strong>🥭 <u>Title:</u></strong> Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma
 </h4>
 
-<h4>🌿 <u>English Title:</u> Girls und Panzer das Finale – Part 4</h4>
+<h4>🌿 <u>English Title:</u> Cardcaptor Sakura: Clear Card Prologue – Sakura and the Two Bears</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1652/138188.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/89305.jpg />
 
-<h4>🌱 Score: 8.36/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Romance</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Girls & Panzer: Saishuushou Part 4](https://myanimelist.net/anime/39167/Girls___Panzer__Saishuushou_Part_4)*
+🍂 *More information: [Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma](https://myanimelist.net/anime/35320/Cardcaptor_Sakura__Clear_Card-hen_Prologue_-_Sakura_to_Futatsu_no_Kuma)*
     
