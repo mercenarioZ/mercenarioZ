@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mashiro no Oto
+  <strong>🥭 <u>Title:</u></strong> Kobayashi-san Chi no Maid Dragon S
 </h4>
 
-<h4>🌿 <u>English Title:</u> Those Snow White Notes</h4>
+<h4>🌿 <u>English Title:</u> Miss Kobayashi's Dragon Maid S</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1841/111554.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1252/115539.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 8.22/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
 <h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Slice of Life, Supernatural</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Mashiro no Oto](https://myanimelist.net/anime/42590/Mashiro_no_Oto)*
+🍂 *More information: [Kobayashi-san Chi no Maid Dragon S](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S)*
     
