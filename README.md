@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma
+  <strong>🥭 <u>Title:</u></strong> Mashiro no Oto
 </h4>
 
-<h4>🌿 <u>English Title:</u> Cardcaptor Sakura: Clear Card Prologue – Sakura and the Two Bears</h4>
+<h4>🌿 <u>English Title:</u> Those Snow White Notes</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/89305.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1841/111554.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 7.53/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma](https://myanimelist.net/anime/35320/Cardcaptor_Sakura__Clear_Card-hen_Prologue_-_Sakura_to_Futatsu_no_Kuma)*
+🍂 *More information: [Mashiro no Oto](https://myanimelist.net/anime/42590/Mashiro_no_Oto)*
     
