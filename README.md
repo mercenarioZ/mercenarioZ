@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kobayashi-san Chi no Maid Dragon S
+  <strong>🥭 <u>Title:</u></strong> Puparia
 </h4>
 
-<h4>🌿 <u>English Title:</u> Miss Kobayashi's Dragon Maid S</h4>
+<h4>🌿 <u>English Title:</u> Puparia</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1252/115539.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1308/110285.jpg />
 
-<h4>🌱 Score: 8.22/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Avant Garde</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kobayashi-san Chi no Maid Dragon S](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S)*
+🍂 *More information: [Puparia](https://myanimelist.net/anime/44059/Puparia)*
     
