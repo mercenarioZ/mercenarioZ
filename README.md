@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shadows House 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Fight Song
 </h4>
 
-<h4>🌿 <u>English Title:</u> Shadows House 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1634/124231.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1730/132170.jpg />
 
-<h4>🌱 Score: 8.01/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Music</h4>
 
 <h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Fantasy, Mystery</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Shadows House 2nd Season](https://myanimelist.net/anime/49782/Shadows_House_2nd_Season)*
+🍂 *More information: [Fight Song](https://myanimelist.net/anime/54026/Fight_Song)*
     
