@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Overlord Movie 1: Fushisha no Ou
+  <strong>🥭 <u>Title:</u></strong> Hoozuki no Reitetsu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Overlord: The Undead King</h4>
+<h4>🌿 <u>English Title:</u> Hozuki's Coolheadedness</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/87759.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/87177.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Overlord Movie 1: Fushisha no Ou](https://myanimelist.net/anime/34161/Overlord_Movie_1__Fushisha_no_Ou)*
+🍂 *More information: [Hoozuki no Reitetsu](https://myanimelist.net/anime/20431/Hoozuki_no_Reitetsu)*
     
