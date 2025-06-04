@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hoozuki no Reitetsu
+  <strong>🥭 <u>Title:</u></strong> Dance Dance Danseur
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hozuki's Coolheadedness</h4>
+<h4>🌿 <u>English Title:</u> Dance Dance Danseur</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/87177.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1571/121381.jpg />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hoozuki no Reitetsu](https://myanimelist.net/anime/20431/Hoozuki_no_Reitetsu)*
+🍂 *More information: [Dance Dance Danseur](https://myanimelist.net/anime/48702/Dance_Dance_Danseur)*
     
