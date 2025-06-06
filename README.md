@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rock wa Lady no Tashinami deshite
+  <strong>🥭 <u>Title:</u></strong> Yi Nian Yong Heng: Chuan Cheng Pian
 </h4>
 
-<h4>🌿 <u>English Title:</u> Rock Is a Lady's Modesty</h4>
+<h4>🌿 <u>English Title:</u> A Will Eternal 2nd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1781/150071.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1902/137109.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 54</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Rock wa Lady no Tashinami deshite](https://myanimelist.net/anime/59360/Rock_wa_Lady_no_Tashinami_deshite)*
+🍂 *More information: [Yi Nian Yong Heng: Chuan Cheng Pian](https://myanimelist.net/anime/49574/Yi_Nian_Yong_Heng__Chuan_Cheng_Pian)*
     
