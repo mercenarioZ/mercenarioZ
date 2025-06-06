@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Giji Harem
+  <strong>🥭 <u>Title:</u></strong> Rock wa Lady no Tashinami deshite
 </h4>
 
-<h4>🌿 <u>English Title:</u> Pseudo Harem</h4>
+<h4>🌿 <u>English Title:</u> Rock Is a Lady's Modesty</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1607/143547.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1781/150071.jpg />
 
-<h4>🌱 Score: 7.84/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Giji Harem](https://myanimelist.net/anime/54968/Giji_Harem)*
+🍂 *More information: [Rock wa Lady no Tashinami deshite](https://myanimelist.net/anime/59360/Rock_wa_Lady_no_Tashinami_deshite)*
     
