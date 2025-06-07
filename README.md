@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yi Nian Yong Heng: Chuan Cheng Pian
+  <strong>🥭 <u>Title:</u></strong> Cang Yuan Tu 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> A Will Eternal 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> The Demon Hunter 2nd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1902/137109.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1609/150081.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 7.85/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2024</h4>
 
 <h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 54</h4>
+<h4>🥑 Episodes: 36</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yi Nian Yong Heng: Chuan Cheng Pian](https://myanimelist.net/anime/49574/Yi_Nian_Yong_Heng__Chuan_Cheng_Pian)*
+🍂 *More information: [Cang Yuan Tu 2nd Season](https://myanimelist.net/anime/60420/Cang_Yuan_Tu_2nd_Season)*
     
