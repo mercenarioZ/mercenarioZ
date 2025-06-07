@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Cang Yuan Tu 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Demon Hunter 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1609/150081.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/80899.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 8.23/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 36</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Cang Yuan Tu 2nd Season](https://myanimelist.net/anime/60420/Cang_Yuan_Tu_2nd_Season)*
+🍂 *More information: [Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season](https://myanimelist.net/anime/33051/Kidou_Senshi_Gundam__Tekketsu_no_Orphans_2nd_Season)*
     
