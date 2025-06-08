@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket: Mou Ikkai Yarimasen ka
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> Kuroko’s Basketball: Would You Mind Doing That Once More</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/80899.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/68055.jpg />
 
-<h4>🌱 Score: 8.23/10</h4>
+<h4>🌱 Score: 7.58/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy, Sports</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season](https://myanimelist.net/anime/33051/Kidou_Senshi_Gundam__Tekketsu_no_Orphans_2nd_Season)*
+🍂 *More information: [Kuroko no Basket: Mou Ikkai Yarimasen ka](https://myanimelist.net/anime/22125/Kuroko_no_Basket__Mou_Ikkai_Yarimasen_ka)*
     
