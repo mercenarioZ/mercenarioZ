@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shinigami Bocchan to Kuro Maid 3rd Season
+  <strong>🥭 <u>Title:</u></strong> Hanada Shounen-shi
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Duke of Death and His Maid Season 3</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1988/142714.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/87319.jpg />
 
-<h4>🌱 Score: 8.14/10</h4>
+<h4>🌱 Score: 7.98/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Comedy, Fantasy, Romance</h4>
+<h4>🌵 Genres: Comedy, Drama, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 25</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Shinigami Bocchan to Kuro Maid 3rd Season](https://myanimelist.net/anime/56738/Shinigami_Bocchan_to_Kuro_Maid_3rd_Season)*
+🍂 *More information: [Hanada Shounen-shi](https://myanimelist.net/anime/2004/Hanada_Shounen-shi)*
     
