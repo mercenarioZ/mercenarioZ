@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gekkan Shoujo Nozaki-kun
+  <strong>🥭 <u>Title:</u></strong> Emiya-san Chi no Kyou no Gohan
 </h4>
 
-<h4>🌿 <u>English Title:</u> Monthly Girls' Nozaki-kun</h4>
+<h4>🌿 <u>English Title:</u> Today's Menu for the Emiya Family</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/66083.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/89981.jpg />
 
-<h4>🌱 Score: 7.82/10</h4>
+<h4>🌱 Score: 7.79/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Gourmet, Slice of Life</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Gekkan Shoujo Nozaki-kun](https://myanimelist.net/anime/23289/Gekkan_Shoujo_Nozaki-kun)*
+🍂 *More information: [Emiya-san Chi no Kyou no Gohan](https://myanimelist.net/anime/37033/Emiya-san_Chi_no_Kyou_no_Gohan)*
     
