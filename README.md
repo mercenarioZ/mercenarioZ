@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji: Midori no Majo-hen
+  <strong>🥭 <u>Title:</u></strong> Isekai Nonbiri Nouka
 </h4>
 
-<h4>🌿 <u>English Title:</u> Black Butler: Emerald Witch Arc</h4>
+<h4>🌿 <u>English Title:</u> Farming Life in Another World</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1517/148292.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1983/132329.jpg />
 
-<h4>🌱 Score: 8.27/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Fantasy, Slice of Life</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuroshitsuji: Midori no Majo-hen](https://myanimelist.net/anime/59228/Kuroshitsuji__Midori_no_Majo-hen)*
+🍂 *More information: [Isekai Nonbiri Nouka](https://myanimelist.net/anime/51462/Isekai_Nonbiri_Nouka)*
     
