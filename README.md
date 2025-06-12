@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Emiya-san Chi no Kyou no Gohan
+  <strong>🥭 <u>Title:</u></strong> Kuroshitsuji: Midori no Majo-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Today's Menu for the Emiya Family</h4>
+<h4>🌿 <u>English Title:</u> Black Butler: Emerald Witch Arc</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/89981.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1517/148292.jpg />
 
-<h4>🌱 Score: 7.79/10</h4>
+<h4>🌱 Score: 8.27/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Gourmet, Slice of Life</h4>
+<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
 
 <h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Emiya-san Chi no Kyou no Gohan](https://myanimelist.net/anime/37033/Emiya-san_Chi_no_Kyou_no_Gohan)*
+🍂 *More information: [Kuroshitsuji: Midori no Majo-hen](https://myanimelist.net/anime/59228/Kuroshitsuji__Midori_no_Majo-hen)*
     
