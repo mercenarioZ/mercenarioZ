@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Isekai Nonbiri Nouka
+  <strong>🥭 <u>Title:</u></strong> Da Wang Rao Ming
 </h4>
 
-<h4>🌿 <u>English Title:</u> Farming Life in Another World</h4>
+<h4>🌿 <u>English Title:</u> Spare Me, Great Lord!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1983/132329.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1442/116999.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.52/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Fantasy, Slice of Life</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Isekai Nonbiri Nouka](https://myanimelist.net/anime/51462/Isekai_Nonbiri_Nouka)*
+🍂 *More information: [Da Wang Rao Ming](https://myanimelist.net/anime/44406/Da_Wang_Rao_Ming)*
     
