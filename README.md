@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fruits Basket 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Hunter x Hunter (2011)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fruits Basket 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> Hunter x Hunter</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1972/111635.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1337/99013.jpg />
 
-<h4>🌱 Score: 8.53/10</h4>
+<h4>🌱 Score: 9.03/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Drama, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 25</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Fruits Basket 2nd Season](https://myanimelist.net/anime/40417/Fruits_Basket_2nd_Season)*
+🍂 *More information: [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011)*
     
