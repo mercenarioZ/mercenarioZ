@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Jigoku Sensei Nube
+  <strong>🥭 <u>Title:</u></strong> Yakitate!! Japan
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hell Teacher Nube</h4>
+<h4>🌿 <u>English Title:</u> Yakitate!! Japan</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1068/99222.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/76432.jpg />
 
-<h4>🌱 Score: 7.53/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1996</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Comedy, Horror, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Gourmet</h4>
 
-<h4>🥑 Episodes: 49</h4>
+<h4>🥑 Episodes: 69</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Jigoku Sensei Nube](https://myanimelist.net/anime/2012/Jigoku_Sensei_Nube)*
+🍂 *More information: [Yakitate!! Japan](https://myanimelist.net/anime/28/Yakitate_Japan)*
     
