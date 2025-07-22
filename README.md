@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Lupin the Third: Mine Fujiko to Iu Onna
+  <strong>🥭 <u>Title:</u></strong> Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven
 </h4>
 
-<h4>🌿 <u>English Title:</u> Lupin the Third: The Woman Called Fujiko Mine</h4>
+<h4>🌿 <u>English Title:</u> Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1482/133813.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/2829.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.97/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Action, Adventure, Award Winning, Comedy, Ecchi</h4>
+<h4>🌵 Genres: Action, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Lupin the Third: Mine Fujiko to Iu Onna](https://myanimelist.net/anime/13203/Lupin_the_Third__Mine_Fujiko_to_Iu_Onna)*
+🍂 *More information: [Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven](https://myanimelist.net/anime/2448/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG_-_Individual_Eleven)*
     
