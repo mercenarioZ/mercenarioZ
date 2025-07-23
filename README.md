@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven
+  <strong>🥭 <u>Title:</u></strong> Yume-iro Pâtissière SP Professional
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/2829.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/27794.jpg />
 
-<h4>🌱 Score: 7.97/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Gourmet, Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven](https://myanimelist.net/anime/2448/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG_-_Individual_Eleven)*
+🍂 *More information: [Yume-iro Pâtissière SP Professional](https://myanimelist.net/anime/9441/Yume-iro_Pâtissière_SP_Professional)*
     
