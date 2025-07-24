@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Asobi Asobase Specials
+  <strong>🥭 <u>Title:</u></strong> Hataraku Maou-sama!
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> The Devil is a Part-Timer!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1270/97437.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/50177.jpg />
 
-<h4>🌱 Score: 7.6/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Asobi Asobase Specials](https://myanimelist.net/anime/38002/Asobi_Asobase_Specials)*
+🍂 *More information: [Hataraku Maou-sama!](https://myanimelist.net/anime/15809/Hataraku_Maou-sama)*
     
