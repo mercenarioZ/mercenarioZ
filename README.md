@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 28: Sekigan no Flashback
+  <strong>🥭 <u>Title:</u></strong> High☆Speed! Movie: Free! Starting Days
 </h4>
 
-<h4>🌿 <u>English Title:</u> Detective Conan Movie 28: One-Eyed Flashback</h4>
+<h4>🌿 <u>English Title:</u> Free! Starting Days</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1036/148145.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/76967.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.85/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Mystery</h4>
+<h4>🌵 Genres: Drama, Sports</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 28: Sekigan no Flashback](https://myanimelist.net/anime/60445/Meitantei_Conan_Movie_28__Sekigan_no_Flashback)*
+🍂 *More information: [High☆Speed! Movie: Free! Starting Days](https://myanimelist.net/anime/30415/High☆Speed_Movie__Free_Starting_Days)*
     
