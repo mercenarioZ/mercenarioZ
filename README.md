@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Doukyonin wa Hiza, Tokidoki, Atama no Ue.
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 28: Sekigan no Flashback
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Roommate is a Cat</h4>
+<h4>🌿 <u>English Title:</u> Detective Conan Movie 28: One-Eyed Flashback</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1251/99191.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1036/148145.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Mystery</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Doukyonin wa Hiza, Tokidoki, Atama no Ue.](https://myanimelist.net/anime/38145/Doukyonin_wa_Hiza_Tokidoki_Atama_no_Ue)*
+🍂 *More information: [Meitantei Conan Movie 28: Sekigan no Flashback](https://myanimelist.net/anime/60445/Meitantei_Conan_Movie_28__Sekigan_no_Flashback)*
     
