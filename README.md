@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> High☆Speed! Movie: Free! Starting Days
+  <strong>🥭 <u>Title:</u></strong> Sakamichi no Apollon
 </h4>
 
-<h4>🌿 <u>English Title:</u> Free! Starting Days</h4>
+<h4>🌿 <u>English Title:</u> Kids on the Slope</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/76967.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1604/98654.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 8.29/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Drama, Sports</h4>
+<h4>🌵 Genres: Drama, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [High☆Speed! Movie: Free! Starting Days](https://myanimelist.net/anime/30415/High☆Speed_Movie__Free_Starting_Days)*
+🍂 *More information: [Sakamichi no Apollon](https://myanimelist.net/anime/12531/Sakamichi_no_Apollon)*
     
