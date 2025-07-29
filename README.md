@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Clannad: After Story
+  <strong>🥭 <u>Title:</u></strong> Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Clannad: After Story</h4>
+<h4>🌿 <u>English Title:</u> Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1299/110774.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1134/148744.jpg />
 
-<h4>🌱 Score: 8.93/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Slice of Life, Supernatural</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Clannad: After Story](https://myanimelist.net/anime/4181/Clannad__After_Story)*
+🍂 *More information: [Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu](https://myanimelist.net/anime/59897/Kobayashi-san_Chi_no_Maid_Dragon__Samishigariya_no_Ryuu)*
     
