@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Special A
+  <strong>🥭 <u>Title:</u></strong> Hollowness
 </h4>
 
-<h4>🌿 <u>English Title:</u> Special A (S.A)</h4>
+<h4>🌿 <u>English Title:</u> Hollowness</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/77363.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1656/98599.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2018</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: </h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Special A](https://myanimelist.net/anime/3470/Special_A)*
+🍂 *More information: [Hollowness](https://myanimelist.net/anime/39114/Hollowness)*
     
