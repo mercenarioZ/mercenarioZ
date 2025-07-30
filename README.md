@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Glass no Kamen (2005)
+  <strong>🥭 <u>Title:</u></strong> Special A
 </h4>
 
-<h4>🌿 <u>English Title:</u> Glass Mask</h4>
+<h4>🌿 <u>English Title:</u> Special A (S.A)</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/75061.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/77363.jpg />
 
-<h4>🌱 Score: 8.03/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Drama, Romance</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 51</h4>
+<h4>🥑 Episodes: 24</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Glass no Kamen (2005)](https://myanimelist.net/anime/1974/Glass_no_Kamen_2005)*
+🍂 *More information: [Special A](https://myanimelist.net/anime/3470/Special_A)*
     
