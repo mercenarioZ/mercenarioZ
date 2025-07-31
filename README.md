@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hollowness
+  <strong>🥭 <u>Title:</u></strong> Shen Yin Wangzuo Movie: Yi Lai Ke Si Chuanqi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hollowness</h4>
+<h4>🌿 <u>English Title:</u> Throne of Seal Movie: The Legend of Electrolux</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1656/98599.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1183/149275.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.85/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2018</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Hollowness](https://myanimelist.net/anime/39114/Hollowness)*
+🍂 *More information: [Shen Yin Wangzuo Movie: Yi Lai Ke Si Chuanqi](https://myanimelist.net/anime/61508/Shen_Yin_Wangzuo_Movie__Yi_Lai_Ke_Si_Chuanqi)*
     
