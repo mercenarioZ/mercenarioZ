@@ -46,7 +46,7 @@
 
 <img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1183/149275.jpg />
 
-<h4>🌱 Score: 7.85/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
