@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shen Yin Wangzuo Movie: Yi Lai Ke Si Chuanqi
+  <strong>🥭 <u>Title:</u></strong> Lycoris Recoil: Friends Are Thieves of Time.
 </h4>
 
-<h4>🌿 <u>English Title:</u> Throne of Seal Movie: The Legend of Electrolux</h4>
+<h4>🌿 <u>English Title:</u> Lycoris Recoil: Friends are thieves of time.</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1183/149275.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1314/147593.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 7.73/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
 <h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 6</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shen Yin Wangzuo Movie: Yi Lai Ke Si Chuanqi](https://myanimelist.net/anime/61508/Shen_Yin_Wangzuo_Movie__Yi_Lai_Ke_Si_Chuanqi)*
+🍂 *More information: [Lycoris Recoil: Friends Are Thieves of Time.](https://myanimelist.net/anime/59369/Lycoris_Recoil__Friends_Are_Thieves_of_Time)*
     
