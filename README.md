@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Lycoris Recoil: Friends Are Thieves of Time.
+  <strong>🥭 <u>Title:</u></strong> Da Wang Rao Ming 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Lycoris Recoil: Friends are thieves of time.</h4>
+<h4>🌿 <u>English Title:</u> Spare Me, Great Lord! Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1314/147593.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1749/126734.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 7.6/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Lycoris Recoil: Friends Are Thieves of Time.](https://myanimelist.net/anime/59369/Lycoris_Recoil__Friends_Are_Thieves_of_Time)*
+🍂 *More information: [Da Wang Rao Ming 2](https://myanimelist.net/anime/51898/Da_Wang_Rao_Ming_2)*
     
