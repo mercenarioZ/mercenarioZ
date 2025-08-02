@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Nodame Cantabile
+  <strong>🥭 <u>Title:</u></strong> Saenai Heroine no Sodatekata ♭
 </h4>
 
-<h4>🌿 <u>English Title:</u> Nodame Cantabile</h4>
+<h4>🌿 <u>English Title:</u> Saekano: How to Raise a Boring Girlfriend .flat</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/11986.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/84797.jpg />
 
-<h4>🌱 Score: 8.25/10</h4>
+<h4>🌱 Score: 7.76/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Comedy, Romance, Ecchi</h4>
 
-<h4>🥑 Episodes: 23</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Nodame Cantabile](https://myanimelist.net/anime/1698/Nodame_Cantabile)*
+🍂 *More information: [Saenai Heroine no Sodatekata ♭](https://myanimelist.net/anime/30727/Saenai_Heroine_no_Sodatekata_♭)*
     
