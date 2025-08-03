@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saenai Heroine no Sodatekata ♭
+  <strong>🥭 <u>Title:</u></strong> Sengoku Basara Movie: The Last Party
 </h4>
 
-<h4>🌿 <u>English Title:</u> Saekano: How to Raise a Boring Girlfriend .flat</h4>
+<h4>🌿 <u>English Title:</u> Sengoku Basara - Samurai Kings: The Movie</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/2/84797.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/50871.jpg />
 
-<h4>🌱 Score: 7.76/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Ecchi</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Saenai Heroine no Sodatekata ♭](https://myanimelist.net/anime/30727/Saenai_Heroine_no_Sodatekata_♭)*
+🍂 *More information: [Sengoku Basara Movie: The Last Party](https://myanimelist.net/anime/9745/Sengoku_Basara_Movie__The_Last_Party)*
     
