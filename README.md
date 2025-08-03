@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sengoku Basara Movie: The Last Party
+  <strong>🥭 <u>Title:</u></strong> One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sengoku Basara - Samurai Kings: The Movie</h4>
+<h4>🌿 <u>English Title:</u> One Piece 3D2Y: Overcoming Ace's Death! Luffy's Pledge to His Friends</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/50871.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/64755.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Fantasy</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Sengoku Basara Movie: The Last Party](https://myanimelist.net/anime/9745/Sengoku_Basara_Movie__The_Last_Party)*
+🍂 *More information: [One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai](https://myanimelist.net/anime/25161/One_Piece_3D2Y__Ace_no_shi_wo_Koete_Luffy_Nakama_Tono_Chikai)*
     
