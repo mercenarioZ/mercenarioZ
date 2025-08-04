@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Goku Sayonara Zetsubou Sensei
+  <strong>🥭 <u>Title:</u></strong> Shin Kidou Senki Gundam Wing: Endless Waltz
 </h4>
 
-<h4>🌿 <u>English Title:</u> Goodbye Mr. Despair OAD</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam Wing: Endless Waltz</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/14336.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1724/149786.jpg />
 
-<h4>🌱 Score: 7.81/10</h4>
+<h4>🌱 Score: 7.73/10</h4>
 
 <h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 1997</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Award Winning, Drama, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Goku Sayonara Zetsubou Sensei](https://myanimelist.net/anime/4872/Goku_Sayonara_Zetsubou_Sensei)*
+🍂 *More information: [Shin Kidou Senki Gundam Wing: Endless Waltz](https://myanimelist.net/anime/91/Shin_Kidou_Senki_Gundam_Wing__Endless_Waltz)*
     
