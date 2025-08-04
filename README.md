@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai
+  <strong>🥭 <u>Title:</u></strong> Goku Sayonara Zetsubou Sensei
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece 3D2Y: Overcoming Ace's Death! Luffy's Pledge to His Friends</h4>
+<h4>🌿 <u>English Title:</u> Goodbye Mr. Despair OAD</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/64755.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/14336.jpg />
 
-<h4>🌱 Score: 7.84/10</h4>
+<h4>🌱 Score: 7.81/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai](https://myanimelist.net/anime/25161/One_Piece_3D2Y__Ace_no_shi_wo_Koete_Luffy_Nakama_Tono_Chikai)*
+🍂 *More information: [Goku Sayonara Zetsubou Sensei](https://myanimelist.net/anime/4872/Goku_Sayonara_Zetsubou_Sensei)*
     
