@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shin Kidou Senki Gundam Wing: Endless Waltz
+  <strong>🥭 <u>Title:</u></strong> Hibike! Euphonium
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam Wing: Endless Waltz</h4>
+<h4>🌿 <u>English Title:</u> Sound! Euphonium</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1724/149786.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1517/142072.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 8.02/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1997</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Award Winning, Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shin Kidou Senki Gundam Wing: Endless Waltz](https://myanimelist.net/anime/91/Shin_Kidou_Senki_Gundam_Wing__Endless_Waltz)*
+🍂 *More information: [Hibike! Euphonium](https://myanimelist.net/anime/27989/Hibike_Euphonium)*
     
