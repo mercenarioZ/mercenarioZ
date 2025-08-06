@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> JoJo no Kimyou na Bouken (TV)
+  <strong>🥭 <u>Title:</u></strong> Saraiya Goyou
 </h4>
 
-<h4>🌿 <u>English Title:</u> JoJo's Bizarre Adventure (2012)</h4>
+<h4>🌿 <u>English Title:</u> House of Five Leaves</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/40409.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/75203.jpg />
 
-<h4>🌱 Score: 7.87/10</h4>
+<h4>🌱 Score: 7.75/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2012</h4>
+<h4>🌴 Aired: 2010</h4>
 
-<h4>🌵 Genres: Action, Adventure, Supernatural</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [JoJo no Kimyou na Bouken (TV)](https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV)*
+🍂 *More information: [Saraiya Goyou](https://myanimelist.net/anime/7588/Saraiya_Goyou)*
     
