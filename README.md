@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Saraiya Goyou
+  <strong>🥭 <u>Title:</u></strong> Black Lagoon: The Second Barrage
 </h4>
 
-<h4>🌿 <u>English Title:</u> House of Five Leaves</h4>
+<h4>🌿 <u>English Title:</u> Black Lagoon: The Second Barrage</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/75203.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/83748.jpg />
 
-<h4>🌱 Score: 7.75/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Saraiya Goyou](https://myanimelist.net/anime/7588/Saraiya_Goyou)*
+🍂 *More information: [Black Lagoon: The Second Barrage](https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage)*
     
