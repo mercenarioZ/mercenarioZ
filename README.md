@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran
+  <strong>🥭 <u>Title:</u></strong> Servant x Service
 </h4>
 
-<h4>🌿 <u>English Title:</u> Rurouni Kenshin: Kyoto Disturbance</h4>
+<h4>🌿 <u>English Title:</u> Servant x Service</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1314/145530.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/51579.jpg />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 23</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran](https://myanimelist.net/anime/57554/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Kyoto_Douran)*
+🍂 *More information: [Servant x Service](https://myanimelist.net/anime/18119/Servant_x_Service)*
     
