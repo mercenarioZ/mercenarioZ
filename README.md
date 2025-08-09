@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mankitsu Happening
+  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 06: Baker Street no Bourei
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Case Closed Movie 06: The Phantom of Baker Street</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1478/116399.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1400/94320.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 8.29/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2002</h4>
 
-<h4>🌵 Genres: Hentai</h4>
+<h4>🌵 Genres: Adventure, Mystery</h4>
 
-<h4>🥑 Episodes: 4</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: Rx - Hentai</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Mankitsu Happening](https://myanimelist.net/anime/29575/Mankitsu_Happening)*
+🍂 *More information: [Meitantei Conan Movie 06: Baker Street no Bourei](https://myanimelist.net/anime/1365/Meitantei_Conan_Movie_06__Baker_Street_no_Bourei)*
     
