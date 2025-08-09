@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Meitantei Conan Movie 06: Baker Street no Bourei
+  <strong>🥭 <u>Title:</u></strong> Hanhua Riji 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Case Closed Movie 06: The Phantom of Baker Street</h4>
+<h4>🌿 <u>English Title:</u> God Troubles Me 2nd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1400/94320.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1381/111049.jpg />
 
-<h4>🌱 Score: 8.29/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2002</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Adventure, Mystery</h4>
+<h4>🌵 Genres: Comedy, Slice of Life, Supernatural</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Meitantei Conan Movie 06: Baker Street no Bourei](https://myanimelist.net/anime/1365/Meitantei_Conan_Movie_06__Baker_Street_no_Bourei)*
+🍂 *More information: [Hanhua Riji 2nd Season](https://myanimelist.net/anime/42956/Hanhua_Riji_2nd_Season)*
     
