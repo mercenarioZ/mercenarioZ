@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hanhua Riji 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Ookami Kodomo no Ame to Yuki
 </h4>
 
-<h4>🌿 <u>English Title:</u> God Troubles Me 2nd Season</h4>
+<h4>🌿 <u>English Title:</u> Wolf Children</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1381/111049.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/35721.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 8.56/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2012</h4>
 
-<h4>🌵 Genres: Comedy, Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Award Winning, Slice of Life, Supernatural</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hanhua Riji 2nd Season](https://myanimelist.net/anime/42956/Hanhua_Riji_2nd_Season)*
+🍂 *More information: [Ookami Kodomo no Ame to Yuki](https://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki)*
     
