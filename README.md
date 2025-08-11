@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii: Seifuku
+  <strong>🥭 <u>Title:</u></strong> Quanzhi Gaoshou 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tonikawa: Over The Moon For You - Uniform</h4>
+<h4>🌿 <u>English Title:</u> The King's Avatar 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1085/126580.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1573/109220.jpg />
 
-<h4>🌱 Score: 7.72/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Action</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tonikaku Kawaii: Seifuku](https://myanimelist.net/anime/51533/Tonikaku_Kawaii__Seifuku)*
+🍂 *More information: [Quanzhi Gaoshou 2](https://myanimelist.net/anime/37932/Quanzhi_Gaoshou_2)*
     
