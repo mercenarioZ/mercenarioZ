@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Heikousen
+  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii: Seifuku
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gift</h4>
+<h4>🌿 <u>English Title:</u> Tonikawa: Over The Moon For You - Uniform</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1146/142141.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1085/126580.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.72/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Heikousen](https://myanimelist.net/anime/47402/Heikousen)*
+🍂 *More information: [Tonikaku Kawaii: Seifuku](https://myanimelist.net/anime/51533/Tonikaku_Kawaii__Seifuku)*
     
