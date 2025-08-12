@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Love Live! Superstar!!
+  <strong>🥭 <u>Title:</u></strong> Kamonohashi Ron no Kindan Suiri
 </h4>
 
-<h4>🌿 <u>English Title:</u> Love Live! SuperStar!!</h4>
+<h4>🌿 <u>English Title:</u> Ron Kamonohashi's Forbidden Deductions</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1758/115692.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1799/137123.jpg />
 
-<h4>🌱 Score: 7.92/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Love Live! Superstar!!](https://myanimelist.net/anime/41169/Love_Live_Superstar)*
+🍂 *More information: [Kamonohashi Ron no Kindan Suiri](https://myanimelist.net/anime/53879/Kamonohashi_Ron_no_Kindan_Suiri)*
     
