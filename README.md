@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kamonohashi Ron no Kindan Suiri
+  <strong>🥭 <u>Title:</u></strong> Zombieland Saga Revenge
 </h4>
 
-<h4>🌿 <u>English Title:</u> Ron Kamonohashi's Forbidden Deductions</h4>
+<h4>🌿 <u>English Title:</u> Zombie Land Saga Revenge</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1799/137123.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1118/115156.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.99/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Comedy, Mystery</h4>
+<h4>🌵 Genres: Comedy, Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kamonohashi Ron no Kindan Suiri](https://myanimelist.net/anime/53879/Kamonohashi_Ron_no_Kindan_Suiri)*
+🍂 *More information: [Zombieland Saga Revenge](https://myanimelist.net/anime/40174/Zombieland_Saga_Revenge)*
     
