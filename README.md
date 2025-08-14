@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> IDOLiSH7 Second Beat!
+  <strong>🥭 <u>Title:</u></strong> Yuri!!! on Ice
 </h4>
 
-<h4>🌿 <u>English Title:</u> IDOLiSH7 Second BEAT!</h4>
+<h4>🌿 <u>English Title:</u> Yuri!!! On Ice</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1962/106361.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/81149.jpg />
 
-<h4>🌱 Score: 8.13/10</h4>
+<h4>🌱 Score: 7.9/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Award Winning, Sports</h4>
 
-<h4>🥑 Episodes: 15</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [IDOLiSH7 Second Beat!](https://myanimelist.net/anime/37962/IDOLiSH7_Second_Beat)*
+🍂 *More information: [Yuri!!! on Ice](https://myanimelist.net/anime/32995/Yuri_on_Ice)*
     
