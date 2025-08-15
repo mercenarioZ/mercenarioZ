@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kekkai Sensen
+  <strong>🥭 <u>Title:</u></strong> Bounen no Xamdou
 </h4>
 
-<h4>🌿 <u>English Title:</u> Blood Blockade Battlefront</h4>
+<h4>🌿 <u>English Title:</u> Xam'd: Lost Memories</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1449/142053.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1119/149831.jpg />
 
-<h4>🌱 Score: 7.59/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kekkai Sensen](https://myanimelist.net/anime/24439/Kekkai_Sensen)*
+🍂 *More information: [Bounen no Xamdou](https://myanimelist.net/anime/4177/Bounen_no_Xamdou)*
     
