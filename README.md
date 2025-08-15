@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seikai no Senki III
+  <strong>🥭 <u>Title:</u></strong> Kekkai Sensen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Banner of the Stars III</h4>
+<h4>🌿 <u>English Title:</u> Blood Blockade Battlefront</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/11/2755.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1449/142053.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.59/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2005</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Action, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Seikai no Senki III](https://myanimelist.net/anime/398/Seikai_no_Senki_III)*
+🍂 *More information: [Kekkai Sensen](https://myanimelist.net/anime/24439/Kekkai_Sensen)*
     
