@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Baka to Test to Shoukanjuu
+  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket: Saikou no Present desu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Baka & Test: Summon the Beasts</h4>
+<h4>🌿 <u>English Title:</u> Kuroko’s Basketball: It is the Best Present</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/50389.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/77323.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 8.09/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2010</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Sports</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Baka to Test to Shoukanjuu](https://myanimelist.net/anime/6347/Baka_to_Test_to_Shoukanjuu)*
+🍂 *More information: [Kuroko no Basket: Saikou no Present desu](https://myanimelist.net/anime/31051/Kuroko_no_Basket__Saikou_no_Present_desu)*
     
