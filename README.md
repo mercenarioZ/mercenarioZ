@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Machikado Mazoku: 2-choume
+  <strong>🥭 <u>Title:</u></strong> Wu Shan Wu Xing (2020)
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Demon Girl Next Door 2</h4>
+<h4>🌿 <u>English Title:</u> Fog Hill of Five Elements</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1036/121135.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1141/112764.jpg />
 
-<h4>🌱 Score: 7.84/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Machikado Mazoku: 2-choume](https://myanimelist.net/anime/42745/Machikado_Mazoku__2-choume)*
+🍂 *More information: [Wu Shan Wu Xing (2020)](https://myanimelist.net/anime/37936/Wu_Shan_Wu_Xing_2020)*
     
