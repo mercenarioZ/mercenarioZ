@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kuroko no Basket: Saikou no Present desu
+  <strong>🥭 <u>Title:</u></strong> Machikado Mazoku: 2-choume
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kuroko’s Basketball: It is the Best Present</h4>
+<h4>🌿 <u>English Title:</u> The Demon Girl Next Door 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/77323.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1036/121135.jpg />
 
-<h4>🌱 Score: 8.09/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Sports</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kuroko no Basket: Saikou no Present desu](https://myanimelist.net/anime/31051/Kuroko_no_Basket__Saikou_no_Present_desu)*
+🍂 *More information: [Machikado Mazoku: 2-choume](https://myanimelist.net/anime/42745/Machikado_Mazoku__2-choume)*
     
