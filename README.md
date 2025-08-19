@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hokuto no Ken: Raoh Gaiden Gekitou-hen
+  <strong>🥭 <u>Title:</u></strong> Mushoku Tensei: Isekai Ittara Honki Dasu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fist of the North Star: Raoh Side Story Fierce Fighting Arc</h4>
+<h4>🌿 <u>English Title:</u> Mushoku Tensei: Jobless Reincarnation</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/29678.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1530/117776.jpg />
 
-<h4>🌱 Score: 7.56/10</h4>
+<h4>🌱 Score: 8.35/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Adventure, Romance</h4>
+<h4>🌵 Genres: Adventure, Drama, Fantasy, Ecchi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Hokuto no Ken: Raoh Gaiden Gekitou-hen](https://myanimelist.net/anime/2174/Hokuto_no_Ken__Raoh_Gaiden_Gekitou-hen)*
+🍂 *More information: [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)*
     
