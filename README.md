@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Wu Shan Wu Xing (2020)
+  <strong>🥭 <u>Title:</u></strong> Hokuto no Ken: Raoh Gaiden Gekitou-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fog Hill of Five Elements</h4>
+<h4>🌿 <u>English Title:</u> Fist of the North Star: Raoh Side Story Fierce Fighting Arc</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1141/112764.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/29678.jpg />
 
-<h4>🌱 Score: 7.86/10</h4>
+<h4>🌱 Score: 7.56/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2007</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Romance</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Wu Shan Wu Xing (2020)](https://myanimelist.net/anime/37936/Wu_Shan_Wu_Xing_2020)*
+🍂 *More information: [Hokuto no Ken: Raoh Gaiden Gekitou-hen](https://myanimelist.net/anime/2174/Hokuto_no_Ken__Raoh_Gaiden_Gekitou-hen)*
     
