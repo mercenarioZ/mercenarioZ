@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yojouhan Time Machine Blues
+  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Tatami Time Machine Blues</h4>
+<h4>🌿 <u>English Title:</u> Tonikawa: Over The Moon For You Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1583/126128.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1996/133361.jpg />
 
-<h4>🌱 Score: 8.18/10</h4>
+<h4>🌱 Score: 7.62/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy, Mystery, Romance, Suspense</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yojouhan Time Machine Blues](https://myanimelist.net/anime/49590/Yojouhan_Time_Machine_Blues)*
+🍂 *More information: [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime/50307/Tonikaku_Kawaii_2nd_Season)*
     
