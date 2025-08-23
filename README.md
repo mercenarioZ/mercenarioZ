@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime
+  <strong>🥭 <u>Title:</u></strong> Yojouhan Time Machine Blues
 </h4>
 
-<h4>🌿 <u>English Title:</u> Monogatari Series: Off & Monster Season - A Cruel Fairy Tale: The Beautiful Princess</h4>
+<h4>🌿 <u>English Title:</u> The Tatami Time Machine Blues</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1887/144936.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1583/126128.jpg />
 
-<h4>🌱 Score: 7.73/10</h4>
+<h4>🌱 Score: 8.18/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Mystery, Supernatural, Suspense</h4>
+<h4>🌵 Genres: Comedy, Mystery, Romance, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 6</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime](https://myanimelist.net/anime/59612/Monogatari_Series__Off___Monster_Season_-_Zankoku_Douwa__Utsukushi-hime)*
+🍂 *More information: [Yojouhan Time Machine Blues](https://myanimelist.net/anime/49590/Yojouhan_Time_Machine_Blues)*
     
