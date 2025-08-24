@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tonikaku Kawaii 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Sekaiichi Hatsukoi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Tonikawa: Over The Moon For You Season 2</h4>
+<h4>🌿 <u>English Title:</u> Sekai Ichi Hatsukoi - World's Greatest First Love</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1996/133361.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/29763.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.61/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Comedy, Romance</h4>
+<h4>🌵 Genres: Boys Love</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Tonikaku Kawaii 2nd Season](https://myanimelist.net/anime/50307/Tonikaku_Kawaii_2nd_Season)*
+🍂 *More information: [Sekaiichi Hatsukoi](https://myanimelist.net/anime/9926/Sekaiichi_Hatsukoi)*
     
