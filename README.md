@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sekaiichi Hatsukoi
+  <strong>🥭 <u>Title:</u></strong> Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
 </h4>
 
-<h4>🌿 <u>English Title:</u> Sekai Ichi Hatsukoi - World's Greatest First Love</h4>
+<h4>🌿 <u>English Title:</u> Clevatess</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/29763.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1255/150593.jpg />
 
-<h4>🌱 Score: 7.61/10</h4>
+<h4>🌱 Score: 7.88/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Boys Love</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Sekaiichi Hatsukoi](https://myanimelist.net/anime/9926/Sekaiichi_Hatsukoi)*
+🍂 *More information: [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205/Clevatess__Majuu_no_Ou_to_Akago_to_Shikabane_no_Yuusha)*
     
