@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
+  <strong>🥭 <u>Title:</u></strong> Motokare to wa Dekinakatta Sex Shitemo Ii desu ka?
 </h4>
 
-<h4>🌿 <u>English Title:</u> Clevatess</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1255/150593.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1260/149990.jpg />
 
-<h4>🌱 Score: 7.88/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
 <h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Hentai</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: Rx - Hentai</h4>
 
 <br />
 
-🍂 *More information: [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205/Clevatess__Majuu_no_Ou_to_Akago_to_Shikabane_no_Yuusha)*
+🍂 *More information: [Motokare to wa Dekinakatta Sex Shitemo Ii desu ka?](https://myanimelist.net/anime/60993/Motokare_to_wa_Dekinakatta_Sex_Shitemo_Ii_desu_ka)*
     
