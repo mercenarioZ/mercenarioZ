@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Skip to Loafer
+  <strong>🥭 <u>Title:</u></strong> Magi: Sinbad no Bouken (TV)
 </h4>
 
-<h4>🌿 <u>English Title:</u> Skip and Loafer</h4>
+<h4>🌿 <u>English Title:</u> Magi: Adventure of Sinbad</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1518/138730.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/78783.jpg />
 
-<h4>🌱 Score: 8.11/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2016</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 13</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Skip to Loafer](https://myanimelist.net/anime/50416/Skip_to_Loafer)*
+🍂 *More information: [Magi: Sinbad no Bouken (TV)](https://myanimelist.net/anime/31741/Magi__Sinbad_no_Bouken_TV)*
     
