@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Magi: Sinbad no Bouken (TV)
+  <strong>🥭 <u>Title:</u></strong> Totsukuni no Shoujo
 </h4>
 
-<h4>🌿 <u>English Title:</u> Magi: Adventure of Sinbad</h4>
+<h4>🌿 <u>English Title:</u> The Girl From the Other Side: Siúil, a Rún</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/78783.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1675/104684.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.57/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2016</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Supernatural</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Magi: Sinbad no Bouken (TV)](https://myanimelist.net/anime/31741/Magi__Sinbad_no_Bouken_TV)*
+🍂 *More information: [Totsukuni no Shoujo](https://myanimelist.net/anime/39495/Totsukuni_no_Shoujo)*
     
