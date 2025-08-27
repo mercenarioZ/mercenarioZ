@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Totsukuni no Shoujo
+  <strong>🥭 <u>Title:</u></strong> City Hunter
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Girl From the Other Side: Siúil, a Rún</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1675/104684.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/20587.jpg />
 
-<h4>🌱 Score: 7.57/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 1987</h4>
 
-<h4>🌵 Genres: Supernatural</h4>
+<h4>🌵 Genres: Action, Comedy, Mystery</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 51</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Totsukuni no Shoujo](https://myanimelist.net/anime/39495/Totsukuni_no_Shoujo)*
+🍂 *More information: [City Hunter](https://myanimelist.net/anime/1470/City_Hunter)*
     
