@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> City Hunter
+  <strong>🥭 <u>Title:</u></strong> Space Cobra
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Space Adventure Cobra</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/20587.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/41437.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 1987</h4>
+<h4>🌴 Aired: 1982</h4>
 
-<h4>🌵 Genres: Action, Comedy, Mystery</h4>
+<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 51</h4>
+<h4>🥑 Episodes: 31</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [City Hunter](https://myanimelist.net/anime/1470/City_Hunter)*
+🍂 *More information: [Space Cobra](https://myanimelist.net/anime/2451/Space_Cobra)*
     
