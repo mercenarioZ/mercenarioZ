@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Space Cobra
+  <strong>🥭 <u>Title:</u></strong> Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage
 </h4>
 
-<h4>🌿 <u>English Title:</u> Space Adventure Cobra</h4>
+<h4>🌿 <u>English Title:</u> KonoSuba: God's Blessing on This Wonderful World! 3 OVA</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/41437.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1482/146928.jpg />
 
-<h4>🌱 Score: 7.67/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1982</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
 
-<h4>🥑 Episodes: 31</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Space Cobra](https://myanimelist.net/anime/2451/Space_Cobra)*
+🍂 *More information: [Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage](https://myanimelist.net/anime/59833/Kono_Subarashii_Sekai_ni_Shukufuku_wo_3__Bonus_Stage)*
     
