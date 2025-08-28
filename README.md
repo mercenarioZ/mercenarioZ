@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage
+  <strong>🥭 <u>Title:</u></strong> Psycho-Pass 3: First Inspector
 </h4>
 
-<h4>🌿 <u>English Title:</u> KonoSuba: God's Blessing on This Wonderful World! 3 OVA</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1482/146928.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1085/110722.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Adventure, Comedy, Fantasy</h4>
+<h4>🌵 Genres: Action, Mystery, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 3</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage](https://myanimelist.net/anime/59833/Kono_Subarashii_Sekai_ni_Shukufuku_wo_3__Bonus_Stage)*
+🍂 *More information: [Psycho-Pass 3: First Inspector](https://myanimelist.net/anime/40858/Psycho-Pass_3__First_Inspector)*
     
