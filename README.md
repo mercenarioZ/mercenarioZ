@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Psycho-Pass 3: First Inspector
+  <strong>🥭 <u>Title:</u></strong> Natsume Yuujinchou Roku Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Natsume's Book of Friends Season 6 Specials</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1085/110722.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/87615.jpg />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: 8.4/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Action, Mystery, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Slice of Life, Supernatural</h4>
 
-<h4>🥑 Episodes: 3</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Psycho-Pass 3: First Inspector](https://myanimelist.net/anime/40858/Psycho-Pass_3__First_Inspector)*
+🍂 *More information: [Natsume Yuujinchou Roku Specials](https://myanimelist.net/anime/36275/Natsume_Yuujinchou_Roku_Specials)*
     
