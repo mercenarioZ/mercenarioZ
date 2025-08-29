@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Natsume Yuujinchou Roku Specials
+  <strong>🥭 <u>Title:</u></strong> One Piece: Gyojin Tou-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Natsume's Book of Friends Season 6 Specials</h4>
+<h4>🌿 <u>English Title:</u> One Piece Log: Fish-Man Island Saga</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/87615.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1928/146063.jpg />
 
-<h4>🌱 Score: 8.4/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Slice of Life, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 21</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Natsume Yuujinchou Roku Specials](https://myanimelist.net/anime/36275/Natsume_Yuujinchou_Roku_Specials)*
+🍂 *More information: [One Piece: Gyojin Tou-hen](https://myanimelist.net/anime/60108/One_Piece__Gyojin_Tou-hen)*
     
