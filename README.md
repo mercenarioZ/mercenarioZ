@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> One Piece: Gyojin Tou-hen
+  <strong>🥭 <u>Title:</u></strong> Ping Pong the Animation
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Piece Log: Fish-Man Island Saga</h4>
+<h4>🌿 <u>English Title:</u> Ping Pong the Animation</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1928/146063.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1586/146565.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 8.62/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Award Winning, Drama, Sports</h4>
 
-<h4>🥑 Episodes: 21</h4>
+<h4>🥑 Episodes: 11</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [One Piece: Gyojin Tou-hen](https://myanimelist.net/anime/60108/One_Piece__Gyojin_Tou-hen)*
+🍂 *More information: [Ping Pong the Animation](https://myanimelist.net/anime/22135/Ping_Pong_the_Animation)*
     
