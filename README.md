@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Spy x Family Season 2
+  <strong>🥭 <u>Title:</u></strong> Hanasaku Iroha Movie: Home Sweet Home
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Hanasaku Iroha the Movie: Home Sweet Home</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1506/138982.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/70701.jpg />
 
-<h4>🌱 Score: 8.06/10</h4>
+<h4>🌱 Score: 7.83/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2013</h4>
 
-<h4>🌵 Genres: Action, Comedy</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Spy x Family Season 2](https://myanimelist.net/anime/53887/Spy_x_Family_Season_2)*
+🍂 *More information: [Hanasaku Iroha Movie: Home Sweet Home](https://myanimelist.net/anime/14175/Hanasaku_Iroha_Movie__Home_Sweet_Home)*
     
