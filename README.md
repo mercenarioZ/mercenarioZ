@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Tentai Senshi Sunred 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Spy x Family Season 2
 </h4>
 
 <h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/15051.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1506/138982.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 8.06/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Tentai Senshi Sunred 2nd Season](https://myanimelist.net/anime/6582/Tentai_Senshi_Sunred_2nd_Season)*
+🍂 *More information: [Spy x Family Season 2](https://myanimelist.net/anime/53887/Spy_x_Family_Season_2)*
     
