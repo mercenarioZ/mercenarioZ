@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shiroi Suna no Aquatope
+  <strong>🥭 <u>Title:</u></strong> Shoujo Kakumei Utena: Adolescence Mokushiroku
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Aquatope on White Sand</h4>
+<h4>🌿 <u>English Title:</u> Revolutionary Girl Utena: The Adolescence of Utena</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1932/114952.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1268/107516.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 1999</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Avant Garde, Drama, Girls Love</h4>
 
-<h4>🥑 Episodes: 24</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Shiroi Suna no Aquatope](https://myanimelist.net/anime/46093/Shiroi_Suna_no_Aquatope)*
+🍂 *More information: [Shoujo Kakumei Utena: Adolescence Mokushiroku](https://myanimelist.net/anime/441/Shoujo_Kakumei_Utena__Adolescence_Mokushiroku)*
     
