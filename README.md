@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Hanasaku Iroha Movie: Home Sweet Home
+  <strong>🥭 <u>Title:</u></strong> Shiroi Suna no Aquatope
 </h4>
 
-<h4>🌿 <u>English Title:</u> Hanasaku Iroha the Movie: Home Sweet Home</h4>
+<h4>🌿 <u>English Title:</u> The Aquatope on White Sand</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/70701.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1932/114952.jpg />
 
-<h4>🌱 Score: 7.83/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2013</h4>
+<h4>🌴 Aired: 2021</h4>
 
 <h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Hanasaku Iroha Movie: Home Sweet Home](https://myanimelist.net/anime/14175/Hanasaku_Iroha_Movie__Home_Sweet_Home)*
+🍂 *More information: [Shiroi Suna no Aquatope](https://myanimelist.net/anime/46093/Shiroi_Suna_no_Aquatope)*
     
