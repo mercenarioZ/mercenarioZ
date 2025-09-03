@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Maria-sama ga Miteru 4th
+  <strong>🥭 <u>Title:</u></strong> Grand Blue Season 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Maria Watches Over Us Season 4</h4>
+<h4>🌿 <u>English Title:</u> Grand Blue Dreaming Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/4/75206.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1108/150583.jpg />
 
-<h4>🌱 Score: 7.74/10</h4>
+<h4>🌱 Score: 8.67/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2009</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Drama, Girls Love</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Maria-sama ga Miteru 4th](https://myanimelist.net/anime/3750/Maria-sama_ga_Miteru_4th)*
+🍂 *More information: [Grand Blue Season 2](https://myanimelist.net/anime/59986/Grand_Blue_Season_2)*
     
