@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Atarashii Joushi wa Do Tennen
+  <strong>🥭 <u>Title:</u></strong> Fantastic Children
 </h4>
 
-<h4>🌿 <u>English Title:</u> My New Boss Is Goofy</h4>
+<h4>🌿 <u>English Title:</u> Fantastic Children</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1630/138388.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/77062.jpg />
 
-<h4>🌱 Score: 7.91/10</h4>
+<h4>🌱 Score: 7.49/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2004</h4>
 
-<h4>🌵 Genres: Slice of Life</h4>
+<h4>🌵 Genres: Adventure, Fantasy, Mystery, Romance, Sci-Fi, Suspense</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 26</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Atarashii Joushi wa Do Tennen](https://myanimelist.net/anime/55310/Atarashii_Joushi_wa_Do_Tennen)*
+🍂 *More information: [Fantastic Children](https://myanimelist.net/anime/455/Fantastic_Children)*
     
