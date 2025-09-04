@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Grand Blue Season 2
+  <strong>🥭 <u>Title:</u></strong> Atarashii Joushi wa Do Tennen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Grand Blue Dreaming Season 2</h4>
+<h4>🌿 <u>English Title:</u> My New Boss Is Goofy</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1108/150583.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1630/138388.jpg />
 
-<h4>🌱 Score: 8.67/10</h4>
+<h4>🌱 Score: 7.91/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Slice of Life</h4>
 
 <h4>🥑 Episodes: 12</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Grand Blue Season 2](https://myanimelist.net/anime/59986/Grand_Blue_Season_2)*
+🍂 *More information: [Atarashii Joushi wa Do Tennen](https://myanimelist.net/anime/55310/Atarashii_Joushi_wa_Do_Tennen)*
     
