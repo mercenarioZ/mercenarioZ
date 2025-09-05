@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fantastic Children
+  <strong>🥭 <u>Title:</u></strong> Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fantastic Children</h4>
+<h4>🌿 <u>English Title:</u> Clevatess</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/9/77062.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1255/150593.jpg />
 
-<h4>🌱 Score: 7.49/10</h4>
+<h4>🌱 Score: 7.86/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2004</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Adventure, Fantasy, Mystery, Romance, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 12</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Fantastic Children](https://myanimelist.net/anime/455/Fantastic_Children)*
+🍂 *More information: [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205/Clevatess__Majuu_no_Ou_to_Akago_to_Shikabane_no_Yuusha)*
     
