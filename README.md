@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Heroic Age
+  <strong>🥭 <u>Title:</u></strong> Kill la Kill Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Heroic Age</h4>
+<h4>🌿 <u>English Title:</u> Kill la Kill Specials</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/12/50435.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1964/122317.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.67/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 2007</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Action, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Comedy, Fantasy, Ecchi</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Heroic Age](https://myanimelist.net/anime/2002/Heroic_Age)*
+🍂 *More information: [Kill la Kill Specials](https://myanimelist.net/anime/21659/Kill_la_Kill_Specials)*
     
