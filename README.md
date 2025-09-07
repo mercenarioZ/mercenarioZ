@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Urusei Yatsura 2: Beautiful Dreamer
+  <strong>🥭 <u>Title:</u></strong> Kyou kara Ore wa!!
 </h4>
 
-<h4>🌿 <u>English Title:</u> Urusei Yatsura Movie 2: Beautiful Dreamer</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1999/98665.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1042/110294.jpg />
 
-<h4>🌱 Score: 7.84/10</h4>
+<h4>🌱 Score: 8.05/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1984</h4>
+<h4>🌴 Aired: 1993</h4>
 
-<h4>🌵 Genres: Action, Adventure, Comedy, Drama, Romance, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Comedy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 10</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Urusei Yatsura 2: Beautiful Dreamer](https://myanimelist.net/anime/1921/Urusei_Yatsura_2__Beautiful_Dreamer)*
+🍂 *More information: [Kyou kara Ore wa!!](https://myanimelist.net/anime/851/Kyou_kara_Ore_wa)*
     
