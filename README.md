@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Veil (July 2019)
+  <strong>🥭 <u>Title:</u></strong> Urusei Yatsura 2: Beautiful Dreamer
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Urusei Yatsura Movie 2: Beautiful Dreamer</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1808/139193.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1999/98665.jpg />
 
-<h4>🌱 Score: 7.63/10</h4>
+<h4>🌱 Score: 7.84/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 1984</h4>
 
-<h4>🌵 Genres: </h4>
+<h4>🌵 Genres: Action, Adventure, Comedy, Drama, Romance, Sci-Fi</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Veil (July 2019)](https://myanimelist.net/anime/56949/Veil_July_2019)*
+🍂 *More information: [Urusei Yatsura 2: Beautiful Dreamer](https://myanimelist.net/anime/1921/Urusei_Yatsura_2__Beautiful_Dreamer)*
     
