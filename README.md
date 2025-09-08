@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Bounen no Xamdou
+  <strong>🥭 <u>Title:</u></strong> Dadao Chaotian
 </h4>
 
-<h4>🌿 <u>English Title:</u> Xam'd: Lost Memories</h4>
+<h4>🌿 <u>English Title:</u> One Way or Another</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1119/149831.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1887/145696.jpg />
 
-<h4>🌱 Score: 7.62/10</h4>
+<h4>🌱 Score: 7.54/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Sci-Fi</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 26</h4>
+<h4>🥑 Episodes: 16</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Bounen no Xamdou](https://myanimelist.net/anime/4177/Bounen_no_Xamdou)*
+🍂 *More information: [Dadao Chaotian](https://myanimelist.net/anime/59916/Dadao_Chaotian)*
     
