@@ -39,20 +39,20 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Dadao Chaotian
+  <strong>🥭 <u>Title:</u></strong> Xiuluo Wushen
 </h4>
 
-<h4>🌿 <u>English Title:</u> One Way or Another</h4>
+<h4>🌿 <u>English Title:</u> Martial God Asura</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1887/145696.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1949/126777.jpg />
 
-<h4>🌱 Score: 7.54/10</h4>
+<h4>🌱 Score: 7.5/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2024</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action, Fantasy</h4>
 
 <h4>🥑 Episodes: 16</h4>
 
@@ -60,5 +60,5 @@
 
 <br />
 
-🍂 *More information: [Dadao Chaotian](https://myanimelist.net/anime/59916/Dadao_Chaotian)*
+🍂 *More information: [Xiuluo Wushen](https://myanimelist.net/anime/49742/Xiuluo_Wushen)*
     
