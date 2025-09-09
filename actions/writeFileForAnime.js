@@ -40,7 +40,7 @@ export const writeFileForAnime = (data) => {
 
 <blockquote>
 <i>
-<q>These information about a random anime will be automatically updated every 8 hours. Hope you enjoy!</q> - GitHub Actions
+<q>These information about a random anime will be automatically updated every week. Hope you enjoy!</q> - GitHub Actions
 </i>
 </blockquote>
 
