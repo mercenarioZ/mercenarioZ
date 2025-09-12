@@ -34,31 +34,31 @@
 
 <blockquote>
 <i>
-<q>These information about a random anime will be automatically updated every 8 hours. Hope you enjoy!</q> - GitHub Actions
+<q>These information about a random anime will be automatically updated every week. Hope you enjoy!</q> - GitHub Actions
 </i>
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Xiuluo Wushen
+  <strong>🥭 <u>Title:</u></strong> Seto no Hanayome OVA
 </h4>
 
-<h4>🌿 <u>English Title:</u> Martial God Asura</h4>
+<h4>🌿 <u>English Title:</u> My Bride is a Mermaid OVA</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1949/126777.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/22426.jpg />
 
-<h4>🌱 Score: 7.5/10</h4>
+<h4>🌱 Score: 7.8/10</h4>
 
-<h4>🌲 Type: ONA</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2008</h4>
 
-<h4>🌵 Genres: Action, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
 
-<h4>🥑 Episodes: 16</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Xiuluo Wushen](https://myanimelist.net/anime/49742/Xiuluo_Wushen)*
+🍂 *More information: [Seto no Hanayome OVA](https://myanimelist.net/anime/4163/Seto_no_Hanayome_OVA)*
     
