@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Seto no Hanayome OVA
+  <strong>🥭 <u>Title:</u></strong> Xingchen Bian 6th Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> My Bride is a Mermaid OVA</h4>
+<h4>🌿 <u>English Title:</u> Stellar Transformation 6th Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/22426.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1662/150035.jpg />
 
-<h4>🌱 Score: 7.8/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2008</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Comedy, Romance, Supernatural</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 28</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Seto no Hanayome OVA](https://myanimelist.net/anime/4163/Seto_no_Hanayome_OVA)*
+🍂 *More information: [Xingchen Bian 6th Season](https://myanimelist.net/anime/60787/Xingchen_Bian_6th_Season)*
     
