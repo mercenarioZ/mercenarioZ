@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Xingchen Bian 6th Season
+  <strong>🥭 <u>Title:</u></strong> Cang Yuan Tu 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Stellar Transformation 6th Season</h4>
+<h4>🌿 <u>English Title:</u> The Demon Hunter 2nd Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1662/150035.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1609/150081.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 8.12/10</h4>
 
 <h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy, Romance</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 28</h4>
+<h4>🥑 Episodes: 36</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Xingchen Bian 6th Season](https://myanimelist.net/anime/60787/Xingchen_Bian_6th_Season)*
+🍂 *More information: [Cang Yuan Tu 2nd Season](https://myanimelist.net/anime/60420/Cang_Yuan_Tu_2nd_Season)*
     
