@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Durarara!!x2 Ten
+  <strong>🥭 <u>Title:</u></strong> Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai
 </h4>
 
-<h4>🌿 <u>English Title:</u> Durarara!! x2 Ten</h4>
+<h4>🌿 <u>English Title:</u> Kaguya-sama: Love is War -The First Kiss That Never Ends-</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/8/74981.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1670/130060.jpg />
 
-<h4>🌱 Score: 7.96/10</h4>
+<h4>🌱 Score: 8.73/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2022</h4>
 
-<h4>🌵 Genres: Action, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Comedy, Drama, Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Durarara!!x2 Ten](https://myanimelist.net/anime/27831/Durararax2_Ten)*
+🍂 *More information: [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://myanimelist.net/anime/52198/Kaguya-sama_wa_Kokurasetai__First_Kiss_wa_Owaranai)*
     
