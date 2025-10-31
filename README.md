@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai
+  <strong>🥭 <u>Title:</u></strong> Nisekoi
 </h4>
 
-<h4>🌿 <u>English Title:</u> Kaguya-sama: Love is War -The First Kiss That Never Ends-</h4>
+<h4>🌿 <u>English Title:</u> Nisekoi: False Love</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1670/130060.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/13/75587.jpg />
 
-<h4>🌱 Score: 8.73/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2022</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Romance</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 20</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://myanimelist.net/anime/52198/Kaguya-sama_wa_Kokurasetai__First_Kiss_wa_Owaranai)*
+🍂 *More information: [Nisekoi](https://myanimelist.net/anime/18897/Nisekoi)*
     
