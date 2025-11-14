@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Ao no Exorcist: Yosuga-hen
+  <strong>🥭 <u>Title:</u></strong> Heikousen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Blue Exorcist: The Blue Night Saga</h4>
+<h4>🌿 <u>English Title:</u> Gift</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1390/147040.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1146/142141.jpg />
 
-<h4>🌱 Score: 8/10</h4>
+<h4>🌱 Score: 7.69/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Music</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Action, Supernatural</h4>
+<h4>🌵 Genres: Romance</h4>
 
-<h4>🥑 Episodes: 12</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Ao no Exorcist: Yosuga-hen](https://myanimelist.net/anime/59226/Ao_no_Exorcist__Yosuga-hen)*
+🍂 *More information: [Heikousen](https://myanimelist.net/anime/47402/Heikousen)*
     
