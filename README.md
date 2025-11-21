@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Heikousen
+  <strong>🥭 <u>Title:</u></strong> Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gift</h4>
+<h4>🌿 <u>English Title:</u> Psycho-Pass: Sinners of the System Case.3 - On the Other Side of Love and Hate</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1146/142141.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1819/97220.jpg />
 
-<h4>🌱 Score: 7.69/10</h4>
+<h4>🌱 Score: 7.71/10</h4>
 
-<h4>🌲 Type: Music</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2019</h4>
 
-<h4>🌵 Genres: Romance</h4>
+<h4>🌵 Genres: Action, Mystery, Sci-Fi, Suspense</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R+ - Mild Nudity</h4>
 
 <br />
 
-🍂 *More information: [Heikousen](https://myanimelist.net/anime/47402/Heikousen)*
+🍂 *More information: [Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿](https://myanimelist.net/anime/37442/Psycho-Pass__Sinners_of_the_System_Case3_-_Onshuu_no_Kanata_ni＿＿)*
     
