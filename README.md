@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿
+  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam
 </h4>
 
-<h4>🌿 <u>English Title:</u> Psycho-Pass: Sinners of the System Case.3 - On the Other Side of Love and Hate</h4>
+<h4>🌿 <u>English Title:</u> Mobile Suit Gundam</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1819/97220.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/88524.jpg />
 
-<h4>🌱 Score: 7.71/10</h4>
+<h4>🌱 Score: 7.77/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2019</h4>
+<h4>🌴 Aired: 1979</h4>
 
-<h4>🌵 Genres: Action, Mystery, Sci-Fi, Suspense</h4>
+<h4>🌵 Genres: Drama, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 43</h4>
 
-<h4>🍏 Rating: R+ - Mild Nudity</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿](https://myanimelist.net/anime/37442/Psycho-Pass__Sinners_of_the_System_Case3_-_Onshuu_no_Kanata_ni＿＿)*
+🍂 *More information: [Kidou Senshi Gundam](https://myanimelist.net/anime/80/Kidou_Senshi_Gundam)*
     
