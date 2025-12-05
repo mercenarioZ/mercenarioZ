@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam
+  <strong>🥭 <u>Title:</u></strong> Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/5/88524.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/66057.jpg />
 
-<h4>🌱 Score: 7.77/10</h4>
+<h4>🌱 Score: 7.55/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: OVA</h4>
 
-<h4>🌴 Aired: 1979</h4>
+<h4>🌴 Aired: 2015</h4>
 
-<h4>🌵 Genres: Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Drama</h4>
 
-<h4>🥑 Episodes: 43</h4>
+<h4>🥑 Episodes: 2</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam](https://myanimelist.net/anime/80/Kidou_Senshi_Gundam)*
+🍂 *More information: [Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen](https://myanimelist.net/anime/25801/Shouwa_Genroku_Rakugo_Shinjuu__Yotarou_Hourou-hen)*
     
