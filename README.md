@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen
+  <strong>🥭 <u>Title:</u></strong> Cheng He Titong
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> How Dare You!?</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/7/66057.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1198/153843.jpg />
 
-<h4>🌱 Score: 7.55/10</h4>
+<h4>🌱 Score: 7.95/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2015</h4>
+<h4>🌴 Aired: 2024</h4>
 
-<h4>🌵 Genres: Drama</h4>
+<h4>🌵 Genres: Comedy, Romance</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 24</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen](https://myanimelist.net/anime/25801/Shouwa_Genroku_Rakugo_Shinjuu__Yotarou_Hourou-hen)*
+🍂 *More information: [Cheng He Titong](https://myanimelist.net/anime/59001/Cheng_He_Titong)*
     
