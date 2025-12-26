@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kidou Senshi Gundam 0080: Pocket no Naka no Sensou
+  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: The Final Season Specials
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mobile Suit Gundam 0080: War in the Pocket</h4>
+<h4>🌿 <u>English Title:</u> Attack on Titan: Chibi Theater - Survey Corps, The Final!</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1839/92857.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1470/117265.jpg />
 
-<h4>🌱 Score: 8/10</h4>
+<h4>🌱 Score: 7.68/10</h4>
 
-<h4>🌲 Type: OVA</h4>
+<h4>🌲 Type: Special</h4>
 
-<h4>🌴 Aired: 1989</h4>
+<h4>🌴 Aired: 2021</h4>
 
-<h4>🌵 Genres: Drama, Sci-Fi</h4>
+<h4>🌵 Genres: Comedy</h4>
 
-<h4>🥑 Episodes: 6</h4>
+<h4>🥑 Episodes: 2</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Kidou Senshi Gundam 0080: Pocket no Naka no Sensou](https://myanimelist.net/anime/82/Kidou_Senshi_Gundam_0080__Pocket_no_Naka_no_Sensou)*
+🍂 *More information: [Shingeki no Kyojin: The Final Season Specials](https://myanimelist.net/anime/49627/Shingeki_no_Kyojin__The_Final_Season_Specials)*
     
