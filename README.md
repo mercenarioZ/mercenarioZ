@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Shingeki no Kyojin: The Final Season Specials
+  <strong>🥭 <u>Title:</u></strong> Hokkyoku Hyakkaten no Concierge-san
 </h4>
 
-<h4>🌿 <u>English Title:</u> Attack on Titan: Chibi Theater - Survey Corps, The Final!</h4>
+<h4>🌿 <u>English Title:</u> The Concierge</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1470/117265.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1736/137966.jpg />
 
-<h4>🌱 Score: 7.68/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
-<h4>🌲 Type: Special</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2021</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Comedy</h4>
+<h4>🌵 Genres: Fantasy, Slice of Life</h4>
 
-<h4>🥑 Episodes: 2</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Shingeki no Kyojin: The Final Season Specials](https://myanimelist.net/anime/49627/Shingeki_no_Kyojin__The_Final_Season_Specials)*
+🍂 *More information: [Hokkyoku Hyakkaten no Concierge-san](https://myanimelist.net/anime/55115/Hokkyoku_Hyakkaten_no_Concierge-san)*
     
