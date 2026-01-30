@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Fairy Tail (2014)
+  <strong>🥭 <u>Title:</u></strong> Owarimonogatari 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Fairy Tail Series 2</h4>
+<h4>🌿 <u>English Title:</u> Owarimonogatari Second Season</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/3/60551.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/87322.jpg />
 
-<h4>🌱 Score: 7.66/10</h4>
+<h4>🌱 Score: 8.86/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: TV Special</h4>
 
-<h4>🌴 Aired: 2014</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Comedy, Mystery, Supernatural</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
+<h4>🥑 Episodes: 7</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Fairy Tail (2014)](https://myanimelist.net/anime/22043/Fairy_Tail_2014)*
+🍂 *More information: [Owarimonogatari 2nd Season](https://myanimelist.net/anime/35247/Owarimonogatari_2nd_Season)*
     
