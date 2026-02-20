@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Owarimonogatari 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Silent Witch: Chinmoku no Majo no Kakushigoto
 </h4>
 
-<h4>🌿 <u>English Title:</u> Owarimonogatari Second Season</h4>
+<h4>🌿 <u>English Title:</u> Secrets of the Silent Witch</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/6/87322.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1669/149732.jpg />
 
-<h4>🌱 Score: 8.86/10</h4>
+<h4>🌱 Score: 8.11/10</h4>
 
-<h4>🌲 Type: TV Special</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2025</h4>
 
-<h4>🌵 Genres: Comedy, Mystery, Supernatural</h4>
+<h4>🌵 Genres: Fantasy</h4>
 
-<h4>🥑 Episodes: 7</h4>
+<h4>🥑 Episodes: 13</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Owarimonogatari 2nd Season](https://myanimelist.net/anime/35247/Owarimonogatari_2nd_Season)*
+🍂 *More information: [Silent Witch: Chinmoku no Majo no Kakushigoto](https://myanimelist.net/anime/59459/Silent_Witch__Chinmoku_no_Majo_no_Kakushigoto)*
     
