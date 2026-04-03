@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Silent Witch: Chinmoku no Majo no Kakushigoto
+  <strong>🥭 <u>Title:</u></strong> Overlord Movie 2: Shikkoku no Eiyuu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Secrets of the Silent Witch</h4>
+<h4>🌿 <u>English Title:</u> Overlord: The Dark Hero</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1669/149732.jpg />
+<img align="right" width="170" src=https://myanimelist.net/images/anime/5/87758.jpg />
 
-<h4>🌱 Score: 8.11/10</h4>
+<h4>🌱 Score: 7.7/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2017</h4>
 
-<h4>🌵 Genres: Fantasy</h4>
+<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Silent Witch: Chinmoku no Majo no Kakushigoto](https://myanimelist.net/anime/59459/Silent_Witch__Chinmoku_no_Majo_no_Kakushigoto)*
+🍂 *More information: [Overlord Movie 2: Shikkoku no Eiyuu](https://myanimelist.net/anime/34428/Overlord_Movie_2__Shikkoku_no_Eiyuu)*
     
