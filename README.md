@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Overlord Movie 2: Shikkoku no Eiyuu
+  <strong>🥭 <u>Title:</u></strong> Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana
 </h4>
 
-<h4>🌿 <u>English Title:</u> Overlord: The Dark Hero</h4>
+<h4>🌿 <u>English Title:</u> null</h4>
 
-<img align="right" width="170" src=https://myanimelist.net/images/anime/5/87758.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1539/94597.jpg />
 
-<h4>🌱 Score: 7.7/10</h4>
+<h4>🌱 Score: 7.51/10</h4>
 
 <h4>🌲 Type: Movie</h4>
 
-<h4>🌴 Aired: 2017</h4>
+<h4>🌴 Aired: 2011</h4>
 
-<h4>🌵 Genres: Action, Adventure, Fantasy</h4>
+<h4>🌵 Genres: Action</h4>
 
 <h4>🥑 Episodes: 1</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: G - All Ages</h4>
 
 <br />
 
-🍂 *More information: [Overlord Movie 2: Shikkoku no Eiyuu](https://myanimelist.net/anime/34428/Overlord_Movie_2__Shikkoku_no_Eiyuu)*
+🍂 *More information: [Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana](https://myanimelist.net/anime/9979/Precure_All_Stars_Movie_DX3__Mirai_ni_Todoke_Sekai_wo_Tsunagu☆Nijiiro_no_Hana)*
     
