@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana
+  <strong>🥭 <u>Title:</u></strong> Yuukoku no Moriarty
 </h4>
 
-<h4>🌿 <u>English Title:</u> null</h4>
+<h4>🌿 <u>English Title:</u> Moriarty the Patriot</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1539/94597.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1464/108330.jpg />
 
-<h4>🌱 Score: 7.51/10</h4>
+<h4>🌱 Score: 8.17/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2011</h4>
+<h4>🌴 Aired: 2020</h4>
 
-<h4>🌵 Genres: Action</h4>
+<h4>🌵 Genres: Mystery, Suspense</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 11</h4>
 
-<h4>🍏 Rating: G - All Ages</h4>
+<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
 
 <br />
 
-🍂 *More information: [Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana](https://myanimelist.net/anime/9979/Precure_All_Stars_Movie_DX3__Mirai_ni_Todoke_Sekai_wo_Tsunagu☆Nijiiro_no_Hana)*
+🍂 *More information: [Yuukoku no Moriarty](https://myanimelist.net/anime/40911/Yuukoku_no_Moriarty)*
     
