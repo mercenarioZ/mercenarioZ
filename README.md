@@ -39,26 +39,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Yuukoku no Moriarty
+  <strong>🥭 <u>Title:</u></strong> Sousou no Frieren
 </h4>
 
-<h4>🌿 <u>English Title:</u> Moriarty the Patriot</h4>
+<h4>🌿 <u>English Title:</u> Frieren: Beyond Journey's End</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1464/108330.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1015/138006.jpg />
 
-<h4>🌱 Score: 8.17/10</h4>
+<h4>🌱 Score: 9.26/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2020</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Mystery, Suspense</h4>
+<h4>🌵 Genres: Adventure, Award Winning, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: 11</h4>
+<h4>🥑 Episodes: 28</h4>
 
-<h4>🍏 Rating: R - 17+ (violence & profanity)</h4>
+<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Yuukoku no Moriarty](https://myanimelist.net/anime/40911/Yuukoku_no_Moriarty)*
-    
+🍂 *More information: [Sousou no Frieren](https://myanimelist.net/anime/52991/Sousou_no_Frieren)*
+

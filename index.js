@@ -2,6 +2,7 @@ import { getHighRateAnime } from "./actions/getHighRateAnime.js";
 import { writeFileForAnime } from "./actions/writeFileForAnime.js";
 
 const run = async () => {
+  const anime = await getHighRateAnime();
   const {
     title,
     englishTitle,
@@ -13,9 +14,11 @@ const run = async () => {
     startDate,
     genres,
     imageSrc
-  } = await getHighRateAnime();
+  } = anime;
 
-  if (!title || !score) return;
+  if (!title || !score) {
+    throw new Error("Anime fetch completed without a title or score");
+  }
 
   console.log({
     title,
@@ -46,4 +49,7 @@ const run = async () => {
   });
 };
 
-run();
+run().catch((error) => {
+  console.error(error);
+  process.exitCode = 1;
+});

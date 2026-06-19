@@ -1,34 +1,21 @@
 import fs from "fs";
 
-export const writeFileForAnime = (data) => {
-  fs.writeFileSync(
-    "README.md",
+const README_PATH = "README.md";
+const ANIME_SECTION_HEADING =
+  '<h2 align="center">There\'s always a good anime to watch every day 😀</h2>';
 
-    `
-<img src="svg/nai.svg" />
+const getReadmeIntro = () => {
+  if (!fs.existsSync(README_PATH)) return "";
 
-<br />
+  const readme = fs.readFileSync(README_PATH, "utf8");
+  const animeSectionIndex = readme.indexOf(ANIME_SECTION_HEADING);
 
-<h3>Hi, my name is <strong>Le Ba Nguyen Vu</strong>.</h3>
- 📬 E-mail: \`vunainguyen2002@gmail.com\` \`funnystar320@gmail.com\`
+  if (animeSectionIndex === -1) return readme.trimEnd();
 
+  return readme.slice(0, animeSectionIndex).trimEnd();
+};
 
-<h3>Socials</h3>
-<a target="_blank" href="https://instagram.com/vu.le1352"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,tailwind,spring,docker&theme=dark" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php&theme=dark" />
-  </a>
-</p>
-
-<br />
-
-<h2 align="center">There's always a good anime to watch every day 😀</h2>
+const buildAnimeSection = (data) => `${ANIME_SECTION_HEADING}
 
 <blockquote>
 <i>
@@ -59,6 +46,11 @@ export const writeFileForAnime = (data) => {
 <br />
 
 🍂 *More information: [${data.title}](${data.url})*
-    `
-  );
+`;
+
+export const writeFileForAnime = (data) => {
+  const intro = getReadmeIntro();
+  const animeSection = buildAnimeSection(data);
+
+  fs.writeFileSync(README_PATH, `${intro}\n\n${animeSection}\n`);
 };
