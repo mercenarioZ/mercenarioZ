@@ -8,17 +8,15 @@
 - 📬 E-mail: `vunainguyen2002@gmail.com`
 
 <p>
-  <h2>Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,express,react,nodejs,bootstrap,tailwind,laravel,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,dotnet,mongodb,spring,react,nodejs,bootstrap,tailwind,laravel,docker,aws&theme=dark" />
   </a>
 
   <br />
 
-  <h2>Programming Languages</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,php&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,typescript,html,css,c,cs,php,golang&theme=dark" />
   </a>
 </p>
 
