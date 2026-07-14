@@ -31,26 +31,26 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sousou no Frieren
+  <strong>🥭 <u>Title:</u></strong> Gintama
 </h4>
 
-<h4>🌿 <u>English Title:</u> Frieren: Beyond Journey's End</h4>
+<h4>🌿 <u>English Title:</u> Gintama</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/1015/138006.jpg />
+<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/73274.jpg />
 
-<h4>🌱 Score: 9.26/10</h4>
+<h4>🌱 Score: 8.93/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2006</h4>
 
-<h4>🌵 Genres: Adventure, Award Winning, Drama, Fantasy</h4>
+<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
 
-<h4>🥑 Episodes: 28</h4>
+<h4>🥑 Episodes: More than 100</h4>
 
 <h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
 
 <br />
 
-🍂 *More information: [Sousou no Frieren](https://myanimelist.net/anime/52991/Sousou_no_Frieren)*
+🍂 *More information: [Gintama](https://myanimelist.net/anime/918/Gintama)*
 
