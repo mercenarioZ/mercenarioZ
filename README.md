@@ -9,14 +9,14 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,mongodb,postgresql,spring,react,nodejs,bootstrap,tailwind,laravel,docker,aws&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dotnet,mongodb,postgresql,spring,react,nodejs,tailwind,docker,aws&theme=dark" />
   </a>
 
   <br />
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,typescript,html,css,c,cs,php,golang&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,typescript,c,cs,php,golang&theme=dark" />
   </a>
 </p>
 
