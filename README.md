@@ -2,19 +2,15 @@
 <img src="svg/nai.svg" />
 
 <br />
-
-<h3>Hi, my name is <strong>Le Ba Nguyen Vu</strong>.</h3>
-
 - 📬 E-mail: `vunainguyen2002@gmail.com`
-
+<br />
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,mongodb,postgresql,spring,react,nodejs,tailwind,docker,aws&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dotnet,mongodb,postgresql,spring,react,nodejs,tailwind,docker,aws, gin&theme=dark" />
   </a>
 
   <br />
-
-
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,typescript,c,cs,php,golang&theme=dark" />
   </a>
