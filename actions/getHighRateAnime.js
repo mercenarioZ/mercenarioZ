@@ -1,7 +1,43 @@
-const TOP_ANIME_URL = "https://api.jikan.moe/v4/top/anime";
-const MIN_SCORE = 7.5;
+const ANILIST_URL = "https://graphql.anilist.co";
+const MIN_SCORE = 75; // AniList scores are integers from 0 to 100
 const MAX_ATTEMPTS = 3;
-const TOP_PAGE = 1;
+const PAGE_SIZE = 50;
+const MAX_PAGE = 5;
+
+const FORMAT_LABELS = {
+  TV: "TV",
+  TV_SHORT: "TV Short",
+  MOVIE: "Movie",
+  SPECIAL: "Special",
+  OVA: "OVA",
+  ONA: "ONA",
+  MUSIC: "Music"
+};
+
+const RANDOM_HIGH_RATED_ANIME_QUERY = `
+  query ($page: Int, $perPage: Int) {
+    Page(page: $page, perPage: $perPage) {
+      media(type: ANIME, sort: SCORE_DESC, isAdult: false) {
+        title {
+          romaji
+          english
+          native
+        }
+        averageScore
+        episodes
+        format
+        genres
+        siteUrl
+        coverImage {
+          large
+        }
+        startDate {
+          year
+        }
+      }
+    }
+  }
+`;
 
 const wait = (milliseconds) =>
   new Promise((resolve) => setTimeout(resolve, milliseconds));
@@ -9,33 +45,39 @@ const wait = (milliseconds) =>
 const pickRandomItem = (items) =>
   items[Math.floor(Math.random() * items.length)];
 
+const pickRandomPage = () => 1 + Math.floor(Math.random() * MAX_PAGE);
+
 const formatAnime = (anime) => ({
-  title: anime.title,
-  englishTitle: anime.title_english || "N/A",
-  score: anime.score,
+  title:
+    anime.title?.romaji || anime.title?.english || anime.title?.native || "",
+  englishTitle: anime.title?.english || "N/A",
+  score: (anime.averageScore / 10).toFixed(1),
   episodeCount:
     anime.episodes == null
       ? "Unknown"
       : anime.episodes > 100
         ? "More than 100"
         : anime.episodes,
-  rating: anime.rating || "Unknown",
-  url: anime.url,
-  type: anime.type || "Unknown",
-  startDate: anime.aired?.prop?.from?.year || "Unknown",
-  genres: anime.genres?.map((genre) => genre.name).join(", ") || "Unknown",
-  imageSrc: anime.images?.jpg?.image_url || ""
+  url: anime.siteUrl,
+  type: anime.format ? FORMAT_LABELS[anime.format] || anime.format : "Unknown",
+  startDate: anime.startDate?.year || "Unknown",
+  genres: anime.genres?.length ? anime.genres.join(", ") : "Unknown",
+  imageSrc: anime.coverImage?.large || ""
 });
 
 export const getHighRateAnime = async () => {
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt += 1) {
     try {
-      const params = new URLSearchParams({
-        page: String(TOP_PAGE),
-        sfw: "true"
-      });
-      const response = await fetch(`${TOP_ANIME_URL}?${params}`, {
-        headers: { Accept: "application/json" },
+      const response = await fetch(ANILIST_URL, {
+        method: "POST",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          query: RANDOM_HIGH_RATED_ANIME_QUERY,
+          variables: { page: pickRandomPage(), perPage: PAGE_SIZE }
+        }),
         signal: AbortSignal.timeout(15000)
       });
 
@@ -43,14 +85,21 @@ export const getHighRateAnime = async () => {
         throw new Error(`${response.status} ${response.statusText}`);
       }
 
-      const data = await response.json();
+      const body = await response.json();
 
-      const candidates = (data.data || []).filter(
-        (anime) => anime.title && anime.url && anime.score >= MIN_SCORE
+      if (body.errors?.length) {
+        throw new Error(body.errors.map((error) => error.message).join("; "));
+      }
+
+      const candidates = (body.data?.Page?.media || []).filter(
+        (anime) =>
+          anime.title &&
+          anime.siteUrl &&
+          anime.averageScore >= MIN_SCORE
       );
 
       if (candidates.length === 0) {
-        throw new Error(`No anime found with a score above ${MIN_SCORE}`);
+        throw new Error(`No anime found with a score above ${MIN_SCORE}/100`);
       }
 
       return formatAnime(pickRandomItem(candidates));
@@ -58,7 +107,7 @@ export const getHighRateAnime = async () => {
       const message = error.message;
 
       if (attempt === MAX_ATTEMPTS) {
-        throw new Error(`Unable to fetch anime from Jikan: ${message}`);
+        throw new Error(`Unable to fetch anime from AniList: ${message}`);
       }
 
       console.warn(

@@ -41,8 +41,6 @@ const buildAnimeSection = (data) => `${ANIME_SECTION_HEADING}
 
 <h4>🥑 Episodes: ${data.episodeCount}</h4>
 
-<h4>🍏 Rating: ${data.rating}</h4>
-
 <br />
 
 🍂 *More information: [${data.title}](${data.url})*

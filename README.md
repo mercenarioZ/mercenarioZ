@@ -29,26 +29,24 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Gintama
+  <strong>🥭 <u>Title:</u></strong> Sousou no Frieren 2nd Season
 </h4>
 
-<h4>🌿 <u>English Title:</u> Gintama</h4>
+<h4>🌿 <u>English Title:</u> Frieren: Beyond Journey’s End Season 2</h4>
 
-<img align="right" width="170" src=https://cdn.myanimelist.net/images/anime/10/73274.jpg />
+<img align="right" width="170" src=https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg />
 
-<h4>🌱 Score: 8.93/10</h4>
+<h4>🌱 Score: 8.7/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2006</h4>
+<h4>🌴 Aired: 2026</h4>
 
-<h4>🌵 Genres: Action, Comedy, Sci-Fi</h4>
+<h4>🌵 Genres: Adventure, Drama, Fantasy</h4>
 
-<h4>🥑 Episodes: More than 100</h4>
-
-<h4>🍏 Rating: PG-13 - Teens 13 or older</h4>
+<h4>🥑 Episodes: 10</h4>
 
 <br />
 
-🍂 *More information: [Gintama](https://myanimelist.net/anime/918/Gintama)*
+🍂 *More information: [Sousou no Frieren 2nd Season](https://anilist.co/anime/182255)*
 
