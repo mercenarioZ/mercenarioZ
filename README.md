@@ -29,24 +29,24 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Sousou no Frieren 2nd Season
+  <strong>🥭 <u>Title:</u></strong> Shigatsu wa Kimi no Uso
 </h4>
 
-<h4>🌿 <u>English Title:</u> Frieren: Beyond Journey’s End Season 2</h4>
+<h4>🌿 <u>English Title:</u> Your lie in April</h4>
 
-<img align="right" width="170" src=https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg />
+<img align="right" width="170" src=https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20665-TLgkL8T8IRFd.png />
 
-<h4>🌱 Score: 8.7/10</h4>
+<h4>🌱 Score: 8.4/10</h4>
 
 <h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2026</h4>
+<h4>🌴 Aired: 2014</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Fantasy</h4>
+<h4>🌵 Genres: Drama, Music, Romance, Slice of Life</h4>
 
-<h4>🥑 Episodes: 10</h4>
+<h4>🥑 Episodes: 22</h4>
 
 <br />
 
-🍂 *More information: [Sousou no Frieren 2nd Season](https://anilist.co/anime/182255)*
+🍂 *More information: [Shigatsu wa Kimi no Uso](https://anilist.co/anime/20665)*
 
