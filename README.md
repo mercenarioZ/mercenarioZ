@@ -11,24 +11,24 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Kaoru Hana wa Rin to Saku
+  <strong>🥭 <u>Title:</u></strong> Shiguang Dailiren III Part 1
 </h4>
 
-<h4>🌿 <u>English Title:</u> The Fragrant Flower Blooms With Dignity</h4>
+<h4>🌿 <u>English Title:</u> Link Click Season 3 Part 1</h4>
 
-<img align="right" width="170" src=https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181444-Ut9DDUZdfHwg.jpg />
+<img align="right" width="170" src=https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png />
 
-<h4>🌱 Score: 8.4/10</h4>
+<h4>🌱 Score: 8.5/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2025</h4>
+<h4>🌴 Aired: 2026</h4>
 
-<h4>🌵 Genres: Comedy, Drama, Romance</h4>
+<h4>🌵 Genres: Drama, Mystery, Supernatural, Thriller</h4>
 
-<h4>🥑 Episodes: 13</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <br />
 
-🍂 *More information: [Kaoru Hana wa Rin to Saku](https://anilist.co/anime/181444)*
+🍂 *More information: [Shiguang Dailiren III Part 1](https://anilist.co/anime/191832)*
 
