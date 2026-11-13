@@ -11,24 +11,24 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> BLUE GIANT
+  <strong>🥭 <u>Title:</u></strong> Mushoku Tensei III: Isekai Ittara Honki Dasu
 </h4>
 
-<h4>🌿 <u>English Title:</u> Blue Giant</h4>
+<h4>🌿 <u>English Title:</u> Mushoku Tensei: Jobless Reincarnation Season 3</h4>
 
-<img align="right" width="170" src=https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140499-Yr7YLk6suS0K.jpg />
+<img align="right" width="170" src=https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178789-hNXjKFzUq7mk.jpg />
 
-<h4>🌱 Score: 8.3/10</h4>
+<h4>🌱 Score: 8.6/10</h4>
 
-<h4>🌲 Type: Movie</h4>
+<h4>🌲 Type: TV</h4>
 
-<h4>🌴 Aired: 2023</h4>
+<h4>🌴 Aired: 2026</h4>
 
-<h4>🌵 Genres: Drama, Music</h4>
+<h4>🌵 Genres: Adventure, Drama, Ecchi, Fantasy</h4>
 
-<h4>🥑 Episodes: 1</h4>
+<h4>🥑 Episodes: 14</h4>
 
 <br />
 
-🍂 *More information: [BLUE GIANT](https://anilist.co/anime/140499)*
+🍂 *More information: [Mushoku Tensei III: Isekai Ittara Honki Dasu](https://anilist.co/anime/178789)*
 
