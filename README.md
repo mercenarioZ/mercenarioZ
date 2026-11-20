@@ -11,24 +11,24 @@
 </blockquote>
 
 <h4>
-  <strong>🥭 <u>Title:</u></strong> Mushoku Tensei III: Isekai Ittara Honki Dasu
+  <strong>🥭 <u>Title:</u></strong> Tian Guan Ci Fu 2
 </h4>
 
-<h4>🌿 <u>English Title:</u> Mushoku Tensei: Jobless Reincarnation Season 3</h4>
+<h4>🌿 <u>English Title:</u> Heaven Official's Blessing Season 2</h4>
 
-<img align="right" width="170" src=https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178789-hNXjKFzUq7mk.jpg />
+<img align="right" width="170" src=https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127976-zmag82H3ygcI.jpg />
 
 <h4>🌱 Score: 8.6/10</h4>
 
-<h4>🌲 Type: TV</h4>
+<h4>🌲 Type: ONA</h4>
 
-<h4>🌴 Aired: 2026</h4>
+<h4>🌴 Aired: 2023</h4>
 
-<h4>🌵 Genres: Adventure, Drama, Ecchi, Fantasy</h4>
+<h4>🌵 Genres: Adventure, Drama, Fantasy, Romance</h4>
 
-<h4>🥑 Episodes: 14</h4>
+<h4>🥑 Episodes: 12</h4>
 
 <br />
 
-🍂 *More information: [Mushoku Tensei III: Isekai Ittara Honki Dasu](https://anilist.co/anime/178789)*
+🍂 *More information: [Tian Guan Ci Fu 2](https://anilist.co/anime/127976)*
 
